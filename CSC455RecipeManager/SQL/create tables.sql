@@ -2,8 +2,8 @@
 CREATE TABLE Users (UserId INT NOT NULL,
 					Username VARCHAR(20) NOT NULL,
 					PassHash VARCHAR(30) NOT NULL,
-					Salt CHAR (60)
-					PRIMARY KEY(UserId)
+					Salt CHAR (60),
+					PRIMARY KEY(UserId),
 					INDEX(Username(20)) ENGINE=INNODB;
 
 							

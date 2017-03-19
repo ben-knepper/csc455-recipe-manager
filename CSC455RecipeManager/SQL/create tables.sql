@@ -1,3 +1,13 @@
+drop table IF EXISTS Conversion;
+drop table IF EXISTS ShoppingLists;
+drop table IF EXISTS Pantries;
+drop table IF EXISTS RecipesLists;
+drop table IF EXISTS RecipesPart;
+drop table IF EXISTS Measurements;
+drop table IF EXISTS Ingredient;
+drop table IF EXISTS Recipes;
+drop table IF EXISTS Users;
+
 
 CREATE TABLE Users (UserId INT NOT NULL,
 					Username VARCHAR(20) NOT NULL,
@@ -8,10 +18,12 @@ CREATE TABLE Users (UserId INT NOT NULL,
 							
 CREATE TABLE Recipes (RecipeId INT NOT NULL,
 					  RecipeName VARCHAR(20),
+					  Servings INT,
+					  Time TEXT,
 					  Desciprtion TEXT,
 					  Instruction TEXT,
 					  DateCreated DATE,
-					  Image VARCHAR(50),
+					  Image BLOB,
 					  Meal VARCHAR(15),
 					  Culture VARCHAR(20),
 					  PRIMARY KEY(RecipeId)) ENGINE=INNODB;
@@ -19,7 +31,7 @@ CREATE TABLE Recipes (RecipeId INT NOT NULL,
 
 					  
 CREATE TABLE Ingredients (IngId INT NOT NULL,
-						  IngName vARCHAR(30),
+						  IngName VARCHAR(30),
 						  PRIMARY KEY(IngId))ENGINE=INNODB;
 									  
 

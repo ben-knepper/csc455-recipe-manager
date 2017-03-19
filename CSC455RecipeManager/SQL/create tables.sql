@@ -2,9 +2,9 @@ drop table IF EXISTS Conversion;
 drop table IF EXISTS ShoppingLists;
 drop table IF EXISTS Pantries;
 drop table IF EXISTS RecipesLists;
-drop table IF EXISTS RecipesPart;
+drop table IF EXISTS RecipesParts;
 drop table IF EXISTS Measurements;
-drop table IF EXISTS Ingredient;
+drop table IF EXISTS Ingredients;
 drop table IF EXISTS Recipes;
 drop table IF EXISTS Users;
 

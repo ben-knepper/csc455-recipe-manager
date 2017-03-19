@@ -12,27 +12,28 @@ drop table IF EXISTS Users;
 CREATE TABLE Users (UserId INT NOT NULL,
 					Username VARCHAR(20) NOT NULL,
 					PassHash VARCHAR(30) NOT NULL,
-					Salt CHAR (32)
-					PRIMARY KEY(UserId)) ENGINE=INNODB;
+					Salt CHAR (60),
+					PRIMARY KEY(UserId),
+					INDEX(Username(20)) ENGINE=INNODB;
 
 							
 CREATE TABLE Recipes (RecipeId INT NOT NULL,
-					  RecipeName VARCHAR(20),
-					  Servings INT,
-					  Time TEXT,
-					  Desciprtion TEXT,
+					  RecipeName VARCHAR(50),
+					  Description TEXT,
 					  Instruction TEXT,
+					  Yield VARCHAR(50),
 					  DateCreated DATE,
 					  Image BLOB,
 					  Meal VARCHAR(15),
 					  Culture VARCHAR(20),
-					  PRIMARY KEY(RecipeId)) ENGINE=INNODB;
-
+					  PRIMARY KEY(RecipeId),
+					  INDEX(RecipeName(10)) ENGINE=INNODB;
 
 					  
-CREATE TABLE Ingredients (IngId INT NOT NULL,
-						  IngName VARCHAR(30),
-						  PRIMARY KEY(IngId))ENGINE=INNODB;
+CREATE TABLE Ingredients (IngName CHAR(50) NOT NULL,
+						  PreferredMeasure INT,
+						  PRIMARY KEY(IngName),
+						  FOREIGN KEY(PreferredMeasure) REFERENCES Recipes(RecipeId))ENGINE=INNODB;
 									  
 
 CREATE TABLE Measurements (MeasureId INT NOT NULL,
@@ -41,12 +42,13 @@ CREATE TABLE Measurements (MeasureId INT NOT NULL,
 						PRIMARY KEY(MeasureId))ENGINE=INNODB;
 
 									  
-CREATE TABLE RecipesParts(RecipeId INT NOT NULL,
+CREATE TABLE RecipeParts(RecipeId INT NOT NULL,
 					  PartNo INT,
-					  IngId INT,
+					  IngName CHAR(50),
 					  PartAmount DECIMAL(10,2),
 					  MeasureId INT,
-					  PRIMARY KEY (RecipeId,PartNo),
+					  Text VARCHAR(50),
+					  PRIMARY KEY (RecipeId, PartNo),
 					  FOREIGN KEY (RecipeId) REFERENCES Receipes(RecipeId),
 					  FOREIGN kEY (IngId) REFERENCES Receipes(IngId)) ENGINE=INNODB;
 
@@ -56,8 +58,9 @@ CREATE TABLE RecipesLists (UserId INT,
 							PRIMARY KEY (UserId),
 							FOREIGN kEY (RecipeId) REFERENCES Receipes(RecipeId))ENGINE=INNODB;
 
+
 CREATE TABLE Pantries( UserId INT,
-						IngId INT,
+						IngName CHAR(50),
 						PantryAmount INT,
 						MeasureId INT,
 						PRIMARY KEY(UserId), 
@@ -65,16 +68,13 @@ CREATE TABLE Pantries( UserId INT,
 						FOREIGN KEY(MeasureId)REFERENCES Measurements(MeasureId))ENGINE=INNODB;
 
 
-
 CREATE TABLE ShoppingLists(UserId INT,
-						IngId INT,
+						IngName CHAR(50),
 						PantryAmount INT,
 						MeasureId INT,
 						PRIMARY KEY(UserId),
 						FOREIGN KEY(MeasureId)REFERENCES Measurements(MeasureId),
 						FOREIGN KEY (IngId) REFERENCES Receipes(IngId))ENGINE=INNODB;
-						
-					
 
 						
 CREATE TABLE Conversions(OldMeasure INT,

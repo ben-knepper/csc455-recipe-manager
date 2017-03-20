@@ -1,8 +1,8 @@
-DROP TABLE IF EXISTS Conversion;
+DROP TABLE IF EXISTS Conversions;
 DROP TABLE IF EXISTS ShoppingLists;
 DROP TABLE IF EXISTS Pantries;
-DROP TABLE IF EXISTS RecipesLists;
-DROP TABLE IF EXISTS RecipesParts;
+DROP TABLE IF EXISTS RecipeLists;
+DROP TABLE IF EXISTS RecipeParts;
 DROP TABLE IF EXISTS Ingredients;
 DROP TABLE IF EXISTS Measurements;
 DROP TABLE IF EXISTS Recipes;
@@ -37,9 +37,9 @@ CREATE TABLE Measurements (MeasureName CHAR(15) NOT NULL,
 
 					  
 CREATE TABLE Ingredients (IngName CHAR(50) NOT NULL,
-						  PreferredMeasure INT,
+						  PreferredMeasure CHAR(15),
 						  PRIMARY KEY(IngName),
-						  FOREIGN KEY(PreferredMeasure) REFERENCES Measurements(MeasureId))
+						  FOREIGN KEY(PreferredMeasure) REFERENCES Measurements(MeasureName))
 						  ENGINE=INNODB;
 
 									  
@@ -66,27 +66,27 @@ CREATE TABLE RecipeLists (UserId INT NOT NULL,
 CREATE TABLE Pantries( UserId INT NOT NULL,
 						IngName CHAR(50) NOT NULL,
 						PantryAmount INT,
-						MeasureId INT,
+						MeasureName CHAR(15),
 						PRIMARY KEY(UserId), 
 						FOREIGN KEY (IngName) REFERENCES Ingredients(IngName),
-						FOREIGN KEY(MeasureId) REFERENCES Measurements(MeasureId))
+						FOREIGN KEY(MeasureName) REFERENCES Measurements(MeasureName))
 						ENGINE=INNODB;
 
 
 CREATE TABLE ShoppingLists(UserId INT NOT NULL,
 						IngName CHAR(50) NOT NULL,
 						PantryAmount INT,
-						MeasureId INT,
+						MeasureName CHAR(15),
 						PRIMARY KEY(UserId),
-						FOREIGN KEY(MeasureId)REFERENCES Measurements(MeasureId),
+						FOREIGN KEY(MeasureName)REFERENCES Measurements(MeasureName),
 						FOREIGN KEY (IngName) REFERENCES Ingredients(IngName))
 						ENGINE=INNODB;
 
 						
-CREATE TABLE Conversions(OldMeasure INT NOT NULL,
-						NewMeasure INT NOT NULL,
+CREATE TABLE Conversions(OldMeasure CHAR(15) NOT NULL,
+						NewMeasure CHAR(15) NOT NULL,
 						ConvRate INT,
 						PRIMARY KEY(OldMeasure,NewMeasure),
-						FOREIGN KEY(OldMeasure) REFERENCES Measurements(MeasureId),
-						FOREIGN KEY(NewMeasure) REFERENCES Measurements(MeasureId))
+						FOREIGN KEY(OldMeasure) REFERENCES Measurements(MeasureName),
+						FOREIGN KEY(NewMeasure) REFERENCES Measurements(MeasureName))
 						ENGINE=INNODB;

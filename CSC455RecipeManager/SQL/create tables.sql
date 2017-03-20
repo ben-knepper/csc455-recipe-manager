@@ -1,12 +1,12 @@
-DROP TABLE Conversions;
-DROP TABLE ShoppingLists;
-DROP TABLE Pantries;
-DROP TABLE RecipeLists;
-DROP TABLE RecipeParts;
-DROP TABLE Ingredients;
-DROP TABLE Measurements;
-DROP TABLE Recipes;
-DROP TABLE Users;
+DROP TABLE IF EXISTS Conversion;
+DROP TABLE IF EXISTS ShoppingLists;
+DROP TABLE IF EXISTS Pantries;
+DROP TABLE IF EXISTS RecipesLists;
+DROP TABLE IF EXISTS RecipesParts;
+DROP TABLE IF EXISTS Ingredients;
+DROP TABLE IF EXISTS Measurements;
+DROP TABLE IF EXISTS Recipes;
+DROP TABLE IF EXISTS Users;
 
 
 CREATE TABLE Users (UserId INT NOT NULL,
@@ -23,7 +23,7 @@ CREATE TABLE Recipes (RecipeId INT NOT NULL,
 					  Instruction TEXT,
 					  Yield VARCHAR(50),
 					  DateCreated DATE,
-					  Image VARCHAR(50),
+					  Image BLOB,
 					  Meal VARCHAR(15),
 					  Culture VARCHAR(20),
 					  PRIMARY KEY(RecipeId))

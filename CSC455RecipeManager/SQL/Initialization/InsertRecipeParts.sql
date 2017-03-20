@@ -1,281 +1,328 @@
 INSERT INTO RecipeParts VALUES (
 	122549,
+	0,
 	"apple juice",
 	0.5,
 	"cup",
 	"1/2 cup apple juice");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	1,
 	"butter",
 	2,
 	"tablespoons",
 	"2 tablespoons butter, divided");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	2,
 	"chicken broth",
 	0.75,
 	"cup",
 	"3/4 cup chicken broth");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	3,
 	"eggs",
 	2,
 	"",
 	"2 eggs");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	4,
 	"flour",
 	5,
 	"tablespoons",
 	"5 tablespoons all-purpose flour, divided");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	5,
 	"fresh parsley",
 	1,
 	"tablespoon",
 	"1 tablespoon minced fresh parsley");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	6,
 	"lemon juice",
 	1,
 	"tablespoon",
 	"1 tablespoon lemon juice");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	7,
 	"olive oil",
 	1,
 	"tablespoon",
 	"1 tablespoon olive oil");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	8,
 	"parmesan cheese",
 	0.25,
 	"cup",
 	"1/4 cup grated Parmesan cheese");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	9,
 	"pepper",
 	0.5,
 	"teaspoon",
 	"1/2 teaspoon pepper, divided");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	10,
 	"salt",
 	0.75,
 	"teaspoon",
 	"3/4 teaspoon salt, divided");
 INSERT INTO RecipeParts VALUES (
 	122549,
+	11,
 	"skinless boneless chicken breast halves",
 	10,
 	"ounces",
 	"2 boneless skinless chicken breast halves (5 ounces each)");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	0,
 	"beef consomme",
 	0.25,
 	"cup",
 	"1/4 cup beef consomme");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	1,
 	"fresh parsley",
 	2,
 	"tablespoons",
 	"2 tablespoons chopped fresh parsley");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	2,
 	"green onions",
 	0.25,
 	"cup",
 	"1/4 cup chopped green onions");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	3,
 	"ground red pepper",
 	1,
 	"teaspoon",
 	"1 teaspoon ground black pepper");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	4,
 	"potatoes",
 	9,
 	"",
 	"9 potatoes");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	5,
 	"salt",
 	1,
 	"teaspoon",
 	"1 teaspoon salt");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	6,
 	"tarragon vinegar",
 	0.25,
 	"cup",
 	"1/4 cup tarragon vinegar");
 INSERT INTO RecipeParts VALUES (
 	425417,
+	7,
 	"vegetable oil",
 	0.5,
 	"cup",
 	"1/2 cup vegetable oil");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	0,
 	"butter",
 	0.3333333,
 	"cup",
 	"1/3 cup butter, melted");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	1,
 	"cornmeal",
 	2,
 	"cups",
 	"2 cups yellow self-rising cornmeal");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	2,
 	"eggs",
 	2,
 	"",
 	"2 large eggs, lightly beaten");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	3,
 	"flour",
 	1,
 	"cup",
 	"1 cup all-purpose flour");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	4,
 	"ground red pepper",
 	0.25,
 	"teaspoon",
 	"1/4 teaspoon ground red pepper");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	5,
 	"milk",
 	1.5,
 	"cups",
 	"1 1/2 cups milk");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	6,
 	"rye meal",
 	30,
 	"servings",
 	"Try Build-A-Meal");
 INSERT INTO RecipeParts VALUES (
 	363752,
+	7,
 	"sugar",
 	1,
 	"tablespoon",
 	"1 tablespoon sugar");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	0,
 	"butter",
 	1.5,
 	"sticks",
 	"1½ sticks of butter, softened (approximately 150 gm)");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	1,
 	"cream cheese",
 	8,
 	"oz",
 	"8 oz. cream cheese, softened");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	2,
 	"egg",
 	1,
 	"",
 	"1 egg white and sugar for the tops of the cookies");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	3,
 	"egg yolk",
 	1,
 	"",
 	"1 egg yolk");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	4,
 	"flour",
 	2,
 	"cups",
 	"2 cups flour");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	5,
 	"granny smith apples",
 	6,
 	"",
 	"6 large Granny Smith apples");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	6,
 	"juice of lemon",
 	1,
 	"",
 	"juice from 1 lemon");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	7,
 	"sugar",
 	0.5,
 	"",
 	"½ - ¾ cup sugar");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	8,
 	"vanilla",
 	2,
 	"teaspoons",
 	"2 teaspoons vanilla");
 INSERT INTO RecipeParts VALUES (
 	485396,
+	9,
 	"water",
 	2,
 	"Tablespoons",
 	"2 Tablespoons water");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	0,
 	"brown sugar",
 	1,
 	"tablespoon",
 	"1 tablespoon brown sugar");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	1,
 	"dark sesame oil",
 	1,
 	"teaspoon",
 	"1 teaspoon dark sesame oil");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	2,
 	"low sodium soy sauce",
 	2,
 	"tablespoons",
 	"2 tablespoons low-sodium soy sauce");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	3,
 	"onions",
 	2,
 	"tablespoons",
 	"2 tablespoons thinly diagonally sliced green onions");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	4,
 	"orange juice",
 	2,
 	"tablespoons",
 	"2 tablespoons fresh orange juice");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	5,
 	"orange rind",
 	0.25,
 	"teaspoon",
 	"1/4 teaspoon grated orange rind");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	6,
 	"seasoned rice vinegar",
 	3,
 	"tablespoons",
 	"3 tablespoons seasoned rice vinegar");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	7,
 	"sesame seeds",
 	0.5,
 	"teaspoon",
 	"1/2 teaspoon sesame seeds, toasted");
 INSERT INTO RecipeParts VALUES (
 	205281,
+	8,
 	"tofu",
 	12,
 	"ounce",

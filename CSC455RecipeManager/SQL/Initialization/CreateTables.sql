@@ -9,10 +9,10 @@ DROP TABLE IF EXISTS Recipes;
 DROP TABLE IF EXISTS Users;
 
 
-CREATE TABLE Users (UserId INT NOT NULL,
+CREATE TABLE Users (UserId INT NOT NULL AUTO_INCREMENT,
 					Username VARCHAR(20) NOT NULL,
-					PassHash VARCHAR(30) NOT NULL,
-					Salt CHAR (60),
+					PassHash CHAR(20) NOT NULL,
+					Salt CHAR (20),
 					PRIMARY KEY(UserId))
 					ENGINE=INNODB;
 
@@ -22,7 +22,6 @@ CREATE TABLE Recipes (RecipeId INT NOT NULL,
 					  Description TEXT,
 					  Instruction TEXT,
 					  Yield VARCHAR(50),
-					  DateCreated DATE,
 					  Image BLOB,
 					  Meal VARCHAR(15),
 					  Culture VARCHAR(20),

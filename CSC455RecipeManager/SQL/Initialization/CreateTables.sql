@@ -30,10 +30,9 @@ CREATE TABLE Recipes (RecipeId INT NOT NULL,
 					  ENGINE=INNODB;
 									  
 
-CREATE TABLE Measurements (MeasureId INT NOT NULL,
-						MeasureAbbr CHAR(15),
-						MeasureName Char(15),
-						PRIMARY KEY(MeasureId))
+CREATE TABLE Measurements (MeasureName CHAR(15) NOT NULL,
+						MeasureAbbr VARCHAR(15),
+						PRIMARY KEY(MeasureName))
 						ENGINE=INNODB;
 
 					  
@@ -48,11 +47,12 @@ CREATE TABLE RecipeParts(RecipeId INT NOT NULL,
 					  PartNo INT NOT NULL,
 					  IngName CHAR(50) NOT NULL,
 					  PartAmount DECIMAL(10,2),
-					  MeasureId INT,
+					  MeasureName CHAR(15),
 					  Text VARCHAR(50),
 					  PRIMARY KEY (RecipeId, PartNo),
 					  FOREIGN KEY (RecipeId) REFERENCES Recipes(RecipeId),
-					  FOREIGN KEY (IngName) REFERENCES Ingredients(IngName))
+					  FOREIGN KEY (IngName) REFERENCES Ingredients(IngName),
+					  FOREIGN KEY (MeasureName) REFERENCES Measurements(MeasureName))
 					  ENGINE=INNODB;
 
 

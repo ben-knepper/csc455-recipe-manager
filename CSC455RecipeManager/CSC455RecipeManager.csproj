@@ -244,8 +244,12 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
-    <Content Include="SQL\insert data.sql" />
-    <Content Include="SQL\create tables.sql" />
+    <Content Include="SQL\Triggers\CreateRecipeTriggers.sql" />
+    <Content Include="SQL\Initialization\InsertData.sql" />
+    <Content Include="SQL\Initialization\CreateTables.sql" />
+    <Content Include="SQL\Initialization\InsertMeasurements.txt" />
+    <Content Include="SQL\Initialization\InsertRecipeParts.txt" />
+    <Content Include="SQL\Initialization\InsertRecipes.txt" />
     <Content Include="SQL\StoredProcedures\SearchByCulture.sql" />
     <Content Include="SQL\StoredProcedures\SearchByIngs.sql" />
     <Content Include="SQL\StoredProcedures\SearchByName.sql" />

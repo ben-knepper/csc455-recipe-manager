@@ -16,41 +16,80 @@ namespace RecipeDataPopulator
     {
         static HttpClient _client = new HttpClient();
         static string _getPath = "recipes/{id}/information?includeNutrition=false";
-        static string _rawDataPath = "raw_recipes.txt";
-        static string _sqlInsertsPath = "insert_recipes.txt";
+        static string _rawDataPath = "RawRecipes.txt";
+        static string _sqlInsertRecipesPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipes.txt";
+        static string _sqlInsertRecipePartsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipeParts.txt";
+        static string _sqlInsertMeasurementsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertMeasurements.txt";
         static int _maxId = 500000;
 
         static void Main(string[] args)
         {
-            InitClient();
-            Task<Recipe> task = GetRecipeAsync(MakeGetRecipePath(479101));
-            task.Wait();
-            Recipe recipe = task.Result;
+            ExtractRecipes(100);
+
+            Console.WriteLine("\nDone");
 
             Console.ReadKey();
         }
 
-        static string ExtractRecipes(int count)
+        static void ExtractRecipes(int count)
         {
             InitClient();
             Random random = new Random();
-            StreamWriter sqlInsertWriter = new StreamWriter(_sqlInsertsPath, true);
-            StreamWriter rawDataWriter = new StreamWriter(_rawDataPath, true);
 
+            //Regex firstAttrRegex = new Regex("VALUES \\(\\s*(\\d+)");
             int recipeId = 0;
             List<int> usedIds = new List<int>();
-            using (StreamReader reader = new StreamReader(_sqlInsertsPath))
+            if (File.Exists(_sqlInsertRecipesPath))
             {
-                Regex idRegex = new Regex("VALUES \\((\\d)+");
-                while (!reader.EndOfStream)
+                using (StreamReader reader = new StreamReader(_sqlInsertRecipesPath))
                 {
-                    string line = reader.ReadLine();
-                    Match match = idRegex.Match(line);
-                    recipeId = Int32.Parse(match.Captures[0].Value);
-                    usedIds.Add(recipeId);
+                    bool nextIsId = false;
+                    Regex idRegex = new Regex("\\d+");
+                    while (!reader.EndOfStream)
+                    {
+                        string line = reader.ReadLine();
+                        if (nextIsId)
+                        {
+                            recipeId = Int32.Parse(idRegex.Match(line).Value);
+                            usedIds.Add(recipeId);
+                            nextIsId = false;
+                        }
+                        else if (line.StartsWith("INSERT INTO "))
+                        {
+                            nextIsId = true;
+                        }
+                    }
                 }
             }
-            
+            List<string> measureNames = new List<string>();
+            if (File.Exists(_sqlInsertMeasurementsPath))
+            {
+                using (StreamReader reader = new StreamReader(_sqlInsertMeasurementsPath))
+                {
+                    bool nextIsName = false;
+                    Regex nameRegex = new Regex("\\w+");
+                    while (!reader.EndOfStream)
+                    {
+                        string line = reader.ReadLine();
+                        if (nextIsName)
+                        {
+                            string name = nameRegex.Match(line).Value;
+                            measureNames.Add(name);
+                            nextIsName = false;
+                        }
+                        else if (line.StartsWith("INSERT INTO "))
+                        {
+                            nextIsName = true;
+                        }
+                    }
+                }
+            }
+
+            StreamWriter insertRecipesWriter = new StreamWriter(_sqlInsertRecipesPath, true);
+            StreamWriter insertRecipePartsWriter = new StreamWriter(_sqlInsertRecipePartsPath, true);
+            StreamWriter insertMeasurementsWriter = new StreamWriter(_sqlInsertMeasurementsPath, true);
+            StreamWriter rawDataWriter = new StreamWriter(_rawDataPath, true);
+
             for (int i = 0; i < count; ++i)
             {
                 int id = random.Next(_maxId);
@@ -61,7 +100,14 @@ namespace RecipeDataPopulator
                 getRecipeTask.Wait();
                 Recipe recipe = getRecipeTask.Result;
 
-                string insertRecipeStatement = MakeInsertStatement("Recipes",
+                if (recipe == null)
+                {
+                    Console.WriteLine("<DOES NOT EXIST>");
+                    continue;
+                }
+
+                string insertRecipeStatement = MakeInsertStatement(
+                    "Recipes",
                     recipe.Id,
                     recipe.Title,
                     "NULL",
@@ -70,15 +116,45 @@ namespace RecipeDataPopulator
                     recipe.Image,
                     "NULL",
                     "NULL");
+                insertRecipesWriter.WriteLine(insertRecipeStatement);
                 foreach (ExtendedIngredient ingredient in recipe.ExtendedIngredients)
                 {
+                    if (!measureNames.Contains(ingredient.Unit))
+                    {
+                        string insertMeasurementStatement = MakeInsertStatement(
+                            "Measurements",
+                            ingredient.Unit,
+                            ingredient.UnitShort);
+                        insertMeasurementsWriter.WriteLine(insertMeasurementStatement);
+                        measureNames.Add(ingredient.Unit);
+                    }
 
+                    string insertRecipePartStatement = MakeInsertStatement(
+                        "RecipeParts",
+                        recipe.Id,
+                        ingredient.Name,
+                        ingredient.Amount,
+                        ingredient.Unit,
+                        ingredient.OriginalString);
+                    insertRecipePartsWriter.WriteLine(insertRecipePartStatement);
                 }
+                usedIds.Add(recipe.Id);
+
+                rawDataWriter.WriteLine();
+                DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(Recipe));
+                ser.WriteObject(rawDataWriter.BaseStream, recipe);
+
+                Console.WriteLine(recipe.Title);
+
+                insertRecipesWriter.Flush();
+                insertRecipePartsWriter.Flush();
+                insertMeasurementsWriter.Flush();
+                rawDataWriter.Flush();
             }
 
-            sqlInsertWriter.Flush();
-            sqlInsertWriter.Close();
-            rawDataWriter.Flush();
+            insertRecipesWriter.Close();
+            insertRecipePartsWriter.Close();
+            insertMeasurementsWriter.Close();
             rawDataWriter.Close();
         }
 
@@ -92,11 +168,21 @@ namespace RecipeDataPopulator
             StringBuilder statement = new StringBuilder("INSERT INTO " + table + " VALUES (");
             foreach (object value in values)
             {
+                statement.Append("\n\t");
                 if (value is string)
-                    statement.AppendFormat("\"{0}\"", value.ToString());
+                {
+                    if (String.Compare((string)value, 0, "NULL", 0, 5, true) == 0)
+                        statement.AppendFormat("NULL");
+                    else
+                        statement.AppendFormat("\"{0}\"", value?.ToString() ?? "NULL");
+                }
                 else
-                    statement.Append(value.ToString());
+                {
+                    statement.Append(value?.ToString() ?? "NULL");
+                }
+                statement.Append(",");
             }
+            statement.Remove(statement.Length - 1, 1);
             statement.Append(");");
 
             return statement.ToString();

@@ -1,73 +1,92 @@
+DROP TABLE IF EXISTS Conversion;
+DROP TABLE IF EXISTS ShoppingLists;
+DROP TABLE IF EXISTS Pantries;
+DROP TABLE IF EXISTS RecipesLists;
+DROP TABLE IF EXISTS RecipesParts;
+DROP TABLE IF EXISTS Ingredients;
+DROP TABLE IF EXISTS Measurements;
+DROP TABLE IF EXISTS Recipes;
+DROP TABLE IF EXISTS Users;
+
 
 CREATE TABLE Users (UserId INT NOT NULL,
 					Username VARCHAR(20) NOT NULL,
 					PassHash VARCHAR(30) NOT NULL,
-					Salt CHAR (32)
-					PRIMARY KEY(UserId)) ENGINE=INNODB;
+					Salt CHAR (60),
+					PRIMARY KEY(UserId))
+					ENGINE=INNODB;
 
 							
 CREATE TABLE Recipes (RecipeId INT NOT NULL,
-					  RecipeName VARCHAR(20),
-					  Desciprtion TEXT,
+					  RecipeName VARCHAR(50),
+					  Description TEXT,
 					  Instruction TEXT,
+					  Yield VARCHAR(50),
 					  DateCreated DATE,
-					  Image VARCHAR(50),
+					  Image BLOB,
 					  Meal VARCHAR(15),
 					  Culture VARCHAR(20),
-					  PRIMARY KEY(RecipeId)) ENGINE=INNODB;
-
-
-					  
-CREATE TABLE Ingredients (IngId INT NOT NULL,
-						  IngName vARCHAR(30),
-						  PRIMARY KEY(IngId))ENGINE=INNODB;
+					  PRIMARY KEY(RecipeId))
+					  ENGINE=INNODB;
 									  
 
 CREATE TABLE Measurements (MeasureId INT NOT NULL,
 						MeasureAbbr CHAR(15),
 						MeasureName Char(15),
-						PRIMARY KEY(MeasureId))ENGINE=INNODB;
+						PRIMARY KEY(MeasureId))
+						ENGINE=INNODB;
+
+					  
+CREATE TABLE Ingredients (IngName CHAR(50) NOT NULL,
+						  PreferredMeasure INT,
+						  PRIMARY KEY(IngName),
+						  FOREIGN KEY(PreferredMeasure) REFERENCES Measurements(MeasureId))
+						  ENGINE=INNODB;
 
 									  
-CREATE TABLE RecipesParts(RecipeId INT NOT NULL,
-					  PartNo INT,
-					  IngId INT,
+CREATE TABLE RecipeParts(RecipeId INT NOT NULL,
+					  PartNo INT NOT NULL,
+					  IngName CHAR(50) NOT NULL,
 					  PartAmount DECIMAL(10,2),
 					  MeasureId INT,
-					  PRIMARY KEY (RecipeId,PartNo),
-					  FOREIGN KEY (RecipeId) REFERENCES Receipes(RecipeId),
-					  FOREIGN kEY (IngId) REFERENCES Receipes(IngId)) ENGINE=INNODB;
+					  Text VARCHAR(50),
+					  PRIMARY KEY (RecipeId, PartNo),
+					  FOREIGN KEY (RecipeId) REFERENCES Recipes(RecipeId),
+					  FOREIGN KEY (IngName) REFERENCES Ingredients(IngName))
+					  ENGINE=INNODB;
 
 
-CREATE TABLE RecipesLists (UserId INT,  
-							RecipeId  INT,
+CREATE TABLE RecipeLists (UserId INT NOT NULL,  
+							RecipeId  INT NOT NULL,
 							PRIMARY KEY (UserId),
-							FOREIGN kEY (RecipeId) REFERENCES Receipes(RecipeId))ENGINE=INNODB;
+							FOREIGN KEY (RecipeId) REFERENCES Recipes(RecipeId))
+							ENGINE=INNODB;
 
-CREATE TABLE Pantries( UserId INT,
-						IngId INT,
+
+CREATE TABLE Pantries( UserId INT NOT NULL,
+						IngName CHAR(50) NOT NULL,
 						PantryAmount INT,
 						MeasureId INT,
 						PRIMARY KEY(UserId), 
-						FOREIGN KEY (IngId) REFERENCES Receipes(IngId),
-						FOREIGN KEY(MeasureId)REFERENCES Measurements(MeasureId))ENGINE=INNODB;
+						FOREIGN KEY (IngName) REFERENCES Ingredients(IngName),
+						FOREIGN KEY(MeasureId) REFERENCES Measurements(MeasureId))
+						ENGINE=INNODB;
 
 
-
-CREATE TABLE ShoppingLists(UserId INT,
-						IngId INT,
+CREATE TABLE ShoppingLists(UserId INT NOT NULL,
+						IngName CHAR(50) NOT NULL,
 						PantryAmount INT,
 						MeasureId INT,
 						PRIMARY KEY(UserId),
 						FOREIGN KEY(MeasureId)REFERENCES Measurements(MeasureId),
-						FOREIGN KEY (IngId) REFERENCES Receipes(IngId))ENGINE=INNODB;
-						
-					
+						FOREIGN KEY (IngName) REFERENCES Ingredients(IngName))
+						ENGINE=INNODB;
 
 						
-CREATE TABLE Conversions(OldMeasure INT,
-						NewMeasure INT,
+CREATE TABLE Conversions(OldMeasure INT NOT NULL,
+						NewMeasure INT NOT NULL,
 						ConvRate INT,
 						PRIMARY KEY(OldMeasure,NewMeasure),
 						FOREIGN KEY(OldMeasure) REFERENCES Measurements(MeasureId),
-						FOREIGN KEY(NewMeasure) REFERENCES Measurements(MeasureId))ENGINE=INNODB;
+						FOREIGN KEY(NewMeasure) REFERENCES Measurements(MeasureId))
+						ENGINE=INNODB;

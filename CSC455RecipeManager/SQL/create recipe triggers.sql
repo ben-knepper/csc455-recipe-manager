@@ -1,0 +1,8 @@
+DELIMITER //
+CREATE TRIGGER InsertRecipeIngredients BEFORE INSERT ON RecipeParts
+FOR EACH ROW BEGIN
+	IF NEW.IngName NOT IN (SELECT IngName FROM Ingredients) THEN
+		INSERT INTO Ingredients VALUES(NEW.IngName, NEW.MeasureId);
+	END IF;
+END;//
+DELIMITER ;

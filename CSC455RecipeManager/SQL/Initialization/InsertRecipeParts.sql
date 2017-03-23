@@ -6732,3 +6732,6520 @@ INSERT INTO RecipeParts VALUES (
 	8,
 	"ounce",
 	"1 (8-ounce) container sour cream");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	0,
+	"bacon",
+	4,
+	"strips",
+	"4 strips bacon");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	1,
+	"barbecue sauce",
+	2,
+	"tablespoons",
+	"2 tablespoons barbecue sauce");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	2,
+	"bulk pork sausage",
+	12,
+	"ounce",
+	"1 (12 ounce) package bulk pork breakfast sausage");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	3,
+	"egg",
+	1,
+	"",
+	"1 egg");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	4,
+	"fresh mushrooms",
+	6,
+	"",
+	"6 fresh mushrooms, chopped");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	5,
+	"garlic powder",
+	1,
+	"teaspoon",
+	"1 teaspoon garlic powder");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	6,
+	"ground beef",
+	1,
+	"pound",
+	"1 pound ground beef");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	7,
+	"ground red pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	8,
+	"instant oatmeal",
+	0.5,
+	"cup",
+	"1/2 cup instant oatmeal");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	9,
+	"red onion",
+	1,
+	"",
+	"1 red onion, chopped");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	10,
+	"shredded cheddar cheese",
+	1,
+	"cup",
+	"1 cup shredded Cheddar cheese");
+INSERT INTO RecipeParts VALUES (
+	470323,
+	11,
+	"worcestershire sauce",
+	2,
+	"teaspoons",
+	"2 teaspoons Worcestershire sauce");
+INSERT INTO RecipeParts VALUES (
+	53598,
+	0,
+	"cashews",
+	0.25,
+	"cup",
+	"1/4 cup toasted cashews, chopped");
+INSERT INTO RecipeParts VALUES (
+	53598,
+	1,
+	"clementines",
+	2,
+	"",
+	"2 tangerines or clementines, peel and pith removed, cut into slices");
+INSERT INTO RecipeParts VALUES (
+	53598,
+	2,
+	"fresh mint leaves",
+	0.25,
+	"cup",
+	"1/4 cup fresh mint leaves");
+INSERT INTO RecipeParts VALUES (
+	53598,
+	3,
+	"kiwis",
+	2,
+	"",
+	"2 kiwis, peeled and cut into slices");
+INSERT INTO RecipeParts VALUES (
+	53598,
+	4,
+	"sea salt",
+	4,
+	"servings",
+	"Sea salt");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	0,
+	"beef fillets",
+	24,
+	"ounce",
+	"4 (6-ounce) beef fillets, split in 1/2");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	1,
+	"pepper",
+	1,
+	"tablespoon",
+	"1 tablespoon black pepper");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	2,
+	"butter",
+	0.5,
+	"pound",
+	"1/2 pound butter, melted and warm");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	3,
+	"butter",
+	4,
+	"tablespoons",
+	"4 tablespoons butter, at room temperature");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	4,
+	"cayenne pepper",
+	1,
+	"pinch",
+	"Pinch cayenne pepper");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	5,
+	"cayenne pepper",
+	1,
+	"tablespoon",
+	"1 tablespoon cayenne pepper");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	6,
+	"creole mustard",
+	1,
+	"tablespoon",
+	"1 tablespoon Creole mustard or other whole-grain mustard");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	7,
+	"oregano",
+	1,
+	"tablespoon",
+	"1 tablespoon dried oregano");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	8,
+	"dried thyme",
+	1,
+	"tablespoon",
+	"1 tablespoon dried thyme");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	9,
+	"egg yolks",
+	4,
+	"",
+	"4 egg yolks");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	10,
+	"eggs",
+	8,
+	"",
+	"8 eggs, individually cracked into a cup");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	11,
+	"english muffins",
+	4,
+	"",
+	"4 English muffins, split in 1/2");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	12,
+	"garlic powder",
+	2,
+	"tablespoons",
+	"2 tablespoons garlic powder");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	13,
+	"lemon juice",
+	2,
+	"tablespoons",
+	"2 tablespoons fresh lemon juice");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	14,
+	"olive oil",
+	2,
+	"tablespoons",
+	"2 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	15,
+	"onion powder",
+	1,
+	"tablespoon",
+	"1 tablespoon onion powder");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	16,
+	"paprika",
+	2.5,
+	"tablespoons",
+	"2 1/2 tablespoons paprika");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	17,
+	"parsley leaves",
+	2,
+	"teaspoons",
+	"2 teaspoons finely chopped parsley leaves");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	18,
+	"salt",
+	2,
+	"tablespoons",
+	"2 tablespoons salt");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	19,
+	"salt",
+	4,
+	"servings",
+	"Salt");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	20,
+	"water",
+	1,
+	"tablespoon",
+	"1 tablespoon water");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	21,
+	"water",
+	3,
+	"cups",
+	"3 cups water");
+INSERT INTO RecipeParts VALUES (
+	314861,
+	22,
+	"white vinegar",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon white vinegar");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	0,
+	"butter",
+	3,
+	"tablespoons",
+	"3 tablespoons butter");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	1,
+	"carrot",
+	0.5,
+	"cup",
+	"1/2 cup chopped carrot");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	2,
+	"celery",
+	0.5,
+	"cup",
+	"1/2 cup chopped celery");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	3,
+	"fresh mushrooms",
+	0.5,
+	"cup",
+	"1/2 cup chopped fresh mushrooms");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	4,
+	"green onions",
+	0.5,
+	"cup",
+	"1/2 cup chopped green onions");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	5,
+	"long-grain rice",
+	6.2,
+	"ounces",
+	"1 package (6.2 ounces) fast-cooking long grain and wild rice mix");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	6,
+	"peas",
+	1,
+	"cup",
+	"1 cup frozen peas");
+INSERT INTO RecipeParts VALUES (
+	419662,
+	7,
+	"white rice",
+	2,
+	"cups",
+	"2 cups uncooked Minute® White Rice");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	0,
+	"pepper",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon black pepper");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	1,
+	"broccoli",
+	4,
+	"cups",
+	"4 cups chopped broccoli");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	2,
+	"carrot",
+	1,
+	"cup",
+	"1 cup peeled and julienned carrot");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	3,
+	"cauliflower",
+	4,
+	"cups",
+	"4 cups chopped cauliflower");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	4,
+	"cooked soba noodles",
+	6,
+	"cups",
+	"6 cups cooked soba noodles (or pasta)");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	5,
+	"cornstarch",
+	0.5,
+	"cup",
+	"1/2 cup cornstarch");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	6,
+	"fresh cilantro",
+	0.5,
+	"cup",
+	"1/2 cup chopped fresh cilantro");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	7,
+	"milk",
+	4.5,
+	"cups",
+	"4 1/2 cups milk");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	8,
+	"olive oil",
+	4,
+	"tablespoons",
+	"4 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	9,
+	"salt",
+	1,
+	"teaspoon",
+	"1 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	10,
+	"scallion",
+	1,
+	"cup",
+	"1 cup sliced scallion");
+INSERT INTO RecipeParts VALUES (
+	96379,
+	11,
+	"watercress",
+	0.5,
+	"cup",
+	"1/2 cup chopped watercress (optional)");
+INSERT INTO RecipeParts VALUES (
+	378416,
+	0,
+	"campari",
+	0.5,
+	"cup",
+	"1/2 cup Campari");
+INSERT INTO RecipeParts VALUES (
+	378416,
+	1,
+	"ice cubes",
+	1,
+	"cubes",
+	"Ice cubes");
+INSERT INTO RecipeParts VALUES (
+	378416,
+	2,
+	"lemon",
+	1,
+	"",
+	"1 lemon, sliced");
+INSERT INTO RecipeParts VALUES (
+	378416,
+	3,
+	"oranges",
+	2,
+	"",
+	"2 seedless oranges, sliced");
+INSERT INTO RecipeParts VALUES (
+	378416,
+	4,
+	"bubbly water",
+	1,
+	"bottle",
+	"1 bottle sparkling dry white wine or bubbly Prosecco");
+INSERT INTO RecipeParts VALUES (
+	75633,
+	0,
+	"cajun seasoning",
+	1.25,
+	"teaspoons",
+	"1 1/4 teaspoons Cajun seasoning, divided");
+INSERT INTO RecipeParts VALUES (
+	75633,
+	1,
+	"dry white wine",
+	1,
+	"cup",
+	"1 cup dry white wine");
+INSERT INTO RecipeParts VALUES (
+	75633,
+	2,
+	"flour",
+	0.5,
+	"cup",
+	"1/2 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	75633,
+	3,
+	"rye meal",
+	4,
+	"servings",
+	"Try Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	75633,
+	4,
+	"olive oil",
+	2,
+	"tablespoons",
+	"2 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	75633,
+	5,
+	"turkey breast cutlets",
+	1.5,
+	"pounds",
+	"1 1/2 pounds turkey cutlets");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	0,
+	"baking soda",
+	1.5,
+	"teaspoons",
+	"1 1/2 teaspoons baking soda");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	1,
+	"blueberries",
+	1,
+	"cup",
+	"1 cup frozen wild blueberries");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	2,
+	"eggs",
+	4,
+	"",
+	"4 large eggs");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	3,
+	"flour",
+	0.5,
+	"cup",
+	"1/2 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	4,
+	"greek yogurt",
+	2,
+	"cups",
+	"2 cups 2-percent Greek yogurt");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	5,
+	"kosher salt",
+	4,
+	"servings",
+	"Kosher salt");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	6,
+	"lemon zest",
+	1,
+	"teaspoon",
+	"1 teaspoon finely grated lemon zest");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	7,
+	"light brown sugar",
+	2,
+	"tablespoons",
+	"2 tablespoons light brown sugar");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	8,
+	"peach",
+	1,
+	"",
+	"1 large peach, pitted, peeled and diced, or 1 cup frozen peach slices, thawed and diced");
+INSERT INTO RecipeParts VALUES (
+	375686,
+	9,
+	"pineapple juice",
+	6,
+	"ounce",
+	"6 -ounce can unsweetened pineapple juice");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	0,
+	"baking powder",
+	1.5,
+	"tablespoons",
+	"1 1/2 tablespoons baking powder");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	1,
+	"cinnamon",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon cinnamon");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	2,
+	"colored sprinkles",
+	36,
+	"servings",
+	"colored sprinkles");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	3,
+	"confectioners' sugar",
+	2,
+	"cups",
+	"2 cups confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	4,
+	"dates",
+	1,
+	"cup",
+	"1 cup dried dates, pitted");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	5,
+	"egg",
+	1,
+	"",
+	"1 large egg");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	6,
+	"fig",
+	1,
+	"cup",
+	"1 cup dried fig");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	7,
+	"honey",
+	0.25,
+	"cup",
+	"1/4 cup honey");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	8,
+	"milk",
+	0.5,
+	"cup",
+	"1/2 cup milk");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	9,
+	"orange marmalade",
+	0.25,
+	"cup",
+	"1/4 cup orange marmalade");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	10,
+	"raisins",
+	0.75,
+	"cup",
+	"3/4 cup raisins");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	11,
+	"salt",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	12,
+	"sugar",
+	0.5,
+	"cup",
+	"1/2 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	13,
+	"unbleached flour",
+	4,
+	"cups",
+	"4 cups unbleached all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	14,
+	"vanilla extract",
+	1,
+	"tablespoon",
+	"1 tablespoon pure vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	15,
+	"vegetable shortening",
+	1,
+	"cup",
+	"1 cup vegetable shortening");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	16,
+	"walnuts",
+	0.5,
+	"cup",
+	"1/2 cup walnuts, chopped");
+INSERT INTO RecipeParts VALUES (
+	129812,
+	17,
+	"water",
+	36,
+	"servings",
+	"water or milk");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	0,
+	"baking powder",
+	2,
+	"teaspoons",
+	"2 teaspoons baking powder");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	1,
+	"baking soda",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon baking soda");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	2,
+	"canned pumpkin",
+	15,
+	"ounce",
+	"1 (15 ounce) can 100% pure pumpkin");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	3,
+	"confectioners' sugar",
+	0.5,
+	"cup",
+	"1/2 cup confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	4,
+	"dark brown sugar",
+	1,
+	"cup",
+	"1 cup dark brown sugar");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	5,
+	"eggs",
+	2,
+	"",
+	"2 large eggs, lightly beaten");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	6,
+	"flour",
+	2,
+	"cups",
+	"2 cups all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	7,
+	"ground cinnamon",
+	1,
+	"teaspoon",
+	"1 teaspoon ground cinnamon");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	8,
+	"ground cloves",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon ground cloves");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	9,
+	"ground ginger",
+	1.5,
+	"teaspoons",
+	"1 1/2 teaspoons ground ginger");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	10,
+	"orange juice",
+	4,
+	"teaspoons",
+	"4 teaspoons orange juice");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	11,
+	"orange zest",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon finely grated orange zest");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	12,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	268680,
+	13,
+	"vegetable oil",
+	0.5,
+	"cup",
+	"1/2 cup vegetable oil");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	0,
+	"canned black beans",
+	15,
+	"ounce",
+	"1 (15 ounce) can black beans, rinsed and drained");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	1,
+	"canned tuna",
+	5,
+	"ounce",
+	"1 (5 ounce) can tuna, packed in water (drained)");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	2,
+	"cilantro",
+	1,
+	"tablespoon",
+	"1 -2 tablespoon cilantro, chopped");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	3,
+	"cracker",
+	2,
+	"servings",
+	"cracker, for serving");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	4,
+	"cream cheese",
+	8,
+	"ounce",
+	"1 (8 ounce) package cream cheese, softened");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	5,
+	"dried onions",
+	1,
+	"tablespoon",
+	"1 tablespoon dried onions, minced");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	6,
+	"garlic powder",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon garlic powder");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	7,
+	"green onions",
+	2,
+	"",
+	"2 green onions, sliced");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	8,
+	"lime juice",
+	1,
+	"tablespoon",
+	"1 tablespoon lime juice");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	9,
+	"mayonnaise",
+	1.5,
+	"tablespoons",
+	"1 1/2 tablespoons mayonnaise (or more to taste)");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	10,
+	"sesame seed",
+	1,
+	"tablespoon",
+	"1 tablespoon sesame seed, toasted");
+INSERT INTO RecipeParts VALUES (
+	89340,
+	11,
+	"white vinegar",
+	1,
+	"tablespoon",
+	"1 tablespoon white vinegar");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	0,
+	"hot sauce",
+	1,
+	"tablespoons",
+	"1 tablespoon(s) Worcestershier Sauce");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	1,
+	"pepper",
+	1.5,
+	"teaspoons",
+	"1 1/2 teaspoon(s) Black Pepper");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	2,
+	"bread crumbs",
+	1,
+	"cups",
+	"1 cup(s) Bread Crumbs");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	3,
+	"butter",
+	2,
+	"tablespoons",
+	"2 tablespoon(s) Butter or Margarine");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	4,
+	"carrot",
+	1,
+	"",
+	"1 Carrot finely chopped");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	5,
+	"celery",
+	1,
+	"",
+	"1 Celery finely chopped");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	6,
+	"eggs",
+	3,
+	"",
+	"3 Eggs");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	7,
+	"garlic",
+	4,
+	"Cloves",
+	"4 Cloves Garlic minced");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	8,
+	"ground pork",
+	1,
+	"pounds",
+	"1 pound(s) Ground Pork");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	9,
+	"ground veal",
+	1,
+	"pounds",
+	"1 pound(s) Ground Veal");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	10,
+	"lean ground beef",
+	2,
+	"pounds",
+	"2 pound(s) Lean Ground Beef");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	11,
+	"milk",
+	0.5,
+	"cups",
+	"1/2 cup(s) Milk");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	12,
+	"onion",
+	1,
+	"",
+	"1 Large Onion finely chopped");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	13,
+	"parsley",
+	0.3333333,
+	"cups",
+	"1/3 to 1/2 cup(s) Parsley chopped");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	14,
+	"salt",
+	2,
+	"teaspoons",
+	"2 teaspoon(s) Salt");
+INSERT INTO RecipeParts VALUES (
+	309753,
+	15,
+	"tomato ketchup",
+	0.3333333,
+	"cups",
+	"1/3 cup(s) Tomato Ketchup");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	0,
+	"capers",
+	1,
+	"tbsp",
+	"1 tbsp capers, rinsed");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	1,
+	"sugar",
+	1,
+	"tsp",
+	"1 tsp caster sugar");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	2,
+	"fennel",
+	1,
+	"",
+	"1 fennel, trimmed and finely sliced (on a mandolin if you have one), green fronds reserved");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	3,
+	"fresh mint",
+	1,
+	"handful",
+	"handful mint, leaves roughly chopped");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	4,
+	"juice of lemon",
+	1,
+	"",
+	"juice 1 lemon");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	5,
+	"olive oil",
+	1,
+	"tsp",
+	"1 tsp olive oil");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	6,
+	"radishes",
+	85,
+	"g",
+	"85g radishes, trimmed, finely sliced");
+INSERT INTO RecipeParts VALUES (
+	224025,
+	7,
+	"seabass",
+	2,
+	"fillet",
+	"2 sustainably caught seabass fillets, skin on");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	0,
+	"apple jelly",
+	0.5,
+	"cup",
+	"1/2 cup apple jelly");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	1,
+	"chili powder",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon chili powder");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	2,
+	"cornish hens",
+	4,
+	"",
+	"4 Cornish hens, 1 to 1/4 lbs each, split");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	3,
+	"garlic powder",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon garlic powder");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	4,
+	"ketchup",
+	0.5,
+	"cup",
+	"1/2 cup ketchup");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	5,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	137526,
+	6,
+	"vinegar",
+	1,
+	"tablespoon",
+	"1 tablespoon vinegar");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	0,
+	"avocados",
+	2,
+	"",
+	"2 avocados diced");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	1,
+	"cilantro",
+	1,
+	"tablespoons",
+	"1 tablespoon(s) cilantro chopped");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	2,
+	"corn tortillas",
+	12,
+	"",
+	"12 corn tortillas");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	3,
+	"extra-virgin olive oil",
+	2,
+	"tablespoons",
+	"2-1/2 tablespoon(s) olive oil extra virgin");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	4,
+	"honey",
+	1,
+	"tablespoons",
+	"1 tablespoon(s) honey");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	5,
+	"hot sauce",
+	2,
+	"tablespoons",
+	"2 tablespoon(s) hot sauce");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	6,
+	"iceberg lettuce",
+	2,
+	"cups",
+	"2 cup(s) iceberg lettuce shredded");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	7,
+	"lime juice",
+	2,
+	"tablespoons",
+	"2 tablespoon(s) lime juice fresh");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	8,
+	"pulled pork",
+	3,
+	"cups",
+	"3 cup(s) Pulled Pork heated through");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	9,
+	"radishes",
+	3,
+	"",
+	"3 radishes sliced");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	10,
+	"Salt & Pepper",
+	6,
+	"servings",
+	"salt & pepper");
+INSERT INTO RecipeParts VALUES (
+	318371,
+	11,
+	"tomato",
+	1,
+	"",
+	"1 tomato, large diced");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	0,
+	"artichoke hearts",
+	9,
+	"oz",
+	"1 package (9 oz ) frozen artichoke hearts, thawed, patted dry, and sliced in half lengthwise");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	1,
+	"cherry tomatoes",
+	4,
+	"oz",
+	"4 oz cherry tomatoes, plus 2 oz more for garnishing the fish");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	2,
+	"cornstarch",
+	2,
+	"Tablespoons",
+	"2 Tablespoons cornstarch");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	3,
+	"fresh parsley",
+	1,
+	"Tablespoon",
+	"1 Tablespoon chopped fresh parsley");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	4,
+	"garlic cloves",
+	3,
+	"",
+	"3 garlic cloves, minced");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	5,
+	"olive oil",
+	0.75,
+	"cup",
+	"¾ cup olive oil");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	6,
+	"onion",
+	0.5,
+	"",
+	"½ onion, peeled and cut in half");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	7,
+	"salt",
+	4,
+	"servings",
+	"salt, ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	8,
+	"shallot",
+	0.5,
+	"",
+	"½ small shallot, peeled");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	9,
+	"sherry vinegar",
+	4,
+	"teaspoons",
+	"4 teaspoons sherry vinegar");
+INSERT INTO RecipeParts VALUES (
+	485171,
+	10,
+	"white fish fillets",
+	24,
+	"ounce",
+	"4 (6-ounce) skinless white fish fillets, (halibut, cod, sea bass, etc., about 1 inch thick)");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	0,
+	"bay leaves",
+	2,
+	"",
+	"2 bay leaves");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	1,
+	"white peppercorns",
+	1,
+	"teaspoon",
+	"1 teaspoon black peppercorns, crushed");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	2,
+	"carrots",
+	2,
+	"",
+	"2 medium carrots, peeled, trimmed, and cut into 1-inch lengths");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	3,
+	"celery",
+	2,
+	"stalks",
+	"2 stalks celery, peeled, trimmed, and cut into 1-inch lengths");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	4,
+	"chicken stock",
+	2,
+	"quarts",
+	"2 quarts unsalted beef stock or chicken stock");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	5,
+	"garlic",
+	10,
+	"cloves",
+	"10 cloves garlic, peeled");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	6,
+	"kosher salt",
+	1,
+	"bottle",
+	"1 bottle kosher for Passover Cabernet Sauvignon");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	7,
+	"kosher salt",
+	2,
+	"tablespoons",
+	"2 tablespoons kosher for Passover vegetable oil");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	8,
+	"leek",
+	1,
+	"",
+	"1 medium leek, white and light green parts only, coarsely chopped");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	9,
+	"matzoh meal",
+	6,
+	"servings",
+	"Matzoh meal, for dredging");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	10,
+	"parsley",
+	6,
+	"sprigs",
+	"6 sprigs Italian parsley");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	11,
+	"salt",
+	6,
+	"servings",
+	"Salt");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	12,
+	"shallots",
+	8,
+	"",
+	"8 large shallots, peeled, trimmed, rinsed, split, and dried");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	13,
+	"short ribs",
+	6,
+	"rib",
+	"6 short ribs, trimmed");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	14,
+	"thyme",
+	2,
+	"sprigs",
+	"2 sprigs thyme");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	15,
+	"tomato paste",
+	2,
+	"tablespoons",
+	"2 tablespoons tomato paste");
+INSERT INTO RecipeParts VALUES (
+	411218,
+	16,
+	"white pepper",
+	6,
+	"servings",
+	"Freshly ground white pepper");
+INSERT INTO RecipeParts VALUES (
+	31034,
+	0,
+	"black eyed peas",
+	8,
+	"servings",
+	"black-eyed peas");
+INSERT INTO RecipeParts VALUES (
+	31034,
+	1,
+	"pork fat",
+	8,
+	"servings",
+	"pork fat");
+INSERT INTO RecipeParts VALUES (
+	31034,
+	2,
+	"salt",
+	8,
+	"servings",
+	"Salt");
+INSERT INTO RecipeParts VALUES (
+	31034,
+	3,
+	"yellow onions",
+	8,
+	"servings",
+	"yellow onions");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	0,
+	"colby monterey jack cheese",
+	2,
+	"ounces",
+	"1/2 cup shredded reduced-fat Colby-Monterey Jack cheese (2 ounces)");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	1,
+	"garlic",
+	2,
+	"cloves",
+	"2 medium cloves garlic, finely chopped");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	2,
+	"great northern beans",
+	15,
+	"oz",
+	"1 can (15 oz) Progresso® cannellini (white kidney) beans or 1 can (15 or 16 oz) great northern beans, drained, rinsed");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	3,
+	"oregano leaves",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon dried oregano leaves");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	4,
+	"pizza crust",
+	10,
+	"ounces",
+	"1 package (10 ounces) ready-to-serve thin Italian pizza crust (12 inches in diameter)");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	5,
+	"spinach leaves",
+	1,
+	"cup",
+	"1 cup firmly packed washed fresh spinach leaves (from 10-ounce bag), shredded");
+INSERT INTO RecipeParts VALUES (
+	180650,
+	6,
+	"sun-dried tomato halves",
+	0.5,
+	"cup",
+	"1/2 cup sun-dried tomato halves (not oil-packed)");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	0,
+	"apple cider vinegar",
+	0.5,
+	"cup",
+	"1/2 cup apple cider vinegar");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	1,
+	"brown sugar",
+	0.25,
+	"cup",
+	"1/4 cup brown sugar");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	2,
+	"chile garlic sauce",
+	0.25,
+	"cup",
+	"1/4 cup Heinz chile sauce");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	3,
+	"crushed red pepper",
+	1,
+	"tablespoon",
+	"1 tablespoon crushed red pepper");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	4,
+	"ground red pepper",
+	1,
+	"tablespoon",
+	"1 tablespoon ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	5,
+	"ketchup",
+	0.5,
+	"cup",
+	"1/2 cup plus 2 tablespoons ketchup");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	6,
+	"kosher salt",
+	1,
+	"tablespoon",
+	"1 tablespoon kosher salt");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	7,
+	"lemon juice",
+	3,
+	"tablespoons",
+	"3 tablespoons lemon juice, freshly squeezed");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	8,
+	"mustard powder",
+	1,
+	"tablespoon",
+	"1 tablespoon dried mustard powder");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	9,
+	"sweet onion",
+	0.5,
+	"cup",
+	"1/2 cup sweet onion, finely chopped");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	10,
+	"tabasco",
+	0.25,
+	"cup",
+	"1/4 cup Tabasco");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	11,
+	"tomato juice",
+	0.25,
+	"cup",
+	"1/4 cup tomato juice");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	12,
+	"tomato puree",
+	0.5,
+	"cup",
+	"1/2 cup plus 2 tablespoons tomato puree");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	13,
+	"unsalted butter",
+	4,
+	"tablespoons",
+	"4 tablespoons unsalted butter");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	14,
+	"water",
+	0.5,
+	"cup",
+	"1/2 cup water");
+INSERT INTO RecipeParts VALUES (
+	311919,
+	15,
+	"worcestershire sauce",
+	0.5,
+	"cup",
+	"1/2 cup Worcestershire sauce");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	0,
+	"butter",
+	25,
+	"g",
+	"25.0g butter");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	1,
+	"carrots",
+	24,
+	"",
+	"24 thin green-topped carrots , trimmed, peeled, but left whole");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	2,
+	"chicken stock",
+	250,
+	"ml",
+	"250.0ml chicken stock");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	3,
+	"coriander seeds",
+	1,
+	"tbsp",
+	"1 tbsp coriander seeds");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	4,
+	"curly parsley",
+	6,
+	"",
+	"6 curly parsley sprigs");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	5,
+	"double cream",
+	142,
+	"ml",
+	"142.0ml tub double cream");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	6,
+	"fresh rosemary",
+	1,
+	"handful",
+	"handful rosemary");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	7,
+	"fresh thyme",
+	1,
+	"handful",
+	"handful thyme");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	8,
+	"goose fat",
+	2,
+	"",
+	"2 x 350g jars goose fat (or use lard, sunflower or vegetable oil)");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	9,
+	"granny smith apples",
+	2,
+	"",
+	"2 Granny Smith apples , cored and sliced");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	10,
+	"olive oil",
+	2,
+	"tbsp",
+	"2 tbsp olive oil");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	11,
+	"onions",
+	4,
+	"",
+	"4 onions , finely chopped");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	12,
+	"pork belly",
+	0.5,
+	"",
+	"½ a whole pork belly , about 1.5kg (ask for the thin half), boned, skin left on but not scored");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	13,
+	"sea salt",
+	1,
+	"tbsp",
+	"1 tbsp sea salt");
+INSERT INTO RecipeParts VALUES (
+	75055,
+	14,
+	"star anise",
+	2,
+	"",
+	"2 star anise");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	0,
+	"apples",
+	0.25,
+	"cup",
+	"1/4 cup chopped apples");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	1,
+	"chicken breast",
+	2,
+	"oz",
+	"2 oz. (1/3 of 6-oz. pkg.) OSCAR MAYER CARVING BOARD Flame Grilled Chicken Breast Strips, chopped");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	2,
+	"green onion",
+	1,
+	"",
+	"1 green onion, sliced");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	3,
+	"lettuce",
+	1,
+	"leaf",
+	"1 leaf lettuce piece, torn in half");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	4,
+	"miracle whip",
+	2,
+	"Tbsp",
+	"2 Tbsp. MIRACLE WHIP Light Dressing");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	5,
+	"pita bread",
+	1,
+	"",
+	"1 whole grain pita bread, cut in half");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	6,
+	"provolone cheese",
+	1,
+	"",
+	"1 KRAFT Provolone Cheese Slice, cut in half");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	7,
+	"red grapes",
+	0.25,
+	"cup",
+	"1/4 cup seedless red grapes, cut in half");
+INSERT INTO RecipeParts VALUES (
+	273366,
+	8,
+	"walnuts",
+	2,
+	"Tbsp",
+	"2 Tbsp. chopped PLANTERS Walnuts, toasted");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	0,
+	"butter",
+	1,
+	"stick",
+	"1 stick butter, at room temperature");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	1,
+	"flour",
+	1,
+	"cup",
+	"1 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	2,
+	"fresh parsley",
+	1,
+	"tablespoon",
+	"1 tablespoon minced fresh parsley");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	3,
+	"fresh rosemary",
+	1,
+	"teaspoon",
+	"1 teaspoon minced fresh rosemary");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	4,
+	"fresh thyme",
+	1,
+	"tablespoon",
+	"1 tablespoon minced fresh thyme");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	5,
+	"garlic",
+	1,
+	"teaspoon",
+	"1 teaspoon minced garlic");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	6,
+	"grapeseed oil",
+	0.25,
+	"cup",
+	"1/4 cup grapeseed oil");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	7,
+	"ground red pepper",
+	1,
+	"teaspoon",
+	"1 teaspoon ground white pepper");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	8,
+	"mushrooms",
+	1,
+	"cup",
+	"1 cup mushrooms, cut into quarters");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	9,
+	"sea salt",
+	2,
+	"teaspoons",
+	"2 teaspoons sea salt");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	10,
+	"stock",
+	3,
+	"cups",
+	"3 cups mushroom stock or broth");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	11,
+	"tofu skin",
+	36,
+	"ounce",
+	"6 6 to 7-ounce skin-on, boneless bronzino fillets");
+INSERT INTO RecipeParts VALUES (
+	311821,
+	12,
+	"white wine",
+	1,
+	"cup",
+	"1 cup white wine, such as chardonnay");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	0,
+	"anchovy",
+	4,
+	"fillet",
+	"4 large anchovy fillets, minced");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	1,
+	"crushed red pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon crushed red pepper");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	2,
+	"garlic cloves",
+	2,
+	"",
+	"2 large garlic cloves, minced");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	3,
+	"lemon juice",
+	1,
+	"tablespoon",
+	"1 tablespoon fresh lemon juice");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	4,
+	"lemon wedges",
+	8,
+	"servings",
+	"Lemon wedges, for serving");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	5,
+	"olive oil",
+	3,
+	"tablespoons",
+	"3 tablespoons extra-virgin olive oil");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	6,
+	"parsley",
+	1,
+	"tablespoon",
+	"1 tablespoon chopped parsley");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	7,
+	"pepper",
+	8,
+	"servings",
+	"Freshly ground pepper");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	8,
+	"salt",
+	8,
+	"servings",
+	"Salt");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	9,
+	"sunchokes",
+	2,
+	"pounds",
+	"2 pounds young sunchokes, scrubbed and halved lengthwise");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	10,
+	"unsalted butter",
+	3,
+	"tablespoons",
+	"3 tablespoons unsalted butter");
+INSERT INTO RecipeParts VALUES (
+	312903,
+	11,
+	"vegetable oil",
+	2,
+	"tablespoons",
+	"2 tablespoons vegetable oil");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	0,
+	"butter",
+	2,
+	"tablespoons",
+	"2 tablespoons butter, melted");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	1,
+	"canned corn",
+	28,
+	"ounces",
+	"2 cans (14-3/4 ounces each) cream-style corn");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	2,
+	"condensed cream of chicken soup",
+	22,
+	"ounces",
+	"2 cans (11-1/2 ounces each) condensed chicken with rice soup, undiluted");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	3,
+	"condensed cream of mushroom soup",
+	10,
+	"ounces",
+	"1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	4,
+	"dry bread crumbs",
+	0.5,
+	"cup",
+	"1/2 cup dry bread crumbs");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	5,
+	"green bell pepper",
+	1,
+	"",
+	"1 medium green pepper, chopped");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	6,
+	"ground pork",
+	1,
+	"pound",
+	"1 pound ground pork");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	7,
+	"macaroni",
+	7,
+	"ounces",
+	"1 package (7 ounces) elbow or ring macaroni, cooked and drained");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	8,
+	"onion",
+	1,
+	"",
+	"1 large onion, chopped");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	9,
+	"pepper",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon pepper");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	10,
+	"salt",
+	1,
+	"teaspoon",
+	"1 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	403825,
+	11,
+	"seasoned salt",
+	12,
+	"servings",
+	"Seasoned salt to taste");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	0,
+	"chili flakes",
+	1,
+	"tsp",
+	"1 tsp chili paste, chili garlic sauce or chili flakes");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	1,
+	"ginger",
+	1,
+	"tsp",
+	"1 tsp grated ginger");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	2,
+	"green onions",
+	4,
+	"servings",
+	"green onions for garnish");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	3,
+	"mirin",
+	0.25,
+	"cup",
+	"1/4 cup mirin");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	4,
+	"noodles",
+	14,
+	"oz",
+	"14 oz dried somen noodles");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	5,
+	"sesame oil",
+	2,
+	"tsp",
+	"2 tsp sesame oil");
+INSERT INTO RecipeParts VALUES (
+	41822,
+	6,
+	"soy sauce",
+	0.25,
+	"cup",
+	"1/4 cup Japanese soy sauce");
+INSERT INTO RecipeParts VALUES (
+	214894,
+	0,
+	"rye meal",
+	5,
+	"servings",
+	"Try Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	214894,
+	1,
+	"sugar",
+	1,
+	"cup",
+	"1 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	214894,
+	2,
+	"water",
+	0.5,
+	"cup",
+	"1/2 cup water");
+INSERT INTO RecipeParts VALUES (
+	9114,
+	0,
+	"beets",
+	12,
+	"ozs",
+	"2 beets (about 12 ozs), roasted and peeled");
+INSERT INTO RecipeParts VALUES (
+	9114,
+	1,
+	"garlic cloves",
+	2,
+	"",
+	"2 garlic cloves");
+INSERT INTO RecipeParts VALUES (
+	9114,
+	2,
+	"kosher salt",
+	0.25,
+	"tsp",
+	"1/4 tsp Kosher salt");
+INSERT INTO RecipeParts VALUES (
+	9114,
+	3,
+	"lemon juice",
+	2,
+	"Tbsps",
+	"2 Tbsps Meyer lemon juice or 1 Tbsp regular lemon juice");
+INSERT INTO RecipeParts VALUES (
+	9114,
+	4,
+	"tahini",
+	2,
+	"Tbsps",
+	"2 Tbsps tahini");
+INSERT INTO RecipeParts VALUES (
+	9114,
+	5,
+	"water",
+	2,
+	"Tbsps",
+	"2-4 Tbsps water");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	0,
+	"canned corn",
+	16,
+	"ounce",
+	"1 (16 ounce) can corn");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	1,
+	"canned kidney beans",
+	15,
+	"ounce",
+	"1 (15 ounce) can kidney beans, drained");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	2,
+	"canned tomatoes",
+	16,
+	"ounce",
+	"1 (16 ounce) can diced tomatoes");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	3,
+	"chili powder",
+	8,
+	"servings",
+	"chili powder");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	4,
+	"fresh cilantro",
+	2,
+	"tablespoons",
+	"2 tablespoons fresh cilantro, chopped");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	5,
+	"garlic",
+	1,
+	"tablespoon",
+	"1 tablespoon garlic, minced");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	6,
+	"ground cumin",
+	2,
+	"teaspoons",
+	"2 teaspoons ground cumin");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	7,
+	"juice of lime",
+	1,
+	"",
+	"1 lime, juice of");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	8,
+	"vegetable juice",
+	48,
+	"ounce",
+	"1 (48 ounce) can v8 vegetable juice");
+INSERT INTO RecipeParts VALUES (
+	144745,
+	9,
+	"vegetable oil",
+	1,
+	"tablespoon",
+	"1 tablespoon vegetable oil");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	0,
+	"aji amarillo",
+	4,
+	"servings",
+	"Ají for serving");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	1,
+	"banana leaves",
+	1,
+	"Leaves",
+	"Banana Leaves and foil for wrapping");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	2,
+	"hot sauce",
+	1,
+	"cup",
+	"1 cup of aliños sauce");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	3,
+	"carrots",
+	1,
+	"cup",
+	"1 cup of carrots, peeled and sliced");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	4,
+	"fresh peas",
+	1,
+	"cup",
+	"1 cup of fresh or frozen peas");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	5,
+	"ground cumin",
+	1,
+	"tablespoon",
+	"1 tablespoon ground cumin");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	6,
+	"rice",
+	2,
+	"cups",
+	"2 cups of cooked yellow rice");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	7,
+	"salmon",
+	4,
+	"fillet",
+	"4 salmon fillets, skinless");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	8,
+	"salt and pepper",
+	4,
+	"servings",
+	"Salt and freshly ground pepper, to taste");
+INSERT INTO RecipeParts VALUES (
+	226319,
+	9,
+	"string beans",
+	4,
+	"servings",
+	"Kitchen string");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	0,
+	"basil leaves",
+	1,
+	"tablespoon",
+	"1 tablespoon finely chopped Thai basil or regular basil leaves");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	1,
+	"english cucumber",
+	0.5,
+	"",
+	"1/2 English cucumber, peeled and cut in 1/4-in. dice");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	2,
+	"galangal",
+	2,
+	"tablespoons",
+	"2 tablespoons minced fresh galangal or ginger");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	3,
+	"kosher salt",
+	5,
+	"servings",
+	"Thai or Vietnamese fish sauce or kosher salt");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	4,
+	"lemongrass",
+	2,
+	"stalks",
+	"2 stalks lemongrass, chopped");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	5,
+	"lime juice",
+	3,
+	"tablespoons",
+	"3 tablespoons fresh lime juice");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	6,
+	"lime zest",
+	5,
+	"",
+	"5 kaffir lime leaves or 2 tsp. finely shredded lime zest");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	7,
+	"mint leaves",
+	1,
+	"tablespoon",
+	"1 tablespoon finely chopped mint leaves");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	8,
+	"rye meal",
+	5,
+	"servings",
+	"Try Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	9,
+	"papaya",
+	1,
+	"cup",
+	"1 cup peeled green or half-ripe papaya cut in 1/4-in. dice");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	10,
+	"red onion",
+	0.25,
+	"cup",
+	"1/4 cup minced red onion");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	11,
+	"seasoned rice vinegar",
+	0.75,
+	"cup",
+	"3/4 cup seasoned rice vinegar");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	12,
+	"sriracha",
+	0.5,
+	"tbsp",
+	"1/2 to 1 tbsp. Sriracha");
+INSERT INTO RecipeParts VALUES (
+	350494,
+	13,
+	"yellow tomatoes",
+	2.5,
+	"pounds",
+	"2 1/2 pounds ripe yellow tomatoes, cored and quartered");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	0,
+	"cornstarch",
+	1,
+	"tablespoon",
+	"1 tablespoon plus 1 teaspoon cornstarch");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	1,
+	"egg",
+	1,
+	"",
+	"1 large egg white");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	2,
+	"ginger",
+	4,
+	"",
+	"4 quarter-size slices peeled fresh ginger, crushed with side of heavy large knife");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	3,
+	"green onions",
+	0.5,
+	"cup",
+	"1/2 cup (1-inch-long pieces) green onions");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	4,
+	"ground red pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon ground white pepper");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	5,
+	"low-salt chicken broth",
+	0.25,
+	"cup",
+	"1/4 cup low-salt chicken broth");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	6,
+	"peas",
+	0.75,
+	"cup",
+	"3/4 cup frozen green peas, thawed");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	7,
+	"salt",
+	2.25,
+	"teaspoons",
+	"2 1/4 teaspoons salt, divided");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	8,
+	"sesame oil",
+	1,
+	"teaspoon",
+	"1 teaspoon Asian sesame oil");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	9,
+	"shaoxing wine",
+	2,
+	"tablespoons",
+	"2 tablespoons Shaoxing wine (Chinese rice wine) or dry Sherry");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	10,
+	"shrimp",
+	1,
+	"pound",
+	"1 pound uncooked medium shrimp, peeled, deveined");
+INSERT INTO RecipeParts VALUES (
+	6069,
+	11,
+	"vegetable oil",
+	4,
+	"cups",
+	"4 cups peanut oil or vegetable oil");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	0,
+	"basil leaves",
+	3,
+	"",
+	"3 to 4 basil leaves, torn into small pieces");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	1,
+	"bread",
+	6,
+	"cups",
+	"6 cups day-old white bread, without crusts, torn into small pieces");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	2,
+	"canned tomatoes",
+	28,
+	"ounce",
+	"1 (28-ounce) can whole peeled tomatoes, pureed with their juice");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	3,
+	"garlic cloves",
+	3,
+	"",
+	"3 garlic cloves, peeled and smashed");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	4,
+	"kosher salt",
+	6,
+	"servings",
+	"Kosher salt to taste");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	5,
+	"olive oil",
+	1,
+	"cup",
+	"1 cup olive oil");
+INSERT INTO RecipeParts VALUES (
+	238539,
+	6,
+	"vegetable stock",
+	4,
+	"cups",
+	"4 cups vegetable stock (or water)");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	0,
+	"beef",
+	0.25,
+	"cup",
+	"1/4 cup water or beef drippings");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	1,
+	"cabernet sauvignon",
+	2,
+	"cups",
+	"2 cups Cabernet Sauvignon");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	2,
+	"carrots",
+	2,
+	"",
+	"2 carrots, cut in chunks");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	3,
+	"garlic cloves",
+	5,
+	"",
+	"5 garlic cloves, smashed");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	4,
+	"kosher salt",
+	9,
+	"servings",
+	"Kosher salt and freshly cracked black pepper");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	5,
+	"olive oil",
+	9,
+	"servings",
+	"Olive oil");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	6,
+	"onion",
+	1,
+	"",
+	"1 onion, cut in half");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	7,
+	"parsley",
+	2,
+	"tablespoons",
+	"2 tablespoons chopped parsley");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	8,
+	"potatoes",
+	2,
+	"",
+	"2 potatoes, peeled and cut in chunks");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	9,
+	"prime rib roast",
+	6,
+	"pounds",
+	"1 (3-rib) prime rib beef roast, about 6 pounds");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	10,
+	"sugar",
+	1,
+	"pinch",
+	"Pinch sugar");
+INSERT INTO RecipeParts VALUES (
+	396005,
+	11,
+	"thyme",
+	9,
+	"servings",
+	"Fresh rosemary and thyme, roughly chopped");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	0,
+	"allspice",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon allspice");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	1,
+	"canned tomatoes",
+	28,
+	"ounce",
+	"1 (28 ounce) can diced tomatoes");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	2,
+	"fresh cilantro",
+	0.5,
+	"cup",
+	"1/2 cup cilantro, chopped fresh");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	3,
+	"garlic",
+	1,
+	"tablespoon",
+	"1 tablespoon garlic, minced");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	4,
+	"lamb",
+	1.5,
+	"lbs",
+	"1 1/2 lbs lamb, stew meat");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	5,
+	"okra",
+	2,
+	"lbs",
+	"2 lbs okra");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	6,
+	"olive oil",
+	0.25,
+	"cup",
+	"1/4 cup olive oil");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	7,
+	"onion",
+	1,
+	"",
+	"1 large onion, chopped");
+INSERT INTO RecipeParts VALUES (
+	97230,
+	8,
+	"water",
+	2,
+	"cups",
+	"2 cups water");
+INSERT INTO RecipeParts VALUES (
+	39908,
+	0,
+	"beef bouillon cubes",
+	4,
+	"",
+	"4 beef bouillon cubes");
+INSERT INTO RecipeParts VALUES (
+	39908,
+	1,
+	"pepper",
+	4,
+	"servings",
+	"Freshly ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	39908,
+	2,
+	"butter",
+	4,
+	"tablespoons",
+	"4 tablespoons butter");
+INSERT INTO RecipeParts VALUES (
+	39908,
+	3,
+	"vidalia onions",
+	4,
+	"",
+	"4 large Vidalia onions");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	0,
+	"baking powder",
+	1,
+	"tablespoon",
+	"1 tablespoon plus 1 teaspoon baking powder");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	1,
+	"dried currants",
+	0.5,
+	"cup",
+	"1/2 cup dried currants");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	2,
+	"egg",
+	1,
+	"",
+	"1 large egg, well beaten with a hand blender, for glazing");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	3,
+	"eggs",
+	2,
+	"",
+	"2 large eggs, chilled");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	4,
+	"nutmeg",
+	9,
+	"servings",
+	"A few gratings of fresh nutmeg");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	5,
+	"sea salt",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon fine sea salt");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	6,
+	"sugar",
+	2,
+	"tablespoons",
+	"2 tablespoons superfine sugar");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	7,
+	"unbleached flour",
+	3,
+	"cups",
+	"3 cups unbleached all-purpose flour, plus more as needed");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	8,
+	"unsalted butter",
+	10,
+	"tablespoons",
+	"10 tablespoons (1 1/4 sticks) unsalted butter, chilled and cut into 1/2-inch cubes");
+INSERT INTO RecipeParts VALUES (
+	186980,
+	9,
+	"whole milk",
+	0.75,
+	"cup",
+	"3/4 cup whole milk");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	0,
+	"butter",
+	2,
+	"tablespoons",
+	"2 tablespoons butter");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	1,
+	"chicken broth",
+	2,
+	"cups",
+	"2 cups chicken broth");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	2,
+	"fresh parsley",
+	1,
+	"tablespoon",
+	"1 tablespoon chopped fresh parsley");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	3,
+	"rye meal",
+	8,
+	"servings",
+	"Try Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	4,
+	"orange juice",
+	1,
+	"cup",
+	"1 cup orange juice");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	5,
+	"orange rind",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon grated orange rind");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	6,
+	"raisins",
+	0.75,
+	"cup",
+	"3/4 cup raisins");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	7,
+	"rice",
+	1.333333,
+	"cups",
+	"1 1/3 cups uncooked rice");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	8,
+	"salt",
+	1,
+	"teaspoon",
+	"1 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	241216,
+	9,
+	"slivered almonds",
+	0.25,
+	"cup",
+	"1/4 cup slivered almonds, toasted");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	0,
+	"all purpose flour",
+	3,
+	"cups",
+	"3 cups all purpose flour, divided");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	1,
+	"baking powder",
+	1,
+	"teaspoon",
+	"1 teaspoon baking powder");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	2,
+	"baking soda",
+	2,
+	"teaspoons",
+	"2 teaspoons baking soda");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	3,
+	"buttermilk",
+	1,
+	"cup",
+	"1 cup buttermilk");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	4,
+	"eggs",
+	4,
+	"",
+	"4 large eggs");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	5,
+	"golden brown sugar",
+	1.5,
+	"cups",
+	"1 1/2 cups (packed) golden brown sugar");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	6,
+	"instant espresso powder",
+	1.5,
+	"teaspoons",
+	"1 1/2 teaspoons instant espresso powder");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	7,
+	"maple extract",
+	1,
+	"teaspoon",
+	"1 teaspoon maple extract");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	8,
+	"maple syrup",
+	2,
+	"tablespoons",
+	"2 tablespoons pure maple syrup");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	9,
+	"powdered sugar",
+	1,
+	"cup",
+	"1 cup powdered sugar");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	10,
+	"salt",
+	0.75,
+	"teaspoon",
+	"3/4 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	11,
+	"semisweet chocolate chips",
+	12,
+	"ounce",
+	"1 12-ounce package semisweet chocolate chips");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	12,
+	"unsalted butter",
+	1,
+	"cup",
+	"1 cup (2 sticks) unsalted butter, room temperature");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	13,
+	"vanilla extract",
+	2.5,
+	"teaspoons",
+	"2 1/2 teaspoons vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	233162,
+	14,
+	"whipping cream",
+	2,
+	"tablespoons",
+	"2 tablespoons (or more) whipping cream");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	0,
+	"cinnamon sticks",
+	2,
+	"",
+	"2 cinnamon sticks");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	1,
+	"cranberries",
+	12,
+	"ounce",
+	"1 (12 ounce) bag fresh cranberries");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	2,
+	"golden brown sugar",
+	1,
+	"cup",
+	"1 cup packed golden brown sugar");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	3,
+	"granulated sugar",
+	1,
+	"cup",
+	"1 cup granulated sugar");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	4,
+	"orange rind",
+	1,
+	"strip",
+	"1 strip orange rind (strip is 3 by 1 inch in size)");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	5,
+	"whole allspice",
+	6,
+	"",
+	"6 whole allspice");
+INSERT INTO RecipeParts VALUES (
+	128389,
+	6,
+	"wine",
+	1.75,
+	"cups",
+	"1 3/4 cups red zinfandel wine");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	0,
+	"baking powder",
+	1,
+	"teaspoons",
+	"1 teaspoon(s) baking powder");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	1,
+	"baking soda",
+	1,
+	"teaspoons",
+	"1 teaspoon(s) baking soda");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	2,
+	"bananas",
+	3,
+	"",
+	"3 large bananas very ripe, mashed");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	3,
+	"butter",
+	1,
+	"sticks",
+	"1 stick(s) butter room temp");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	4,
+	"eggs",
+	2,
+	"",
+	"2 large eggs");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	5,
+	"flour",
+	1.5,
+	"cups",
+	"1.5 cup(s) all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	6,
+	"pecans",
+	0.75,
+	"cups",
+	"0.75 cup(s) chopped pecans");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	7,
+	"salt",
+	1,
+	"teaspoons",
+	"1 teaspoon(s) salt");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	8,
+	"sour cream",
+	0.5,
+	"cups",
+	"0.5 cup(s) sour cream");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	9,
+	"sugar",
+	1,
+	"cups",
+	"1 cup(s) sugar");
+INSERT INTO RecipeParts VALUES (
+	304441,
+	10,
+	"vanilla",
+	1,
+	"teaspoons",
+	"1 teaspoon(s) vanilla");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	0,
+	"broccoli florets",
+	16,
+	"oz",
+	"16 oz. frozen broccoli florets");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	1,
+	"butter",
+	4,
+	"Tbsp",
+	"4 Tbsp butter");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	2,
+	"fettuccine",
+	16,
+	"oz",
+	"16 oz. dry fettuccine");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	3,
+	"flour",
+	4,
+	"Tbsp",
+	"4 Tbsp all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	4,
+	"garlic",
+	1,
+	"clove",
+	"1 clove garlic");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	5,
+	"milk",
+	3,
+	"cups",
+	"3 cups milk");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	6,
+	"nutmeg",
+	0.125,
+	"tsp",
+	"1/8 tsp nutmeg");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	7,
+	"parmesan",
+	1,
+	"cup",
+	"1 cup grated parmesan");
+INSERT INTO RecipeParts VALUES (
+	29353,
+	8,
+	"Salt & Pepper",
+	8,
+	"servings",
+	"to taste salt & pepper");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	0,
+	"bacon",
+	4,
+	"",
+	"4 bacon slices, cooked and crumbled");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	1,
+	"pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon freshly ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	2,
+	"blue cheese",
+	0.5,
+	"cup",
+	"2 ounces crumbled blue cheese (about 1/2 cup)");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	3,
+	"dijon mustard",
+	2,
+	"teaspoons",
+	"2 teaspoons Dijon mustard");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	4,
+	"french bread",
+	1.5,
+	"cups",
+	"1 1/2 cups (3/4-inch) cubed French bread");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	5,
+	"green onions",
+	0.5,
+	"cup",
+	"1/2 cup sliced green onions");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	6,
+	"hard cooked eggs",
+	2,
+	"",
+	"2 hard-cooked large eggs, chopped");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	7,
+	"kosher salt",
+	0.125,
+	"teaspoon",
+	"1/8 teaspoon kosher salt");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	8,
+	"olive oil",
+	3,
+	"tablespoons",
+	"3 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	9,
+	"plum tomato",
+	1,
+	"cup",
+	"1 cup chopped seeded plum tomato");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	10,
+	"romaine hearts",
+	6,
+	"cups",
+	"6 cups chopped hearts of romaine lettuce (about 2 hearts)");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	11,
+	"shallots",
+	2,
+	"tablespoons",
+	"2 tablespoons finely minced shallots");
+INSERT INTO RecipeParts VALUES (
+	197225,
+	12,
+	"white wine vinegar",
+	2,
+	"tablespoons",
+	"2 tablespoons white wine vinegar");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	0,
+	"baking powder",
+	1.75,
+	"teaspoons",
+	"1 3/4 teaspoons baking powder");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	1,
+	"cornstarch",
+	1.5,
+	"teaspoons",
+	"1 1/2 teaspoons cornstarch");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	2,
+	"egg",
+	1,
+	"",
+	"1 large egg");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	3,
+	"flour",
+	1,
+	"cup",
+	"1 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	4,
+	"rhubarb",
+	10,
+	"ounces",
+	"2 cups chopped fresh rhubarb stalks (10 ounces)");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	5,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	6,
+	"strawberries",
+	5,
+	"ounces",
+	"1 cup chopped fresh strawberries (5 ounces)");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	7,
+	"sugar",
+	0.3333333,
+	"cup",
+	"1/3 cup plus 1/2 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	8,
+	"unsalted butter",
+	0.5,
+	"cup",
+	"1 stick (1/2 cup) unsalted butter, melted and cooled slightly");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	9,
+	"vanilla extract",
+	1,
+	"teaspoon",
+	"1 teaspoon pure vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	10,
+	"water",
+	0.25,
+	"cup",
+	"1/4 cup water");
+INSERT INTO RecipeParts VALUES (
+	242862,
+	11,
+	"whole milk",
+	0.5,
+	"cup",
+	"1/2 cup whole milk");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	0,
+	"duck eggs",
+	4,
+	"",
+	"4 large chicken or duck* eggs");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	1,
+	"escarole",
+	2,
+	"heads",
+	"2 large heads (1 1/4 lbs. total) escarole, stem ends trimmed, leaves rinsed and drained (leave some water on leaves)");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	2,
+	"fregola sarda",
+	1,
+	"cup",
+	"1 cup pearl couscous or fregola sarda*");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	3,
+	"garlic cloves",
+	2,
+	"",
+	"2 garlic cloves, thinly sliced");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	4,
+	"kosher salt",
+	0.75,
+	"tsp",
+	"About 3/4 tsp. kosher salt, divided");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	5,
+	"low sodium chicken broth",
+	0.5,
+	"cup",
+	"1/2 cup reduced-sodium chicken broth");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	6,
+	"rye meal",
+	4,
+	"servings",
+	"Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	7,
+	"olive oil",
+	5,
+	"tbsp",
+	"About 5 tbsp. extra-virgin olive oil, divided");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	8,
+	"parmesan cheese",
+	0.5,
+	"cup",
+	"About 1/2 cup finely grated parmesan cheese");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	9,
+	"pepper",
+	0.5,
+	"tsp",
+	"About 1/2 tsp. pepper");
+INSERT INTO RecipeParts VALUES (
+	304212,
+	10,
+	"white distilled vinegar",
+	0.25,
+	"cup",
+	"1/4 cup distilled white vinegar");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	0,
+	"butter",
+	0.5,
+	"cup",
+	"1/2 cup cold butter, cubed");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	1,
+	"confectioners' sugar",
+	1,
+	"cup",
+	"1 cup confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	2,
+	"cream cheese",
+	8,
+	"ounces",
+	"1 package (8 ounces) cream cheese, softened");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	3,
+	"creamy peanut butter",
+	0.5,
+	"cup",
+	"1/2 cup creamy peanut butter");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	4,
+	"dry roasted peanuts",
+	0.6666667,
+	"cup",
+	"2/3 cup finely chopped dry roasted peanuts");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	5,
+	"flour",
+	1,
+	"cup",
+	"1 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	6,
+	"instant chocolate pudding mix",
+	3.9,
+	"ounces",
+	"1 package (3.9 ounces) instant chocolate pudding mix");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	7,
+	"instant vanilla pudding mix",
+	3.4,
+	"ounces",
+	"1 package (3.4 ounces) instant vanilla pudding mix");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	8,
+	"milk",
+	2,
+	"cups",
+	"2-3/4 cups cold milk");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	9,
+	"semisweet chocolate",
+	24,
+	"servings",
+	"Grated semisweet chocolate, optional");
+INSERT INTO RecipeParts VALUES (
+	434850,
+	10,
+	"whipped topping",
+	8,
+	"ounces",
+	"1 carton (8 ounces) frozen whipped topping, thawed, divided");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	0,
+	"beef short ribs",
+	8,
+	"",
+	"8 meaty short rib of beef, 3 inch-long");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	1,
+	"canned chipotle chiles",
+	1.5,
+	"tablespoons",
+	"1 1/2 tablespoons chopped canned chipotle chiles");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	2,
+	"chicken broth",
+	14,
+	"ounce",
+	"1 (14 ounce) can low sodium chicken broth");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	3,
+	"chili powder",
+	1,
+	"teaspoon",
+	"1 teaspoon chili powder");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	4,
+	"chilies",
+	3,
+	"",
+	"3 large fresh anaheim chilies, stemmed,seeded,cut into 1/4 inch-thick rings (california)");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	5,
+	"fresh cilantro",
+	4,
+	"servings",
+	"chopped fresh cilantro");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	6,
+	"garlic",
+	6,
+	"cloves",
+	"6 cloves garlic, minced");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	7,
+	"ground coriander",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon ground coriander");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	8,
+	"ground cumin",
+	1,
+	"teaspoon",
+	"1 teaspoon ground cumin");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	9,
+	"ground red pepper",
+	1,
+	"teaspoon",
+	"1 teaspoon fresh ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	10,
+	"lime juice",
+	0.25,
+	"cup",
+	"1/4 cup fresh lime juice");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	11,
+	"lime wedge",
+	4,
+	"servings",
+	"lime wedge");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	12,
+	"olive oil",
+	2,
+	"tablespoons",
+	"2 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	13,
+	"onions",
+	1.5,
+	"cups",
+	"1 1/2 cups chopped onions");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	14,
+	"salt",
+	1,
+	"teaspoon",
+	"1 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	144857,
+	15,
+	"tomato",
+	1,
+	"cup",
+	"1 cup drained canned diced tomato");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	0,
+	"almonds",
+	0.3333333,
+	"cup",
+	"1/3 cup unblanched almonds, coarsely ground");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	1,
+	"baby spinach",
+	9,
+	"ounces",
+	"1 package (9 ounces) fresh baby spinach");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	2,
+	"balsamic vinegar",
+	3,
+	"tablespoons",
+	"3 tablespoons balsamic vinegar");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	3,
+	"canola oil",
+	3,
+	"teaspoons",
+	"3 teaspoons canola oil, divided");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	4,
+	"fresh rosemary",
+	1,
+	"tablespoon",
+	"1 tablespoon minced fresh rosemary or 1 teaspoon dried rosemary, crushed");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	5,
+	"low sodium chicken broth",
+	0.3333333,
+	"cup",
+	"1/3 cup reduced-sodium chicken broth");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	6,
+	"panko bread crumbs",
+	0.5,
+	"cup",
+	"1/2 cup panko (Japanese) bread crumbs");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	7,
+	"pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon pepper");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	8,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	9,
+	"shallots",
+	0.25,
+	"cup",
+	"1/4 cup chopped shallots");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	10,
+	"skinless boneless chicken breast halves",
+	16,
+	"ounces",
+	"4 boneless skinless chicken breast halves (4 ounces each)");
+INSERT INTO RecipeParts VALUES (
+	410328,
+	11,
+	"strawberry preserves",
+	0.3333333,
+	"cup",
+	"1/3 cup strawberry preserves");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	0,
+	"90% lean ground beef",
+	1,
+	"pound",
+	"1 pound lean ground beef (90% lean)");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	1,
+	"cucumber",
+	1,
+	"cup",
+	"1 cup finely chopped peeled cucumber");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	2,
+	"curry powder",
+	2,
+	"teaspoons",
+	"2 teaspoons curry powder");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	3,
+	"fresh dill",
+	2,
+	"teaspoons",
+	"2 teaspoons snipped fresh dill");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	4,
+	"fresh mint",
+	1,
+	"tablespoon",
+	"1 tablespoon minced fresh mint");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	5,
+	"garlic cloves",
+	2,
+	"",
+	"2 garlic cloves, minced");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	6,
+	"golden delicious apple",
+	1,
+	"",
+	"1 medium Golden Delicious apple, finely chopped");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	7,
+	"greek yogurt",
+	1,
+	"cup",
+	"1 cup fat-free plain Greek yogurt");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	8,
+	"lemon juice",
+	2,
+	"teaspoons",
+	"2 teaspoons lemon juice");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	9,
+	"onion",
+	1,
+	"",
+	"1 small onion, chopped");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	10,
+	"pita",
+	8,
+	"",
+	"8 whole wheat pita pocket halves");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	11,
+	"raisins",
+	0.25,
+	"cup",
+	"1/4 cup raisins");
+INSERT INTO RecipeParts VALUES (
+	426896,
+	12,
+	"salt",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	0,
+	"baking powder",
+	1,
+	"tsps",
+	"1-1/2 tsps baking powder");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	1,
+	"baking soda",
+	1,
+	"tsp",
+	"1 tsp baking soda");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	2,
+	"butter",
+	0.5,
+	"cup",
+	"1/2 cup (1 stick) butter, softened");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	3,
+	"cream",
+	8,
+	"oz",
+	"1 container (8 oz.) dairy sour cream");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	4,
+	"eggs",
+	2,
+	"",
+	"2 eggs");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	5,
+	"flour",
+	2,
+	"cups",
+	"2 cups all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	6,
+	"ground cinnamon",
+	1,
+	"tsp",
+	"1 tsp ground cinnamon");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	7,
+	"salt",
+	0.25,
+	"tsp",
+	"1/4 tsp salt");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	8,
+	"sugar",
+	1,
+	"cups",
+	"1-1/4 cups sugar, divided");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	9,
+	"toffee bits",
+	1,
+	"cups",
+	"1-1/3 cups (8-oz. pkg.) HEATH BITS 'O BRICKLE Toffee Bits, divided");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	10,
+	"vanilla extract",
+	1,
+	"tsp",
+	"1 tsp vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	61036,
+	11,
+	"walnuts",
+	0.25,
+	"cup",
+	"1/4 cup chopped walnuts");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	0,
+	"bulk pork sausage",
+	1,
+	"lb",
+	"1 lb ground beef or bulk italian sausage, browned and drained");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	1,
+	"olive oil",
+	12,
+	"servings",
+	"olive oil");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	2,
+	"parmesan cheese",
+	0.5,
+	"cup",
+	"1/2 cup parmesan cheese");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	3,
+	"pasta shells",
+	1,
+	"lb",
+	"1 lb rotini pasta or pasta shells or macaroni");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	4,
+	"ricotta cheese",
+	1,
+	"lb",
+	"1 lb ricotta cheese");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	5,
+	"shredded mozzarella cheese",
+	1,
+	"lb",
+	"1 lb pre-shredded mozzarella cheese");
+INSERT INTO RecipeParts VALUES (
+	138694,
+	6,
+	"spaghetti sauce",
+	1,
+	"quart",
+	"1-2 quart spaghetti sauce (i prefer classico)");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	0,
+	"canned pineapple",
+	20,
+	"ounce",
+	"1 (20 ounce) can crushed pineapple, drained");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	1,
+	"cream cheese",
+	8,
+	"ounces",
+	"8 ounces cream cheese");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	2,
+	"heavy cream",
+	0.5,
+	"cup",
+	"1/2 cup heavy cream, whipped");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	3,
+	"maraschino cherries",
+	0.25,
+	"cup",
+	"1/4 cup maraschino cherries, quartered");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	4,
+	"marshmallows",
+	2.5,
+	"cups",
+	"2 1/2 cups rainbow colored miniature marshmallows");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	5,
+	"mayonnaise",
+	1,
+	"cup",
+	"1 cup mayonnaise");
+INSERT INTO RecipeParts VALUES (
+	366704,
+	6,
+	"pecans",
+	1,
+	"cup",
+	"1 cup chopped pecans (optional)");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	0,
+	"baking powder",
+	1.75,
+	"teaspoons",
+	"1 3/4 teaspoons baking powder");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	1,
+	"cornstarch",
+	1.5,
+	"teaspoons",
+	"1 1/2 teaspoons cornstarch");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	2,
+	"egg",
+	1,
+	"",
+	"1 large egg");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	3,
+	"flour",
+	1,
+	"cup",
+	"1 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	4,
+	"rhubarb",
+	10,
+	"ounces",
+	"2 cups chopped fresh rhubarb stalks (10 ounces)");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	5,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	6,
+	"strawberries",
+	5,
+	"ounces",
+	"1 cup chopped fresh strawberries (5 ounces)");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	7,
+	"sugar",
+	0.3333333,
+	"cup",
+	"1/3 cup plus 1/2 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	8,
+	"unsalted butter",
+	0.5,
+	"cup",
+	"1 stick (1/2 cup) unsalted butter, melted and cooled slightly");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	9,
+	"vanilla extract",
+	1,
+	"teaspoon",
+	"1 teaspoon pure vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	10,
+	"water",
+	0.25,
+	"cup",
+	"1/4 cup water");
+INSERT INTO RecipeParts VALUES (
+	196957,
+	11,
+	"whole milk",
+	0.5,
+	"cup",
+	"1/2 cup whole milk");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	0,
+	"balsamic vinaigrette",
+	2,
+	"servings",
+	"Balsamic Vinaigrette");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	1,
+	"blue cheese",
+	2,
+	"ounces",
+	"2 ounces crumbled blue cheese");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	2,
+	"rye meal",
+	2,
+	"servings",
+	"Try Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	3,
+	"orange",
+	1,
+	"",
+	"1 orange, peeled and sectioned");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	4,
+	"pecans",
+	0.5,
+	"cup",
+	"1/2 cup Sweet-and-Spicy Pecans");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	5,
+	"salad greens",
+	5,
+	"ounce",
+	"1 (5-ounce) bag mixed spring salad greens");
+INSERT INTO RecipeParts VALUES (
+	241776,
+	6,
+	"strawberries",
+	0.5,
+	"pint",
+	"1/2 pint fresh strawberries, quartered");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	0,
+	"baking powder",
+	1.5,
+	"tsp",
+	"1 1/2 tsp baking powder");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	1,
+	"butter",
+	0.5,
+	"cup",
+	"1/2 cup butter");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	2,
+	"confectioners' sugar",
+	4,
+	"cup",
+	"4 cup confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	3,
+	"egg whites",
+	4,
+	"",
+	"4 x egg whites");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	4,
+	"flour",
+	2.25,
+	"cup",
+	"2 1/4 cup flour");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	5,
+	"milk",
+	1,
+	"cup",
+	"1 cup milk");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	6,
+	"salt",
+	0.5,
+	"tsp",
+	"1/2 tsp salt");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	7,
+	"shortening",
+	0.5,
+	"cup",
+	"1/2 cup shortening");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	8,
+	"sugar",
+	1.25,
+	"cup",
+	"1 1/4 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	9,
+	"vanilla extract",
+	1,
+	"tsp",
+	"1 tsp vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	15837,
+	10,
+	"water",
+	2,
+	"tbsp",
+	"2 tbsp water");
+INSERT INTO RecipeParts VALUES (
+	54557,
+	0,
+	"eggnog",
+	1,
+	"cup",
+	"1 cup eggnog, warmed");
+INSERT INTO RecipeParts VALUES (
+	54557,
+	1,
+	"ground coffee",
+	0.25,
+	"cup",
+	"1/4 cup ground MAXWELL HOUSE Coffee, any variety");
+INSERT INTO RecipeParts VALUES (
+	54557,
+	2,
+	"ground nutmeg",
+	0.25,
+	"tsp",
+	"1/4 tsp. ground nutmeg");
+INSERT INTO RecipeParts VALUES (
+	54557,
+	3,
+	"sugar",
+	2,
+	"Tbsp",
+	"2 Tbsp. sugar");
+INSERT INTO RecipeParts VALUES (
+	54557,
+	4,
+	"water",
+	2,
+	"cups",
+	"2-1/2 cups cold water");
+INSERT INTO RecipeParts VALUES (
+	54557,
+	5,
+	"whipped topping",
+	0.5,
+	"cup",
+	"1/2 cup thawed COOL WHIP Whipped Topping");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	0,
+	"applesauce",
+	0.5,
+	"cup",
+	"1/2 cup applesauce");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	1,
+	"blueberries",
+	2,
+	"cups",
+	"1 pint (2 cups) fresh blueberries, if desired");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	2,
+	"fruit cake mix",
+	1,
+	"box",
+	"1 box Betty white cake mix");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	3,
+	"canola oil",
+	1,
+	"tablespoon",
+	"1 tablespoon canola oil");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	4,
+	"fresh mint leaves",
+	24,
+	"",
+	"24 fresh mint leaves, if desired");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	5,
+	"powdered sugar",
+	3,
+	"cups",
+	"3 cups powdered sugar");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	6,
+	"vanilla bean",
+	1,
+	"",
+	"1 vanilla bean, seeds scraped from bean");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	7,
+	"water",
+	1,
+	"cup",
+	"1 cup water");
+INSERT INTO RecipeParts VALUES (
+	163522,
+	8,
+	"whipped topping",
+	8,
+	"oz",
+	"1 container (8 oz) Cool fat-free frozen whipped topping, thawed");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	0,
+	"berries",
+	3,
+	"cups",
+	"3 cups fresh berries (blueberries, raspberries, sliced strawberries)");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	1,
+	"eggs",
+	2,
+	"",
+	"2 eggs");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	2,
+	"heavy whipping cream",
+	2,
+	"cups",
+	"2 cups LAND O LAKES® Heavy Whipping Cream");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	3,
+	"lemon peel",
+	2,
+	"Tbsps",
+	"2 Tbsps freshly grated lemon peel");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	4,
+	"milk",
+	0.75,
+	"cup",
+	"3/4 cup milk");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	5,
+	"pound cake",
+	16,
+	"oz",
+	"1 (16-oz) package lb cake mix");
+INSERT INTO RecipeParts VALUES (
+	66518,
+	6,
+	"sugar",
+	0.25,
+	"cup",
+	"1/4 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	0,
+	"eggs",
+	6,
+	"",
+	"6 large eggs");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	1,
+	"flour",
+	0.5,
+	"cup",
+	"1/2 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	2,
+	"instant espresso powder",
+	1,
+	"teaspoon",
+	"1 teaspoon instant espresso powder");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	3,
+	"powdered sugar",
+	24,
+	"servings",
+	"Powdered sugar");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	4,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	5,
+	"semisweet chocolate",
+	8,
+	"ounces",
+	"8 ounces bittersweet (not unsweetened) or semisweet chocolate, chopped");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	6,
+	"sour cream",
+	0.25,
+	"cup",
+	"1/4 cup sour cream");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	7,
+	"sugar",
+	2,
+	"cups",
+	"2 cups sugar");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	8,
+	"unsalted butter",
+	0.75,
+	"cup",
+	"3/4 cup (1 1/2 sticks) unsalted butter");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	9,
+	"unsweetened cocoa powder",
+	0.3333333,
+	"cup",
+	"1/3 cup unsweetened cocoa powder");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	10,
+	"vanilla extract",
+	2,
+	"teaspoons",
+	"2 teaspoons vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	230940,
+	11,
+	"walnuts",
+	0.75,
+	"cup",
+	"3/4 cup chopped walnuts");
+INSERT INTO RecipeParts VALUES (
+	403492,
+	0,
+	"fresh basil leaves",
+	4,
+	"",
+	"4 large fresh basil leaves");
+INSERT INTO RecipeParts VALUES (
+	403492,
+	1,
+	"goat cheese",
+	4,
+	"tablespoons",
+	"4 tablespoons crumbled goat cheese");
+INSERT INTO RecipeParts VALUES (
+	403492,
+	2,
+	"lemon",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon lemon-pepper seasoning");
+INSERT INTO RecipeParts VALUES (
+	403492,
+	3,
+	"mayonnaise",
+	1,
+	"tablespoons",
+	"1 to 2 tablespoons mayonnaise");
+INSERT INTO RecipeParts VALUES (
+	403492,
+	4,
+	"multigrain bread",
+	4,
+	"slices",
+	"4 slices multigrain bread, crusts removed");
+INSERT INTO RecipeParts VALUES (
+	403492,
+	5,
+	"tuna packed in water",
+	6,
+	"ounces",
+	"1 can (6 ounces) light water-packed tuna, drained and flaked");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	0,
+	"90% lean ground beef",
+	1,
+	"pound",
+	"1 pound lean ground beef (90% lean)");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	1,
+	"condensed cream of celery soup",
+	10,
+	"ounces",
+	"1 can (10-3/4 ounces) reduced-fat reduced-sodium condensed cream of celery soup, undiluted");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	2,
+	"condensed cream of chicken soup",
+	10,
+	"ounces",
+	"1 can (10-3/4 ounces) reduced-fat reduced-sodium condensed cream of chicken soup, undiluted");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	3,
+	"fat-free milk",
+	0.5,
+	"cup",
+	"1/2 cup fat-free milk");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	4,
+	"fried onions",
+	0.75,
+	"cup",
+	"3/4 cup French-fried onions");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	5,
+	"lean ground turkey",
+	0.5,
+	"pound",
+	"1/2 pound extra-lean ground turkey");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	6,
+	"mixed vegetables",
+	16,
+	"ounces",
+	"1 package (16 ounces) frozen mixed vegetables, thawed and drained");
+INSERT INTO RecipeParts VALUES (
+	424016,
+	7,
+	"tater tots",
+	4,
+	"cups",
+	"4 cups frozen Tater Tots, thawed");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	0,
+	"apples",
+	4,
+	"",
+	"4 large apples (if you can, choose 4 different kinds)");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	1,
+	"baking powder",
+	0.75,
+	"teaspoon",
+	"3/4 teaspoon baking powder");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	2,
+	"dark rum",
+	3,
+	"tablespoons",
+	"3 tablespoons dark rum");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	3,
+	"eggs",
+	2,
+	"",
+	"2 large eggs");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	4,
+	"flour",
+	0.75,
+	"cup",
+	"3/4 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	5,
+	"salt",
+	1,
+	"pinch",
+	"Pinch of salt");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	6,
+	"sugar",
+	0.75,
+	"cup",
+	"3/4 cup sugar");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	7,
+	"unsalted butter",
+	8,
+	"tablespoons",
+	"8 tablespoons (1 stick) unsalted butter, melted and cooled");
+INSERT INTO RecipeParts VALUES (
+	238846,
+	8,
+	"vanilla extract",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon pure vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	0,
+	"english cucumber",
+	0.25,
+	"cup",
+	"1/4 cup thinly sliced English cucumber");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	1,
+	"english cucumber",
+	0.5,
+	"cup",
+	"1/2 cup grated English cucumber, pressed between paper towels and squeezed dry");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	2,
+	"french bread",
+	12,
+	"ounce",
+	"1 (12-ounce) loaf French bread (about 12 inches long)");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	3,
+	"lettuce leaves",
+	4,
+	"leaf",
+	"4 green leaf lettuce leaves");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	4,
+	"rye meal",
+	4,
+	"servings",
+	"Try Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	5,
+	"ranch dressing",
+	0.3333333,
+	"cup",
+	"1/3 cup low-fat ranch dressing");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	6,
+	"salmon fillets",
+	16,
+	"ounce",
+	"4 (4-ounce) skinless tail-end salmon fillets (about 1/2-inch thick)");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	7,
+	"salt",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	303684,
+	8,
+	"seasoning blend",
+	1.5,
+	"tablespoons",
+	"1 1/2 tablespoons salt-free blackened redfish seasoning blend (such as The Spice Hunter)");
+INSERT INTO RecipeParts VALUES (
+	485486,
+	0,
+	"coconut milk",
+	19,
+	"oz",
+	"19 oz can Mae Ploy Coconut Milk, divided");
+INSERT INTO RecipeParts VALUES (
+	485486,
+	1,
+	"coconut oil",
+	8,
+	"TBS",
+	"8 TBS melted coconut oil");
+INSERT INTO RecipeParts VALUES (
+	485486,
+	2,
+	"cornstarch",
+	2,
+	"TBS",
+	"2 TBS organic cornstarch");
+INSERT INTO RecipeParts VALUES (
+	485486,
+	3,
+	"dairy free chocolate chips",
+	0.75,
+	"cup",
+	"¾ cup dairy free chocolate chips");
+INSERT INTO RecipeParts VALUES (
+	485486,
+	4,
+	"graham cracker crumbs",
+	1.5,
+	"cup",
+	"1½ cup finely ground graham cracker crumbs (you can use vegan or gluten free)");
+INSERT INTO RecipeParts VALUES (
+	485486,
+	5,
+	"sucanat",
+	0.25,
+	"cup",
+	"¼ cup sucanat");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	0,
+	"bay leaf",
+	1,
+	"",
+	"1 bay leaf");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	1,
+	"butter",
+	2,
+	"Tbsp",
+	"2 Tbsp. butter");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	2,
+	"duck leg",
+	3,
+	"lb",
+	"1 rolled boneless lamb shoulder or leg roast (about 3-1/2 lb.)");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	3,
+	"garlic",
+	6,
+	"cloves",
+	"6 cloves garlic, divided");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	4,
+	"italian dressing",
+	1,
+	"cup",
+	"1 cup KRAFT Zesty Italian Dressing");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	5,
+	"olive oil",
+	2,
+	"Tbsp",
+	"2 Tbsp. olive oil");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	6,
+	"paprika",
+	2,
+	"Tbsp",
+	"2 Tbsp. paprika, divided");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	7,
+	"parsley",
+	0.25,
+	"cup",
+	"1/4 cup chopped Italian parsley");
+INSERT INTO RecipeParts VALUES (
+	268436,
+	8,
+	"pimentos",
+	3,
+	"",
+	"3 fresh pimentos, cut into thin strips (about 3 cups)");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	0,
+	"butter",
+	1,
+	"tablespoon",
+	"1 tablespoon butter");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	1,
+	"dried apricots",
+	12,
+	"ounces",
+	"12 ounces dried apricots");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	2,
+	"ground cinnamon",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon ground cinnamon");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	3,
+	"pie crusts",
+	15,
+	"ounce",
+	"1 (15 ounce) package frozen prepared pie crusts, thawed");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	4,
+	"vegetable oil",
+	0.5,
+	"cup",
+	"1/2 cup vegetable oil for frying");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	5,
+	"water",
+	12,
+	"servings",
+	"water to cover");
+INSERT INTO RecipeParts VALUES (
+	422365,
+	6,
+	"white sugar",
+	0.5,
+	"cup",
+	"1/2 cup white sugar");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	0,
+	"butter",
+	0.25,
+	"cup",
+	"1/4 cup butter, cubed");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	1,
+	"confectioners' sugar",
+	1,
+	"cup",
+	"1 cup confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	2,
+	"crisp rice cereal",
+	7,
+	"cups",
+	"7 cups crisp rice cereal");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	3,
+	"peanut butter",
+	0.75,
+	"cup",
+	"3/4 cup peanut butter");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	4,
+	"peanut butter chips",
+	10,
+	"ounces",
+	"1 package (10 ounces) peanut butter chips");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	5,
+	"semisweet chocolate chips",
+	12,
+	"ounces",
+	"2 cups (12 ounces) semisweet chocolate chips");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	6,
+	"vanilla extract",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	387940,
+	7,
+	"water",
+	2,
+	"tablespoons",
+	"2 tablespoons water");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	0,
+	"adobo sauce",
+	1,
+	"teaspoon",
+	"1 teaspoon adobo sauce");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	1,
+	"canola oil",
+	1,
+	"teaspoon",
+	"1 teaspoon canola oil");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	2,
+	"chipotle chiles in adobo",
+	7,
+	"ounce",
+	"1 (7-ounce) can chipotle chiles in adobo sauce");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	3,
+	"cream cheese",
+	4,
+	"ounces",
+	"1/2 cup (4 ounces) block-style fat-free cream cheese, softened");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	4,
+	"cumin",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon cumin");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	5,
+	"fresh cilantro",
+	2,
+	"cups",
+	"2 cups chopped fresh cilantro (about 1 bunch)");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	6,
+	"goat cheese",
+	2,
+	"ounces",
+	"1/4 cup (2 ounces) goat cheese");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	7,
+	"lime juice",
+	0.25,
+	"cup",
+	"1/4 cup fresh lime juice");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	8,
+	"lime juice",
+	2.5,
+	"teaspoons",
+	"2 1/2 teaspoons fresh lime juice");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	9,
+	"rye meal",
+	8,
+	"servings",
+	"Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	10,
+	"paprika",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon paprika");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	11,
+	"red onion",
+	0.25,
+	"cup",
+	"1/4 cup minced red onion");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	12,
+	"tomatillos",
+	1,
+	"cup",
+	"1 cup finely chopped tomatillos (about 4 medium)");
+INSERT INTO RecipeParts VALUES (
+	344054,
+	13,
+	"white corn tortillas",
+	8,
+	"6-inch",
+	"8 (6-inch) white corn tortillas");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	0,
+	"apples",
+	2,
+	"",
+	"2 medium apples, chopped");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	1,
+	"balsamic vinegar",
+	0.25,
+	"cup",
+	"1/4 cup balsamic vinegar");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	2,
+	"brown sugar",
+	1,
+	"tablespoon",
+	"1 tablespoon brown sugar");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	3,
+	"curry powder",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon curry powder, optional");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	4,
+	"dijon mustard",
+	1,
+	"tablespoon",
+	"1 tablespoon Dijon mustard");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	5,
+	"ground ginger",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon ground ginger");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	6,
+	"lemon juice",
+	2,
+	"tablespoons",
+	"2 tablespoons lemon juice");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	7,
+	"low sodium soy sauce",
+	2,
+	"tablespoons",
+	"2 tablespoons reduced-sodium soy sauce");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	8,
+	"olive oil",
+	0.25,
+	"cup",
+	"1/4 cup olive oil");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	9,
+	"orange juice",
+	0.25,
+	"cup",
+	"1/4 cup orange juice");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	10,
+	"pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon pepper");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	11,
+	"red onion",
+	0.5,
+	"cup",
+	"1/2 cup thinly sliced red onion");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	12,
+	"salad greens",
+	10,
+	"cups",
+	"10 cups torn mixed salad greens");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	13,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	14,
+	"shredded chicken",
+	2,
+	"cups",
+	"2 cups shredded cooked chicken");
+INSERT INTO RecipeParts VALUES (
+	439434,
+	15,
+	"walnuts",
+	0.5,
+	"cup",
+	"1/2 cup chopped walnuts, toasted");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	0,
+	"breadcrumbs",
+	50,
+	"g",
+	"50 g course breadcrumbs, such as panko honey crumb");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	1,
+	"free range egg",
+	500,
+	"g",
+	"500 g free range chicken thighs, skin and bones removed");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	2,
+	"courgettes",
+	2,
+	"",
+	"2 medium green courgettes");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	3,
+	"extra virgin olive oil",
+	40,
+	"g",
+	"40 g extra virgin olive oil");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	4,
+	"garlic",
+	1,
+	"clove",
+	"1 small clove of garlic, crushed");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	5,
+	"lemon juice",
+	20,
+	"g",
+	"20 g lemon juice");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	6,
+	"lemon zest",
+	4,
+	"servings",
+	"zest of two lemons");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	7,
+	"oregano",
+	1,
+	"tsp",
+	"1 tsp oregano");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	8,
+	"parmesan cheese",
+	30,
+	"g",
+	"30 g Parmesan cheese");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	9,
+	"parsley",
+	20,
+	"g",
+	"20 g continental parsley");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	10,
+	"salt and pepper",
+	3,
+	"servings",
+	"Salt and freshly ground pepper");
+INSERT INTO RecipeParts VALUES (
+	78757,
+	11,
+	"unsalted butter",
+	40,
+	"g",
+	"40 g unsalted butter melted");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	0,
+	"chili powder",
+	2,
+	"tablespoons",
+	"2 tablespoons chili powder");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	1,
+	"dark brown sugar",
+	2,
+	"tablespoons",
+	"2 tablespoons dark brown sugar");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	2,
+	"garlic powder",
+	3,
+	"tablespoons",
+	"3 tablespoons garlic powder");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	3,
+	"ground cumin",
+	3,
+	"tablespoons",
+	"3 tablespoons ground cumin");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	4,
+	"ground red pepper",
+	2,
+	"tablespoons",
+	"2 tablespoons ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	5,
+	"onion powder",
+	1,
+	"tablespoon",
+	"1 tablespoon onion powder");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	6,
+	"sea salt",
+	0.25,
+	"cup",
+	"1/4 cup sea salt");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	7,
+	"unsweetened cocoa powder",
+	2,
+	"teaspoons",
+	"2 teaspoons unsweetened cocoa powder");
+INSERT INTO RecipeParts VALUES (
+	446666,
+	8,
+	"white sugar",
+	1,
+	"tablespoon",
+	"1 tablespoon white sugar");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	0,
+	"chipotle pepper in adobo",
+	1,
+	"",
+	"1 chipotle pepper in adobo sauce, finely chopped");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	1,
+	"fresh cilantro",
+	2,
+	"tablespoons",
+	"2 tablespoons minced fresh cilantro");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	2,
+	"garlic powder",
+	1,
+	"teaspoon",
+	"1 teaspoon garlic powder");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	3,
+	"ground beef",
+	1,
+	"pound",
+	"1 pound ground beef");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	4,
+	"hamburger buns",
+	4,
+	"",
+	"4 hamburger buns, split and toasted");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	5,
+	"lettuce leaves",
+	1,
+	"leaves",
+	"Lettuce leaves and tomato slices, optional");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	6,
+	"onion",
+	1,
+	"",
+	"1 small onion, finely chopped");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	7,
+	"onion powder",
+	1,
+	"teaspoon",
+	"1 teaspoon onion powder");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	8,
+	"part-skim mozzarella cheese",
+	4,
+	"slices",
+	"4 slices part-skim mozzarella cheese");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	9,
+	"pepper",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon pepper");
+INSERT INTO RecipeParts VALUES (
+	468924,
+	10,
+	"seasoned salt",
+	1,
+	"teaspoon",
+	"1 teaspoon seasoned salt");
+INSERT INTO RecipeParts VALUES (
+	282468,
+	0,
+	"cherry tomatoes",
+	1,
+	"cup",
+	"1 cup cherry tomatoes, halved");
+INSERT INTO RecipeParts VALUES (
+	282468,
+	1,
+	"chive & onion cream cheese spread",
+	10,
+	"ounce",
+	"1 (10 ounce) tub PHILADELPHIA Spicy Jalapeno Cream Cheese Spread");
+INSERT INTO RecipeParts VALUES (
+	282468,
+	2,
+	"red onion",
+	0.25,
+	"cup",
+	"1/4 cup thinly sliced red onion");
+INSERT INTO RecipeParts VALUES (
+	282468,
+	3,
+	"refrigerated pizza dough",
+	1,
+	"pound",
+	"1 pound refrigerated pizza dough");
+INSERT INTO RecipeParts VALUES (
+	282468,
+	4,
+	"thick-cut bacon",
+	8,
+	"slices",
+	"8 slices cooked OSCAR MAYER Butcher Thick Cut Applewood Smoked Bacon, crumbled");
+INSERT INTO RecipeParts VALUES (
+	282468,
+	5,
+	"three cheese",
+	1,
+	"cup",
+	"1 cup KRAFT Shredded Three Cheese with a Touch of PHILADELPHIA");
+INSERT INTO RecipeParts VALUES (
+	115677,
+	0,
+	"asparagus",
+	1,
+	"pound",
+	"1 pound fresh asparagus, trimmed");
+INSERT INTO RecipeParts VALUES (
+	115677,
+	1,
+	"dried tarragon",
+	0.25,
+	"teaspoon",
+	"1/4 to 1/2 teaspoon dried tarragon");
+INSERT INTO RecipeParts VALUES (
+	115677,
+	2,
+	"olive oil",
+	2,
+	"tablespoons",
+	"2 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	115677,
+	3,
+	"onion powder",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon onion powder");
+INSERT INTO RecipeParts VALUES (
+	115677,
+	4,
+	"pepper",
+	0.125,
+	"teaspoon",
+	"1/8 teaspoon pepper");
+INSERT INTO RecipeParts VALUES (
+	237610,
+	0,
+	"basil pesto",
+	3,
+	"tablespoons",
+	"3 tablespoons prepared basil pesto");
+INSERT INTO RecipeParts VALUES (
+	237610,
+	1,
+	"halibut",
+	1.5,
+	"pounds",
+	"1 1/2 pounds halibut, cut into 1-inch chunks");
+INSERT INTO RecipeParts VALUES (
+	237610,
+	2,
+	"rye meal",
+	4,
+	"servings",
+	"Build-A-Meal");
+INSERT INTO RecipeParts VALUES (
+	237610,
+	3,
+	"red bell pepper",
+	1,
+	"",
+	"1 large red bell pepper, cut into 1-inch chunks");
+INSERT INTO RecipeParts VALUES (
+	237610,
+	4,
+	"salt",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	237610,
+	5,
+	"white wine vinegar",
+	2,
+	"tablespoons",
+	"2 tablespoons white wine vinegar");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	0,
+	"apple",
+	0.5,
+	"",
+	"1/2 apple, diced");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	1,
+	"cayenne pepper",
+	1,
+	"pinch",
+	"1 pinch cayenne pepper, or to taste");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	2,
+	"flat leaf parsley",
+	1,
+	"teaspoon",
+	"1 teaspoon chopped Italian flat leaf parsley");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	3,
+	"gorgonzola cheese",
+	3,
+	"ounces",
+	"3 ounces crumbled Gorgonzola cheese");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	4,
+	"heavy whipping cream",
+	1,
+	"cup",
+	"1 cup heavy whipping cream");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	5,
+	"parmesan cheese",
+	2,
+	"tablespoons",
+	"2 tablespoons freshly grated Parmesan cheese");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	6,
+	"ravioli",
+	6,
+	"ounces",
+	"6 ounces dry miniature ravioli");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	7,
+	"salt and pepper",
+	6,
+	"servings",
+	"salt and freshly ground black pepper to taste");
+INSERT INTO RecipeParts VALUES (
+	280043,
+	8,
+	"walnuts",
+	0.25,
+	"cup",
+	"1/4 cup chopped toasted walnuts");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	0,
+	"wax beans",
+	1,
+	"cans",
+	"1 can(s) Retried Beans");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	1,
+	"black olives",
+	1,
+	"cans",
+	"1 can(s) Sliced black olives");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	2,
+	"guacamole",
+	8,
+	"ounces",
+	"8 ounce(s) Guacamole Dip");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	3,
+	"shredded cheese",
+	8,
+	"ounces",
+	"8 ounce(s) shredded cheese");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	4,
+	"sour cream",
+	8,
+	"ounces",
+	"8 ounce(s) sour cream");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	5,
+	"taco seasoning",
+	0.5,
+	"packages",
+	"1/2 package(s) Taco seasoning");
+INSERT INTO RecipeParts VALUES (
+	364256,
+	6,
+	"tomatoes",
+	1,
+	"serving",
+	"diced tomatoes");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	0,
+	"baking soda",
+	1,
+	"teaspoon",
+	"1 teaspoon baking soda");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	1,
+	"cinnamon",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon cinnamon");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	2,
+	"egg",
+	1,
+	"",
+	"1 large egg for egg wash");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	3,
+	"eggs",
+	2,
+	"",
+	"2 large eggs");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	4,
+	"flour",
+	1,
+	"",
+	"1 plus 2 tablespoons (170 grams/6 ounces) all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	5,
+	"hazelnuts",
+	1.75,
+	"cups",
+	"1 3/4 cups (227 grams/8 ounces) hazelnuts, whole, toasted");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	6,
+	"instant coffee powder",
+	1,
+	"teaspoon",
+	"1 teaspoon instant coffee powder");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	7,
+	"semisweet chocolate chips",
+	0.75,
+	"cup",
+	"3/4 cup (130 grams/4.59 ounces) semisweet chocolate chips");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	8,
+	"sugar",
+	1,
+	"cup",
+	"1 cup plus 1 tablespoon (212 grams/7.48 ounces) sugar");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	9,
+	"unsalted butter",
+	2,
+	"tablespoons",
+	"2 tablespoons (28 grams/1 ounce) unsalted butter, slightly softened");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	10,
+	"unsweetened cocoa powder",
+	0.5,
+	"cup",
+	"1/2 cup plus 2 teaspoons (52 grams/1.83 ounces) unsweetened cocoa powder");
+INSERT INTO RecipeParts VALUES (
+	208985,
+	11,
+	"vanilla extract",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	0,
+	"cheddar cheese",
+	1,
+	"cups",
+	"1 cup(s) cheddar cheese");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	1,
+	"oregano",
+	0.5,
+	"tablespoons",
+	"1/2 tablespoon(s) fresh oregano");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	2,
+	"ground red pepper",
+	0.25,
+	"teaspoons",
+	"1/4 teaspoon(s) ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	3,
+	"ground pork",
+	1.5,
+	"pounds",
+	"1 1/2 pound(s) ground pork");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	4,
+	"onion",
+	0.5,
+	"cups",
+	"1/2 cup(s) chopped onion");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	5,
+	"parsley",
+	0.5,
+	"tablespoons",
+	"1/2 tablespoon(s) chopped parsley");
+INSERT INTO RecipeParts VALUES (
+	315990,
+	6,
+	"sea salt",
+	0.25,
+	"teaspoons",
+	"1/4 teaspoon(s) sea salt");
+INSERT INTO RecipeParts VALUES (
+	417767,
+	0,
+	"brown sugar",
+	2,
+	"tablespoons",
+	"2 tablespoons brown sugar");
+INSERT INTO RecipeParts VALUES (
+	417767,
+	1,
+	"hot dogs",
+	1,
+	"pound",
+	"1 package (1 pound) hot dogs, halved lengthwise and cut into thirds");
+INSERT INTO RecipeParts VALUES (
+	417767,
+	2,
+	"mustard",
+	2,
+	"teaspoons",
+	"2 teaspoons prepared mustard");
+INSERT INTO RecipeParts VALUES (
+	417767,
+	3,
+	"onion powder",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon onion powder");
+INSERT INTO RecipeParts VALUES (
+	417767,
+	4,
+	"pork and beans",
+	30,
+	"ounces",
+	"2 cans (15 ounces each) pork and beans");
+INSERT INTO RecipeParts VALUES (
+	417767,
+	5,
+	"worcestershire sauce",
+	2,
+	"teaspoons",
+	"2 teaspoons Worcestershire sauce");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	0,
+	"baking mix",
+	1,
+	"cup",
+	"1 cup biscuit/baking mix");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	1,
+	"butter",
+	4,
+	"teaspoons",
+	"4 teaspoons butter, melted");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	2,
+	"dried parsley flakes",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon dried parsley flakes");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	3,
+	"garlic powder",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon garlic powder");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	4,
+	"green chilies",
+	2,
+	"tablespoons",
+	"2 tablespoons chopped green chilies");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	5,
+	"italian seasoning",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon Italian seasoning");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	6,
+	"shredded cheddar cheese",
+	0.5,
+	"cup",
+	"1/2 cup shredded cheddar cheese");
+INSERT INTO RecipeParts VALUES (
+	367374,
+	7,
+	"water",
+	0.25,
+	"cup",
+	"1/4 cup cold water");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	0,
+	"baking powder",
+	1,
+	"teaspoon",
+	"1 teaspoon baking powder");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	1,
+	"baking soda",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon baking soda");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	2,
+	"bananas",
+	4,
+	"",
+	"4 frozen bananas, peeled and cut in 2-inch pieces");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	3,
+	"cocoa powder",
+	0.5,
+	"cup",
+	"1/2 cup good quality cocoa powder");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	4,
+	"confectioners' sugar",
+	0.5,
+	"cup",
+	"1/2 cup confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	5,
+	"eggs",
+	3,
+	"",
+	"3 large eggs");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	6,
+	"flour",
+	2,
+	"cups",
+	"2 cups all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	7,
+	"juice of lemon",
+	0.5,
+	"",
+	"Juice of 1/2 Meyer lemon");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	8,
+	"light brown sugar",
+	1,
+	"cup",
+	"1 cup light brown sugar");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	9,
+	"mascarpone cheese",
+	0.5,
+	"cup",
+	"1/2 cup mascarpone cheese");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	10,
+	"pecan nuts",
+	1,
+	"cup",
+	"1 cup pecan nuts, coarsely chopped");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	11,
+	"salt",
+	0.25,
+	"teaspoon",
+	"1/4 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	12,
+	"semi sweet chocolate chips",
+	1,
+	"cup",
+	"1 cup semi sweet chocolate chips");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	13,
+	"vanilla bean",
+	1,
+	"",
+	"1 vanilla bean, halved, seeds removed");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	14,
+	"vanilla extract",
+	2,
+	"teaspoons",
+	"2 teaspoons pure vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	371834,
+	15,
+	"white sugar",
+	0.5,
+	"cup",
+	"1/2 cup white sugar");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	0,
+	"brown sugar",
+	2,
+	"teaspoons",
+	"2 teaspoons brown sugar");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	1,
+	"canned diced tomatoes",
+	0.75,
+	"cup",
+	"3/4 cup canned diced tomatoes");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	2,
+	"celery",
+	0.25,
+	"cup",
+	"1/4 cup chopped celery");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	3,
+	"chili powder",
+	1,
+	"teaspoon",
+	"1 teaspoon chili powder");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	4,
+	"oregano",
+	1,
+	"teaspoon",
+	"1 teaspoon minced fresh oregano");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	5,
+	"green bell pepper",
+	0.5,
+	"",
+	"1/2 medium green pepper, diced");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	6,
+	"ground mustard",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon ground mustard");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	7,
+	"lima beans",
+	1,
+	"cup",
+	"1 cup frozen lima beans, thawed");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	8,
+	"olive oil",
+	1,
+	"tablespoon",
+	"1 tablespoon olive oil");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	9,
+	"onion",
+	0.3333333,
+	"cup",
+	"1/3 cup chopped onion");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	10,
+	"turkey sausage",
+	0.25,
+	"pound",
+	"1/4 pound turkey Italian sausage links, cut into 1/4-inch slices");
+INSERT INTO RecipeParts VALUES (
+	95272,
+	11,
+	"water",
+	3,
+	"tablespoons",
+	"3 tablespoons water");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	0,
+	"bacon",
+	0.5,
+	"lb",
+	"1/2 lb of bacon");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	1,
+	"bread",
+	2,
+	"slices",
+	"2 thick slices good bread, torn into small, rough pieces.");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	2,
+	"fresh thyme leaves",
+	2,
+	"T",
+	"2 T fresh thyme leaves");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	3,
+	"garlic",
+	1,
+	"clove",
+	"1 clove of garlic, minced");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	4,
+	"pumpkin",
+	3,
+	"",
+	"3 # of squash or pumpkin flesh, seeded, peeled and cubed");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	5,
+	"salt and pepper",
+	3,
+	"servings",
+	"salt and freshly ground pepper");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	6,
+	"water",
+	5,
+	"C",
+	"5 C of water");
+INSERT INTO RecipeParts VALUES (
+	24070,
+	7,
+	"yellow onion",
+	1,
+	"",
+	"1 yellow onion, chopped");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	0,
+	"bacon",
+	0.5,
+	"lb",
+	"1/2 lb bacon, chopped");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	1,
+	"cheddar cheese",
+	6,
+	"ounces",
+	"6 ounces sliced cheddar cheese");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	2,
+	"corn",
+	2,
+	"cups",
+	"2 large corn muffins, crumbled by hand (2 to 3 cups)");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	3,
+	"pepper",
+	2,
+	"teaspoons",
+	"2 teaspoons freshly cracked black pepper");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	4,
+	"dry mustard",
+	1,
+	"teaspoon",
+	"1 teaspoon dry mustard");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	5,
+	"egg",
+	1,
+	"",
+	"1 egg, beaten");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	6,
+	"eggs",
+	2,
+	"",
+	"2 eggs");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	7,
+	"fresh flat-leaf parsley",
+	2,
+	"tablespoons",
+	"2 tablespoons chopped fresh flat-leaf parsley");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	8,
+	"fresh parsley leaves",
+	2,
+	"tablespoons",
+	"2 tablespoons chopped fresh parsley leaves");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	9,
+	"garlic",
+	2,
+	"tablespoons",
+	"2 tablespoons minced garlic");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	10,
+	"ground beef",
+	2,
+	"lbs",
+	"2 lbs ground beef");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	11,
+	"ground pork",
+	1,
+	"lb",
+	"1 lb ground pork");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	12,
+	"jalapeno",
+	1,
+	"tablespoon",
+	"1 tablespoon seeded and minced jalapeno");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	13,
+	"ketchup",
+	0.25,
+	"cup",
+	"1/4 cup ketchup");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	14,
+	"olive oil",
+	3,
+	"tablespoons",
+	"3 tablespoons olive oil");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	15,
+	"red bell pepper",
+	1,
+	"",
+	"1 red bell pepper, diced");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	16,
+	"red onion",
+	1,
+	"cup",
+	"1 cup diced red onion");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	17,
+	"salt and pepper",
+	8,
+	"servings",
+	"salt and pepper");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	18,
+	"sea salt",
+	2,
+	"teaspoons",
+	"2 teaspoons sea salt");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	19,
+	"thyme leaves",
+	1,
+	"tablespoon",
+	"1 tablespoon chopped thyme leaves");
+INSERT INTO RecipeParts VALUES (
+	132422,
+	20,
+	"worcestershire sauce",
+	1,
+	"tablespoon",
+	"1 tablespoon worcestershire sauce");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	0,
+	"coarse sea salt",
+	0.75,
+	"tsp",
+	"3/4 tsp coarse sea salt");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	1,
+	"cornstarch",
+	3,
+	"Tbsps",
+	"3 Tbsps cornstarch");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	2,
+	"eggs",
+	2,
+	"",
+	"2 large eggs");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	3,
+	"salted butter",
+	60,
+	"g",
+	"4 Tbsps (60g) butter, salted or unsalted");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	4,
+	"sugar",
+	180,
+	"g",
+	"1 cup (180g) packed dark brown or cassonade sugar");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	5,
+	"vanilla extract",
+	1,
+	"tsp",
+	"1 tsp vanilla extract");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	6,
+	"whiskey",
+	2,
+	"tsps",
+	"2 tsps whiskey");
+INSERT INTO RecipeParts VALUES (
+	77694,
+	7,
+	"whole milk",
+	625,
+	"ml",
+	"2½ (625ml) cups whole milk");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	0,
+	"all purpose flour",
+	0.25,
+	"cup",
+	"1/4 cup all purpose flour");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	1,
+	"pepper",
+	0.5,
+	"tsp",
+	"1/2 tsp. freshly ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	2,
+	"butter",
+	3,
+	"",
+	"3 tblsps. unsalted butter room temperature");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	3,
+	"butter",
+	5,
+	"",
+	"5 tblsps. unsalted butter");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	4,
+	"carrot",
+	1,
+	"",
+	"1 small carrot finely diced");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	5,
+	"extra-virgin olive oil",
+	5,
+	"",
+	"5 tblsps. extra virgin olive oil");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	6,
+	"garlic clove",
+	1,
+	"",
+	"1 garlic clove minced");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	7,
+	"ground pork",
+	1,
+	"pound",
+	"1 pound ground pork");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	8,
+	"ground veal",
+	1,
+	"pound",
+	"1 pound ground veal or beef");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	9,
+	"leek",
+	1,
+	"",
+	"1 small leek finely sliced");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	10,
+	"M&M'S Brand Chocolate Candies",
+	1,
+	"sheet",
+	"Lasagne noodles home made or Barilla or De Cecci Brand or other Italian Lasagne sheet brand");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	11,
+	"nutmeg",
+	0.5,
+	"tsp",
+	"1/2 tsp. nutmeg");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	12,
+	"onion",
+	1,
+	"",
+	"1 medium onion minced or 2 shallots minced");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	13,
+	"pancetta",
+	0.25,
+	"pound",
+	"1/4 pound sliced pancetta cut into eighths");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	14,
+	"pork sausage",
+	0.25,
+	"pound",
+	"1/4 pound uncased pork fresh sweet Italian sausage");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	15,
+	"salt",
+	1,
+	"tsp",
+	"1 tsp. salt");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	16,
+	"tomato paste",
+	0.25,
+	"cup",
+	"1/4 cup tomato paste");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	17,
+	"whole milk",
+	3,
+	"cups",
+	"3 cups whole milk");
+INSERT INTO RecipeParts VALUES (
+	397449,
+	18,
+	"wine",
+	1,
+	"cup",
+	"1 cup dry Italian grape variety wine");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	0,
+	"pepper",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon black pepper");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	1,
+	"butter",
+	0.6666667,
+	"cup",
+	"2/3 cup butter");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	2,
+	"carrots",
+	2,
+	"cup",
+	"2 cup sliced carrots");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	3,
+	"celery",
+	1,
+	"cup",
+	"1 cup sliced celery");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	4,
+	"celery seed",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon celery seed");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	5,
+	"chicken broth",
+	3.5,
+	"cups",
+	"3 1/2 cups chicken broth");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	6,
+	"garlic powder",
+	0.5,
+	"tsp",
+	"1/2 tsp garlic powder");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	7,
+	"milk",
+	1.333333,
+	"cup",
+	"1 1/3 cup milk");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	8,
+	"onion",
+	1,
+	"cup",
+	"1 cup chopped onion");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	9,
+	"peas",
+	2,
+	"cup",
+	"2 cup frozen green peas");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	10,
+	"pie crusts",
+	2,
+	"",
+	"2 homemade double pie crusts");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	11,
+	"poultry seasoning",
+	1,
+	"tsp",
+	"1 tsp poultry seasoning");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	12,
+	"salt",
+	3.5,
+	"teaspoon",
+	"1/2/31/2 teaspoon salt");
+INSERT INTO RecipeParts VALUES (
+	400949,
+	13,
+	"skinless boneless chicken breast halves",
+	2,
+	"pound",
+	"2 pound skinless, boneless chicken breast halves - cubed");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	0,
+	"acorn squash",
+	1,
+	"",
+	"1 acorn squash, halved and seeded");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	1,
+	"brown sugar",
+	0.3333333,
+	"cup",
+	"1/3 cup packed brown sugar");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	2,
+	"butter",
+	3,
+	"tablespoons",
+	"3 tablespoons butter");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	3,
+	"butternut squash",
+	1,
+	"",
+	"1 butternut squash, halved and seeded");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	4,
+	"chicken broth",
+	1,
+	"quart",
+	"1 quart chicken broth");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	5,
+	"cream cheese",
+	8,
+	"ounce",
+	"1 (8 ounce) package cream cheese, softened");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	6,
+	"fresh parsley",
+	8,
+	"servings",
+	"fresh parsley, for garnish");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	7,
+	"ground red pepper",
+	0.5,
+	"teaspoon",
+	"1/2 teaspoon ground black pepper");
+INSERT INTO RecipeParts VALUES (
+	105337,
+	8,
+	"sweet onion",
+	0.25,
+	"cup",
+	"1/4 cup chopped sweet onion");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	0,
+	"baking chocolate",
+	12,
+	"ounces",
+	"12 ounces white baking chocolate, chopped");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	1,
+	"butter",
+	3,
+	"tablespoons",
+	"3 tablespoons butter, softened");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	2,
+	"carrots",
+	1,
+	"cups",
+	"1-1/2 cups shredded carrots");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	3,
+	"chocolate frosting",
+	1,
+	"tablespoon",
+	"1 tablespoon chocolate frosting");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	4,
+	"sugar",
+	24,
+	"servings",
+	"Green colored sugar");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	5,
+	"confectioners' sugar",
+	3,
+	"cups",
+	"3-3/4 to 4 cups confectioners' sugar");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	6,
+	"cream cheese",
+	18,
+	"ounces",
+	"18 ounces cream cheese, softened");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	7,
+	"flour",
+	0.6666667,
+	"cup",
+	"2/3 cup all-purpose flour");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	8,
+	"food coloring",
+	24,
+	"servings",
+	"Red, yellow and green paste food coloring");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	9,
+	"ground cinnamon",
+	1,
+	"teaspoon",
+	"1 teaspoon ground cinnamon");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	10,
+	"lemon juice",
+	4,
+	"teaspoons",
+	"4-1/2 teaspoons lemon juice");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	11,
+	"maca powder",
+	3,
+	"tablespoons",
+	"3 tablespoons meringue powder");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	12,
+	"refrigerated sugar cookie dough",
+	16,
+	"ounces",
+	"1 tube (16-1/2 ounces) refrigerated sugar cookie dough");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	13,
+	"spice cake mix",
+	1,
+	"package",
+	"1 package spice cake mix (regular size)");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	14,
+	"candy coated chocolate pieces",
+	24,
+	"servings",
+	"Brown and pink candy-coated sunflower kernels");
+INSERT INTO RecipeParts VALUES (
+	458379,
+	15,
+	"water",
+	5,
+	"tablespoons",
+	"5 to 6 tablespoons warm water");

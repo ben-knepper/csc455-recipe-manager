@@ -160,3 +160,69 @@ INSERT INTO Measurements VALUES (
 INSERT INTO Measurements VALUES (
 	"bottles",
 	"bottles");
+INSERT INTO Measurements VALUES (
+	"strips",
+	"strips");
+INSERT INTO Measurements VALUES (
+	"cubes",
+	"cubes");
+INSERT INTO Measurements VALUES (
+	"bottle",
+	"bottle");
+INSERT INTO Measurements VALUES (
+	"Cloves",
+	"Cloves");
+INSERT INTO Measurements VALUES (
+	"handful",
+	"handful");
+INSERT INTO Measurements VALUES (
+	"fillet",
+	"fillet");
+INSERT INTO Measurements VALUES (
+	"Tablespoons",
+	"Tablespoons");
+INSERT INTO Measurements VALUES (
+	"Tablespoon",
+	"Tablespoon");
+INSERT INTO Measurements VALUES (
+	"stalks",
+	"stalks");
+INSERT INTO Measurements VALUES (
+	"quarts",
+	"quarts");
+INSERT INTO Measurements VALUES (
+	"leaf",
+	"leaf");
+INSERT INTO Measurements VALUES (
+	"ozs",
+	"oz");
+INSERT INTO Measurements VALUES (
+	"Leaves",
+	"Leaves");
+INSERT INTO Measurements VALUES (
+	"strip",
+	"strip");
+INSERT INTO Measurements VALUES (
+	"quart",
+	"quart");
+INSERT INTO Measurements VALUES (
+	"box",
+	"box");
+INSERT INTO Measurements VALUES (
+	"TBS",
+	"TBS");
+INSERT INTO Measurements VALUES (
+	"6-inch",
+	"6-inch");
+INSERT INTO Measurements VALUES (
+	"T",
+	"T");
+INSERT INTO Measurements VALUES (
+	"C",
+	"C");
+INSERT INTO Measurements VALUES (
+	"sheet",
+	"sheet");
+INSERT INTO Measurements VALUES (
+	"package",
+	"pkg");

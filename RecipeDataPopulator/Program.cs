@@ -18,15 +18,16 @@ namespace RecipeDataPopulator
         static string _getPath = "recipes/{id}/information?includeNutrition=false";
         static string _apiKey = "SuPrDHDXwTmshHsn88i0dJQSzz6ep1aLKZVjsndTQvVuSOADks";
         static string _rawDataPath = "RawRecipes.txt";
-        static string _sqlInsertRecipesPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\Initialization\\InsertRecipes.sql";
-        static string _sqlInsertRecipePartsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\Initialization\\InsertRecipeParts.sql";
-        static string _sqlInsertMeasurementsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\Initialization\\InsertMeasurements.sql";
-        static int _maxId = 500000;
+        static string _sqlInsertRecipesPath = "..\\..\\..\\CSC455RecipeManager\\SQL\\Initialization\\InsertRecipes.sql";
+        static string _sqlInsertRecipePartsPath = "..\\..\\..\\CSC455RecipeManager\\SQL\\Initialization\\InsertRecipeParts.sql";
+        static string _sqlInsertMeasurementsPath = "..\\..\\...\\CSC455RecipeManager\\SQL\\Initialization\\InsertMeasurements.sql";
         static Regex stringCleanRegex = new Regex("[\"\\\\]");
+        static int _maxId = 500000;
+        static int _numOfRecipesToExtract = 100;
 
         static void Main(string[] args)
         {
-            ExtractRecipes(100);
+            ExtractRecipes(_numOfRecipesToExtract);
 
             Console.WriteLine("\nDone");
 

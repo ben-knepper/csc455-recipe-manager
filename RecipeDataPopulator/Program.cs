@@ -17,9 +17,9 @@ namespace RecipeDataPopulator
         static HttpClient _client = new HttpClient();
         static string _getPath = "recipes/{id}/information?includeNutrition=false";
         static string _rawDataPath = "RawRecipes.txt";
-        static string _sqlInsertRecipesPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipes.txt";
-        static string _sqlInsertRecipePartsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipeParts.txt";
-        static string _sqlInsertMeasurementsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertMeasurements.txt";
+        static string _sqlInsertRecipesPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipes.sql";
+        static string _sqlInsertRecipePartsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipeParts.sql";
+        static string _sqlInsertMeasurementsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertMeasurements.sql";
         static int _maxId = 500000;
 
         static void Main(string[] args)

@@ -16,11 +16,13 @@ namespace RecipeDataPopulator
     {
         static HttpClient _client = new HttpClient();
         static string _getPath = "recipes/{id}/information?includeNutrition=false";
+        static string _apiKey = "SuPrDHDXwTmshHsn88i0dJQSzz6ep1aLKZVjsndTQvVuSOADks";
         static string _rawDataPath = "RawRecipes.txt";
-        static string _sqlInsertRecipesPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipes.sql";
-        static string _sqlInsertRecipePartsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertRecipeParts.sql";
-        static string _sqlInsertMeasurementsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\InsertMeasurements.sql";
+        static string _sqlInsertRecipesPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\Initialization\\InsertRecipes.sql";
+        static string _sqlInsertRecipePartsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\Initialization\\InsertRecipeParts.sql";
+        static string _sqlInsertMeasurementsPath = "C:\\Users\\Ben\\Documents\\School\\CSC455RecipeManager\\CSC455RecipeManager\\SQL\\Initialization\\InsertMeasurements.sql";
         static int _maxId = 500000;
+        static Regex stringCleanRegex = new Regex("[\"\\\\]");
 
         static void Main(string[] args)
         {
@@ -100,7 +102,7 @@ namespace RecipeDataPopulator
                 getRecipeTask.Wait();
                 Recipe recipe = getRecipeTask.Result;
 
-                if (recipe == null)
+                if (recipe == null || String.IsNullOrWhiteSpace(recipe.Title))
                 {
                     Console.WriteLine("<DOES NOT EXIST>");
                     continue;
@@ -110,21 +112,22 @@ namespace RecipeDataPopulator
                     "Recipes",
                     recipe.Id,
                     recipe.Title,
-                    "NULL",
-                    recipe.Instructions,
-                    "NULL",
-                    recipe.Image,
-                    "NULL",
-                    "NULL");
+                    PrepString(recipe.Instructions),
+                    PrepString(recipe.Image),
+                    recipe.Servings,
+                    PrepString(recipe.SourceName),
+                    recipe.ReadyInMinutes);
                 insertRecipesWriter.WriteLine(insertRecipeStatement);
+
+                int recipePartNumber = 0;
                 foreach (ExtendedIngredient ingredient in recipe.ExtendedIngredients)
                 {
                     if (!measureNames.Contains(ingredient.Unit))
                     {
                         string insertMeasurementStatement = MakeInsertStatement(
                             "Measurements",
-                            ingredient.Unit,
-                            ingredient.UnitShort);
+                            PrepString(ingredient.Unit),
+                            PrepString(ingredient.UnitShort));
                         insertMeasurementsWriter.WriteLine(insertMeasurementStatement);
                         measureNames.Add(ingredient.Unit);
                     }
@@ -132,11 +135,14 @@ namespace RecipeDataPopulator
                     string insertRecipePartStatement = MakeInsertStatement(
                         "RecipeParts",
                         recipe.Id,
-                        ingredient.Name,
+                        recipePartNumber,
+                        PrepString(ingredient.Name),
                         ingredient.Amount,
-                        ingredient.Unit,
-                        ingredient.OriginalString);
+                        PrepString(ingredient.Unit),
+                        PrepString(ingredient.OriginalString));
                     insertRecipePartsWriter.WriteLine(insertRecipePartStatement);
+
+                    ++recipePartNumber;
                 }
                 usedIds.Add(recipe.Id);
 
@@ -193,7 +199,7 @@ namespace RecipeDataPopulator
             _client.BaseAddress = new Uri("https://spoonacular-recipe-food-nutrition-v1.p.mashape.com/");
             _client.DefaultRequestHeaders.Accept.Clear();
             _client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            _client.DefaultRequestHeaders.Add("X-Mashape-Key", "SuPrDHDXwTmshHsn88i0dJQSzz6ep1aLKZVjsndTQvVuSOADks");
+            _client.DefaultRequestHeaders.Add("X-Mashape-Key", _apiKey);
         }
 
         static async Task<Recipe> GetRecipeAsync(string path)
@@ -208,9 +214,17 @@ namespace RecipeDataPopulator
             }
             else
             {
-                Console.WriteLine("Unsuccessful response: {0}", response.StatusCode);
+                Console.WriteLine("<Unsuccessful response: {0}>", response.StatusCode);
             }
             return recipe;
+        }
+
+        static string PrepString(string s)
+        {
+            if (s == null)
+                return "NULL";
+
+            return stringCleanRegex.Replace(s, "\\$0"); // escape all double quotes and backslashes
         }
     }
 

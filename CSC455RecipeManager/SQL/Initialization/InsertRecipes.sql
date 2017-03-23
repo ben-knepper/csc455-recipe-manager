@@ -1,1125 +1,768 @@
 INSERT INTO Recipes VALUES (
-	122549,
-	"Chicken with Lemon Sauce",
-	NULL,
-	"Directions                                                                                Flatten chicken to 1/4-in. thickness. In a shallow bowl, combine 4 tablespoons flour, cheese, 1/2 teaspoon salt and 1/4 teaspoon pepper. In another shallow bowl, beat the eggs. Coat chicken with flour, then dip into egg mixture.                                                                                           In a large skillet, cook chicken in 1 tablespoon butter and oil over medium heat for 3-5 minutes on each side or until no longer pink. Remove and keep warm.                                                                                           In a small bowl, combine remaining, salt and pepper; stir in broth until smooth. Add apple juice to the skillet, stirring to loosen any browned bits. Stir broth mixture and add to the pan. Bring to a boil; cook and stir for 1-2 minutes or until thickened.                                                                                           Stir in lemon juice; cook for 1 minute. Add parsley and remaining butter; cook and stir until butter is melted. Serve with chicken.                                        Yield: 2 servings.                                                                                                                         Originally published as Chicken with Lemon Sauce in  Taste of HomeApril/May 2004, p46                                                                                                                                                                                                        Nutritional Facts                                                                             1 chicken breast half equals 542 calories, 30 g fat (12 g saturated fat), 329 mg cholesterol, 1,670 mg sodium, 25 g carbohydrate, 1 g fiber, 42 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/chicken-with-lemon-sauce-2-122549.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	425417,
-	"French Potato Salad",
-	NULL,
-	"Bring a large pot of salted water to a boil.  Add potatoes; cook until tender but still firm, about 15 minutes. Drain, and transfer to a large bowl.  Cool slightly.  Peel and slice into a large bowl.                            In a small bowl, combine oil, vinegar, consomme, green onion, parsley, and salt and pepper.                            Gently toss warm potatoes with dressing.  Cover, and refrigerate several hours or overnight.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/French-Potato-Salad-425417.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	363752,
-	"Cornbread Griddle Cakes",
-	NULL,
-	"1. Stir together all ingredients just until moistened. Pour 2 Tbsp. batter for each cake onto a hot, greased griddle or large nonstick skillet. Cook cakes 2 to 3 minutes or until tops are covered with bubbles and edges look dry and cooked; turn and cook other side (about 2 minutes).Note: To make ahead, place cooked griddle cakes on baking sheets. Cover and chill up to 24 hours. To reheat, bake at 300 for 8 to 10 minutes or until thoroughly heated. Serve immediately.",
-	NULL,
-	"https://spoonacular.com/recipeImages/363752-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	485396,
-	"Apple Pie Cookies",
-	NULL,
-	"Mix the cream cheese and butter in the bowl of a standing mixer with a paddle attachment or use a large bowl and a hand mixer.Separate the egg and add the egg yolk to the batter.Set aside the egg white. You will use it later to brush the tops of the cookies before baking them.Add 2 Tablespoons of water to the batter also and mix to combine.Add the flour and mix until all the flour is incorporated.Place the cookie dough on some parchment paper and form it into the shape of a disc. Wrap it up in the parchment paper and refrigerate until firm, at least 2 hours. You can keep it in the refrigerator for a few days or in the freezer for up to a month.Meanwhile, make the apple filling. Peel and chop the apples. Add the apples and the sugar to a skillet. Bring to a boil on medium high heat.Reduce to a simmer, and cook, covered, for about 10 minutes, until the apples are soft.Take off the heat and add the lemon juice and vanilla. You can also add some cinnamon. Cool.Store the apple filling in the refrigerator. If you want to make a large batch to have on hand, sterilize the glass jar and lid, add the filling to the jar, seal with the lids and place the jar with the apple filling in a pot with boiling water, covering the jars by at least 1 inch. Cook for 10 minutes. Lift the jars out of the pot and cool.Preheat the oven to 350 degrees Fahrenheit. Line a baking sheet with parchment paper.When the cookie dough is stiff, roll out half of it on a well floured surface. Use a cookie or biscuit cutter or even an inverted cup/glass and press out as many circles as you can. My biscuit cutter was 3 inches, but you can make the circles even bigger, if you want.Take all the extra dough, scrunch it up and place in the refrigerator to chill while you are making the cookies. I usually place it in the freezer, so it chills faster. Just don't forget about it:). You can use every last scrap of dough for cookies, and that's a good thing.Place about a heaping teaspoon or so of filling in the center of the circles. Fold the circle over the filling, pinch the seams closed with your fingers and then use a fork to make sure the cookies are sealed well. Make sure there are no air pockets in the cookies, or they might burst as they bake.Place the cookies on the prepared baking sheet.Use a fork to whisk up the egg white that you set aside earlier when making the dough. If you made the dough ahead of time and didn't save the egg white, just use a whole egg, whisk it up with a fork. No big deal. Use a pastry brush to brush the egg white on top of the cookies. Sprinkle sugar on top of the cookies.Bake in the preheated oven for 22-30 minutes, depending on how thin you rolled out the dough and how big you made your cookies. The cookies should be lightly golden.Repeat with the remaining cookie dough and the cookie dough scraps.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Apple-Pie-Cookies-485396.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	205281,
-	"Soy-Glazed Tofu",
-	NULL,
-	"1. Cut each slice of tofu in half diagonally. Place tofu slices on several layers of paper towels, and cover tofu with additional paper towels; let stand 15 minutes, pressing down occasionally.2. Combine vinegar and next 4 ingredients (through rind) in a small saucepan; bring to a boil. Reduce heat and simmer, uncovered, 6 minutes or until thick and syrupy. Heat oil in a large nonstick skillet over medium-high heat. Arrange tofu slices in pan in a single layer; saut 5 minutes on each side or until golden brown. Remove from heat; pour vinegar mixture over tofu to coat. Sprinkle with green onions and sesame seeds. Serve immediately.Wine note: Tofu works with just about every wine, but given the flavors of soy sauce, orange, and sesame, a refreshing white is in order. In particular, sesame and orange both work magnificently with unoaked chardonnay. My favorite: St. Supery Oak Free Chardonnay from Napa Valley, California. The 2008 is $25. Karen MacNeil",
-	NULL,
-	"https://spoonacular.com/recipeImages/soy-glazed-tofu-205281.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	158507,
-	"Smoked Trout Pâté",
-	NULL,
-	"In a medium, nonreactive bowl, combine the crème fraîche or sour cream, capers, chives, tarragon, paprika, cayenne, and lime juice. Season with salt and pepper.Using your hands, break the trout into bite-sized pieces, discarding any bones and skin. Add the fish to the crème fraîche mixture. Stir rapidly with a spoon, using the spoon to break up the fish, until the mixture is a spreadable consistency. Season with salt and pepper as desired. Serve on crackers or thinly sliced toasts.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Smoked-Trout-Pt-158507.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	147523,
-	"Carrot Soup With Bacon and Dill Dumplings",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/carrot-soup-with-bacon-and-dill-dumplings-2-147523.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	197586,
-	"Green Dip With Spooky Chips",
-	NULL,
-	"1. Heat pine nuts in a small nonstick skillet over medium-low heat, stirring often, 3 to 5 minutes or until toasted. Cool 15 minutes.2. Process pine nuts, basil, and next 6 ingredients in a food processor until smooth, stopping to scrape down sides. Transfer to a serving bowl. Cover and chill 1 hour. Store in refrigerator up to 2 days. Garnish, if desired. Serve with Spooky Chips.",
-	NULL,
-	"https://spoonacular.com/recipeImages/green-dip-with-spooky-chips-197586.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	404417,
-	"Asparagus Soufflé",
-	NULL,
-	"Cook asparagus in a saucepan of boiling water until bright green but still crisp, about 2 minutes. Transfer asparagus to ice water to stop the cooking process. Drain and set aside.                            Melt butter in a saucepan over medium-low heat. Whisk in flour and stir until mixture becomes paste-like and light golden brown, about 2 minutes.                            Whisk milk into butter-flour mixture; bring to a simmer and cook until thick, 2 to 3 minutes. Season with salt and cayenne pepper.                            Place milk mixture, garlic, and asparagus in a blender and puree until smooth.                            Pour asparagus mixture into a large bowl; stir in egg yolks and Cheddar cheese.                            Preheat oven to 375 degrees F (190 degrees C)                            Generously butter 4 (6-ounce) ramekins                            Beat egg whites in a large glass or metal mixing bowl until soft peaks form. Lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak                            Stir half of egg whites into asparagus cheese mixture until just combined. Gently fold remaining egg whites into mixture.                            Fill prepared ramekins about 3/4 full and place on a baking sheet; bake in the preheated oven until edges are golden brown, about 20 to 25 minutes                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Asparagus-Souffl-404417.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	460286,
-	"Southwest Turkey Soup",
-	NULL,
-	"Directions                                                                                In a Dutch oven, cook turkey in oil over medium heat until meat is no longer pink; drain.                                                                                           Add the beans, broth, corn, salsa, chilies and chili powder. Bring to a boil. Reduce heat; cover and simmer for 10-15 minutes to allow flavors to blend. Serve with sour cream and cilantro.                                        Yield: 6 servings (2-1/2 quarts).                                                                                                                         Originally published as Southwest Turkey Soup in  Taste of HomeDecember/January 2011, p38                                                                                                                                                                                                        Nutritional Facts                                                                             1-1/2 cups (calculated without optional ingredients) 381 calories, 14 g fat (4 g saturated fat), 54 mg cholesterol, 1,163 mg sodium, 41 g carbohydrate, 9 g fiber, 24 g protein.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Southwest-Turkey-Soup-460286.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	241537,
-	"Fresh Salmon Burgers with Tarragon Mayonnaise",
-	NULL,
-	"Preparation                                        To make burgers:                Combine first 9 ingredients in medium bowl. Add 3 tablespoons mayonnaise and mix well. (Can be prepared 6 hours ahead. Cover and refrigerate.)                                                                Mix breadcrumbs into salmon mixture. Form into four 1-inch-thick patties. Melt butter in heavy large skillet over medium-high heat. Add salmon patties; cook until just firm to touch and brown and crusty, about 3 minutes per side.                                                            To assemble:                Place 1 slice of toast on each of 4 plates. Top each with burger. Spread burgers generously with mayonnaise. Top each with tomato slice, 2 radicchio leaves and second toast slice. Serve immediately, passing remaining mayonnaise separately.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Fresh-Salmon-Burgers-with-Tarragon-Mayonnaise-241537.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	34931,
-	"Callaloo",
-	NULL,
-	"Directions                                                        In a large Dutch oven or soup pot cook the salt pork, stirring, until it has rendered most of its fat. Remove all but 2 tablespoons and add the pork cubes and onions and saute until the pork is browned and the onions are soft, 4 to 6 minutes. Add the Scotch Bonnet pepper, thyme, chicken broth, and callaloo and cook, stirring to submerge the greens as they soften. Once the greens have softened and fallen into the soup liquid, add the okra and continue to cook the soup at a low simmer until the greens are very tender and the okra is beginning to fall apart, 2 to 2 1/2 hours. Season with salt and pepper to taste and stir in the crabmeat and scallions and cook for 5 minutes longer, then serve the soup in bowls over hot white rice if desired. Pass the hot sauce at the table so that guests can adjust the seasoning to their taste.                                                    Recipe courtesy of Emeril Lagasse, 2006                         CATEGORIES:                                                                                                                                                                                                                                     Pork                                                                                                                                                                                                                                                                                                                                                Dinner                                                                                                                                                                                                                                                                                                                                                                                    Soup                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/p/pork-shoulder-recipes.html">Pork</a></li>                                                                                                                                                                                                                                                                                 <li ><a href="/content/food/topics/s/spinach.html">Spinach</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/f/fried-rice-recipes.html">Rice</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/d/dinner.html">Dinner</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/m/main-dish.html">Main Dish</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/soup.html">Soup</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/sauteing.html">Sauteing</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/c/caribbean.html">Caribbean</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/callaloo-34931.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	415217,
-	"Fruited Turkey",
-	NULL,
-	"Directions                                                                                Thoroughly wash and dry watermelon. With a sharp knife, cut a thin slice from bottom of watermelon so it lies flat.                                                                                            Using a small sharp knife, lightly score a horizontal cutting line around middle of the melon, leaving 4 in. on each side of stem end unscored for the head. Next, score a vertical line over top of melon, connecting both ends of the horizontal line. Using a long knife, cut through melon along the vertical cutting line. (Stop cutting at the horizontal cutting line.) Then, cut through the melon along the horizontal cutting line. Gently pull off cut section.                                                                                            For turkey's head, cut a 2 in. half-circle at top. Make a scalloped edge, using the rounded edge of a 1-in. circle cutter. With a sharp knife, cut along the scalloped lines; discard scrapes. For eyes, insert a clove into the center of each of two cantaloupe balls. Using toothpicks, attach eyes; add a chili pepper wattle.                                                                                           With a vegetable peeler, cut peel from oranges. (Save oranges for another use). Thread grapes, orange peel and remaining cantaloupe balls onto skewers; add to turkey for feathers.                                        Yield: 9 servings.                                                                                                     TIP: Once guests each have a skewer, you can slice and serve the remaining watermelon.                                                                                                Originally published as Fruited Turkey in  Taste of Home                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Fruited-Turkey-415217.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	194429,
-	"Butternut Squash Tart with Fried Sage",
-	NULL,
-	"Preparation                                                        Preheat oven to 375°F. Line alarge rimmed baking sheet withparchment paper. Gently roll out1 sheet of frozen puff pastry,thawed (from a 17.3-ounce package)on a lightly floured surface to a10" square (just enough to evenout). Transfer to prepared sheet.                                                                Brush pastry with 1 largeegg beaten with 1 teaspoon water.Arrange twelve 1/8"-thick roundspeeled butternut squash(cut from squash's neck) overpastry, overlapping as neededand leaving a 1/2" border. Placeanother sheet of parchmentpaper over squash. Set anotherlarge rimmed baking sheet overthe tart. (This will weigh downthe pastry dough and steam thesquash slices.)                                                                Bake until bottom of pastrybegins to brown and top beginsto puff, about 10 minutes.                                                                Remove top baking sheet anddiscard top sheet of parchmentpaper. Brush squash slices with1 tablespoon olive oil and seasonwith kosher salt. Return tart,uncovered, to oven and bakeuntil pastry is deep golden brown and cooked through, 25–30minutes longer.                                                                Meanwhile, combine 1/4 cuphoney, 1 thinly sliced Fresno,jalapeño, or red Thai chile, and2 tablespoons water in a small saucepan.Bring to a boil over mediumheat (add another thinly slicedchile if more heat is desired).Boil until thickened slightly andsyrupy, about 6 minutes.                                                                Line a plate with paper towels.Heat 2 tablespoons olive oil in a smallskillet until just beginning tosmoke. Add 12 fresh sageleaves; fry until crisp, about30 seconds. Transfer to papertowels to drain.                                                                Slice tart. Arrange 1/4 cupshaved Parmesan on top; drizzlewith chile-infused honey. Garnishwith fried sage leaves and a fewgrinds of black pepper.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Butternut-Squash-Tart-with-Fried-Sage-194429.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	92649,
-	"Corned Beef & Cabbage Stew",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/corned-beef-amp-cabbage-stew-2-92649.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	480541,
-	"Honey Sweetened Fresh Peach Lemonade",
-	NULL,
-	"In a medium saucepan over medium high heat, combine the water, peaches and honey. Bring it to a boil and then simmer for three minutes. Let cool and blend in a food processor or a blender (I used the food processor because it's easier to clean) until well combined. Taste and add more sweetener if needed. Cool in the fridge for three hours and then add the lemon juice and stir. Mix before serving as the pulp will settle. Add ice if desired.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Honey-Sweetened-Fresh-Peach-Lemonade-480541.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	274677,
-	"Barbecue Sauce",
-	NULL,
-	"1. Stir together all ingredients in a medium saucepan over medium-high heat until thoroughly heated.Note: For testing purposes only, we used Stubb's Original Bar-B-Q Sauce.Chipotle Barbecue Sauce: Stir 3 Tbsp. chipotle hot sauce and 3 Tbsp. molasses into barbecue sauce mixture. Proceed with recipe as directed.Note: For testing purposes only, we used Tabasco brand Chipotle Pepper Sauce.",
-	NULL,
-	"https://spoonacular.com/recipeImages/274677-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	351875,
-	"Ceviche",
-	NULL,
-	"Slice fillets in half lengthwise and cut into ½-inch pieces.  Spread in one layer in a dish.  Combine remaining ingredients, reserving 1½ tablespoons cilantro.  Pour over fish, cover with plastic wrap, and refrigerate for at least 6 hours, turning once.  Sprinkle with reserved cilantro before serving.Serve with crackers.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Ceviche-351875.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	68314,
-	"Savarin Cake with Vanilla-Grand Marnier Syrup",
-	NULL,
-	"Directions                                                        1 (8-inch) ring mold, preferably non-stickWarm the water and cream in a medium saucepan over low heat until it is about 100 degrees F. Transfer to the bowl of a stand mixer fitted with the paddle attachment. Sprinkle the yeast over the surface of the liquid. Sprinkle the sugar over the top and let sit without stirring, until foamy, about 5 minutes.Add the flour and mix with the paddle at medium speed to make a moist dough. Add the eggs, mixing until combined, 2 minutes. Increase speed to high and beat thoroughly for 2 minutes. Stop and scrape down the bowl; add the orange zest and salt. Gradually add the butter while mixing, then beat on high speed to make a stretchy, tacky batter, about 3 minutes.Generously butter and flour an 8-inch ring mold. Scoop batter into the mold and smooth over the top with a spatula. Cover loosely with plastic wrap sprayed with cooking spray and set aside in a warm place until batter rises about 3/4 up the sides of the pan, about 30 minutes.Position a rack in the center of the oven and preheat to 350 degrees F.Bake the savarin until golden brown, and a cake tester inserted into the center comes out clean, about 30 to 35 minutes. Cool savarin in the pan until cool enough to handle, about 10 minutes. Flip onto a rack to cool.Meanwhile make the syrup. Put the water and sugar in a medium sauce pan. Split the vanilla bean lengthwise and scrape out the seeds; add both vanilla seeds and pod to the pan. Bring to a simmer and cook, stirring until the sugar dissolves. Remove from heat and add wine and orange liqueur.Place savarin in a lipped serving platter and pour the warm syrup over the top. Turn the savarin over a few times until fully saturated with syrup. Cover and refrigerate for an hour. Spoon the syrup over the cake a couple times while it chills to fully soak the cake.When ready to serve if there is more than a pool of syrup on the platter, pour the excess into a bowl or pitcher and serve on the side. Spoon whipped cream into the middle of the savarin, and top with desired fruit. Serve.Cook's Note: Savarin and syrup can be made up to three days ahead. Soak savarin the day it is served. Store in an airtight container at room temperature up to overnight, or freeze for 2 weeks. Defrost and bring to room temperature before soaking in the syrupCopyright 2007 Television Food Network, G.P. All rights reserved                                                    From Food Network Kitchens                         CATEGORIES:                                                                                                                                                                                                                                     Dairy                                                                                                                                                                                                                                                                                                                                                Dessert                                                                                                                                                                                                                                                                                                                                                                                    Cake                                                                                                                                                                                                                                                                                                                                                            View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/d/dairy.html">Dairy</a></li>                                                                                                                                                                                                                                                                                 <li ><a href="/content/food/topics/f/fruit.html">Fruit</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/o/oranges.html">Oranges</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/a/apple-strudel-recipes.html">Dessert</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/b/birthday-cake-recipes.html">Cake</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/b/baking.html">Baking</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/french.html">French</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/for-a-crowd.html">For A Crowd</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/fall.html">Fall</a></li>                                 </ul></div>                            More on this Recipe                                                                                                                                                                                                                           /content/dam/images/food/fullset/2007/9/18/0/breads_Savarin.jpg                                                                                                                                                                                                        How to Make Savarin Cake with Vanilla-Grand Marnier Syrup",
-	NULL,
-	"https://spoonacular.com/recipeImages/savarin-cake-with-vanilla-grand-marnier-syrup-68314.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	87709,
-	"Poached Salmon with Lima Beans and Green Goddess Dressing",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/poached-salmon-with-lima-beans-and-green-goddess-dressing-2-87709.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	394115,
-	"Meat Loaf with Chili Sauce",
-	NULL,
-	"Directions                                                                                Cut four 20x3-in. strips of heavy-duty foil; crisscross so they resemble spokes of a wheel. Place strips on bottom and up sides of a 5-qt. slow cooker. Coat strips with cooking spray.                                                                                           In a large bowl, combine the first 10 ingredients. Add beef; mix lightly but thoroughly. Shape into a 9-in. round loaf. Place loaf in center of strips in slow cooker.                                                                                           Cook, covered, on low 3-4 hours or until a thermometer reads at least 160°. If desired, spoon additional chili sauce over meat loaf; let stand 10 minutes. Using foil strips as handles, remove meat loaf to a platter.                                        Yield: 8 servings.                                                                                                     Freeze option: Securely wrap and freeze cooled meat loaf in plastic wrap and foil. To use, partially thaw in refrigerator overnight. Unwrap meat loaf; reheat on a greased shallow baking pan in a preheated 350° oven until heated through and a thermometer inserted in center reads 165°.                                                                                                Originally published as Meat Loaf with Chili Sauce in  Simple & Delicious                                                                                                                                                                                                Nutritional Facts                                                                             1 slice equals 253 calories, 11 g fat (4 g saturated fat), 123 mg cholesterol, 686 mg sodium, 12 g carbohydrate, 1 g fiber, 25 g protein. Diabetic Exchanges: 3 lean meat, 1 starch.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Meat-Loaf-with-Chili-Sauce-394115.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	491201,
-	"Skinny Pumpkin Cinnamon Chip Donuts",
-	NULL,
-	"Donuts:Preheat oven to 350 degrees F. Spray a 6-cup donut pan with baking spray.In a small bowl, whisk together the dry ingredients; set aside.In a large bowl, whisk together pumpkin puree, brown sugar, and coconut oil until smooth. Add the egg and vanilla extract, and whisk until smooth. Slowly whisk in the buttermilk until smooth.Fold the dry ingredients into the pumpkin mixture until just combined. Fold in the cinnamon chips.Carefully spoon the mixture into your prepared donut pan. Bake for 12-13 minutes. Allow the donuts to cool in the pan for 5 minutes before transferring to a wire rack to cool completely.Dip the donuts into the glaze. Best eaten the same day.Glaze:Add the cream cheese to a large bowl. Using a hand mixer, cream until smooth. Add the maple syrup, vanilla, and milk; whisk until smooth. If the mixture is too thick, add a little more milk.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Skinny-Pumpkin-Cinnamon-Chip-Donuts-491201.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	308299,
-	"Saté Mixed Grill With Spicy Peanut Sauce",
-	NULL,
-	"Cut chicken and pork into 3- x 1/2- inch strips. Cut beef sirloin into thin long strips. Peel shrimp, and devein, if desired. Place chicken, pork, beef, and shrimp in separate bowls.Whisk together soy sauce and next 5 ingredients. Drizzle evenly over bowls of meat and shrimp; toss to coat. Cover and chill 30 minutes. Soak skewers in cold water to prevent burning.Thread chicken, pork, beef, and shrimp evenly onto skewers (10 skewers of each ingredient).Grill, covered with grill lid, over medium-high heat (350 to 400) 1 to 3 minutes on each side.Arrange skewers on a platter, and serve with Spicy Peanut Sauce.",
-	NULL,
-	"https://spoonacular.com/recipeImages/308299-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	426015,
-	"Chicken Chilaquiles Casserole",
-	NULL,
-	"Adjust the oven racks to the upper-middle and lower-middle positions and heat the oven to 350 degrees.  Spread the tortilla wedges on 2 rimmed baking sheets. Lightly coat both sides of the tortilla with vegetable oil spray.                            Bake the tortilla wedges until they are lightly browned and begin to crisp, 8 to 12 minutes.  Flip the tortilla wedges and continue to bake until the chips are fully toasted, 8 to 12 minutes longer.  Set the tortilla wedges aside and turn the oven to 500 degrees.                            Combine the poblano chiles, 1 cup of the onions, Melt®, and 1/8 teaspoon salt in a 12-inch skillet. Cover and cook over medium-low heat until the vegetables are softened, 8 to 10 minutes.  Uncover, increase the heat to medium-high, and continue to cook, stirring occasionally, until the vegetables are lightly browned, 4 to 6 minutes longer.                            Stir in 2 tablespoons of the cilantro, garlic, and chipotles and cook until fragrant, about 30 seconds.  Stir in the tomatoes with their juice and the broth. Pat the chicken breasts dry with paper towels and season with 1/8 teaspoon pepper.  Nestle the chicken breasts into the sauce and bring to a simmer over medium-low heat, about 5 minutes.  When the sauce simmers, flip the chicken, cover, and continue to cook until the chicken registers 160 to 165 degrees on an instant-read thermometer, 10 to 12 minutes longer.                            Transfer the chicken to a plate. When cool enough to handle, shred the meat into bite-sized pieces. Process the sauce in a blender until completely smooth, about 1 minute.  Return the sauce to the skillet, season with salt and pepper to taste, bring to a simmer over medium heat.                            Stir in the tortillas and cook until they begin to soften, about 2 minutes. Stir in the shredded chicken, then transfer the mixture to an 8-inch square baking dish.  Sprinkle with the cheese and bake on the lower-middle rack until hot throughout, 5 to 10 minutes.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Chicken-Chilaquiles-Casserole-426015.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	127126,
-	"Cake-Topped Blueberry Dessert",
-	NULL,
-	"Directions                                                                                In a saucepan, combine the blueberries, brown sugar and butter; cook for 5 minutes or until saucy. Pour into an 8-in. square baking dish coated with cooking spray. In a bowl, cream shortening and sugar. Beat in egg and orange peel. Combine the flour, baking powder and salt; add to the creamed mixture alternately with orange juice, beating just until combined.                                                                                           Drop batter by spoonfuls over blueberry mixture. Bake at 350° for 30-35 minutes or until a toothpick inserted near the center of cake comes out clean. Serve warm.                                        Yield: 9 servings.                                                                                                                         Originally published as Cake-Topped Blueberry Dessert in  Light & TastyJune/July 2002, p23                                                                                                                                                                                                        Nutritional Facts                                                                             One piece equals 241 calories, 6 g fat (2 g saturated fat), 27 mg cholesterol, 132 mg sodium, 44 g carbohydrate, 2 g fiber, 3 g protein. Diabetic Exchanges: 2 starch, 1 fruit, 1 fat.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/cake-topped-blueberry-dessert-2-127126.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	332576,
-	"Flank Steak Marinade",
-	NULL,
-	"Mix and Marinate",
-	NULL,
-	"https://spoonacular.com/recipeImages/Flank-Steak-Marinade-332576.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	80750,
-	"Shrimp And Pineapple Kebabs With Lime Viniagriette",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/shrimp-and-pineapple-kebabs-with-lime-viniagriette-2-80750.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	32202,
-	"Delicious Drumsticks",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/delicious-drumsticks-2-32202.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	18870,
-	"Fennel, Parsley, and Radicchio Salad with Pine Nuts and Raisins",
-	NULL,
-	"Place golden raisins in a small saucepan, and cover with water. Bring to a boil; remove from heat. Cover and let stand 10 minutes. Drain well.Place sliced fennel, torn radicchio, and parsley leaves in a large bowl, and toss gently to combine. Combine the orange juice, vinegar, olive oil, salt, and black pepper, stirring well with a whisk. Stir in raisins. Drizzle orange juice mixture over fennel mixture, and toss gently to coat. Arrange 1 1/3 cups salad on each of 6 plates; sprinkle each serving with 1 teaspoon nuts.",
-	NULL,
-	"https://spoonacular.com/recipeImages/fennel-parsley-and-radicchio-salad-with-pine-nuts-and-raisins-18870.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	449567,
-	"Fluffy French Toast",
-	NULL,
-	"Measure flour into a large mixing bowl. Slowly whisk in the milk. Whisk in the salt, eggs, cinnamon, vanilla extract and sugar until smooth.                            Heat a lightly oiled griddle or frying pan over medium heat.                            Soak bread slices in mixture until saturated. Cook bread on each side until golden brown. Serve hot.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Fluffy-French-Toast-449567.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	290001,
-	"Stuffed Jalapenos",
-	NULL,
-	"Preheat oven to 350 degrees.  Line with foil.  Place jalapeños on, cut side up.  Roast 10 min. When roasted, cool completely.Combine cheeses and bacon. Divide cheese mix evenly between jalapeños.Heat oven to 400 degrees and bake stuffed jalapeños 7-10 minutes.  To brown, broil for about 2 minutes.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Stuffed-Jalapenos-290001.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	276922,
-	"Plum Compote",
-	NULL,
-	"1. In a large skillet, mix sugar with water and bring to a simmer over low heat, stirring until sugar dissolves. Add wine, orange zest, cinnamon stick and cloves; continue simmering for 15 minutes.2. Add plums and poach for 5 to 7 minutes, turning fruit over with a spoon or tongs after 3 minutes, until plums are just tender but still hold their shape.3. Using a slotted spoon, remove plums to a serving dish. Raise heat to medium-high and cook syrup until reduced by a third, 5 to 10 minutes longer. Strain to remove spices and pour syrup over plums. Serve compote warm with ice cream.",
-	NULL,
-	"https://spoonacular.com/recipeImages/plum-compote-276922.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	342161,
-	"Potato Cobb Salad",
-	NULL,
-	"Cook potatoes in boiling salted water to cover 30 minutes or until tender. Drain and cool slightly. Peel and cut into cubes.Sprinkle potatoes evenly with 3/4 teaspoon salt. Pour 1 cup dressing over potatoes; gently toss. Reserve remaining dressing. Cover potato mixture; chill at least 2 hours or overnight.Arrange salad greens evenly on a large serving platter. Peel and chop avocados; toss with lemon juice.Arrange potatoe, avocado, tomatoe, and next 4 ingredients in rows over salad greens. Sprinkle with pepper. Serve with remaining dressing.",
-	NULL,
-	"https://spoonacular.com/recipeImages/potato-cobb-salad-342161.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	48637,
-	"Sugarplum-orange And Apricot-earl Grey Jam Tarts",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/sugarplum-orange_and_apricot-earl_grey_jam_tarts-48637.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	301946,
-	"Quick Biscuits",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/Quick-Biscuits-301946.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	90836,
-	"Basic Chocolate Mousse Recipe",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/basic-chocolate-mousse-recipe-2-90836.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	220300,
-	"Strawberry toffee tart",
-	NULL,
-	"Line a 20cm flan tin with baking parchment. Put the biscuits in a strong food bag and bash with a rolling pin to finely crush them. Tip into a bowl and mix in the melted butter. Press over the base of the tin. Chill for about 30 mins until it feels firm. Slice or halve the strawberries, depending on their size.Remove the biscuit base from the flan tin and slide onto a flat serving plate. Put 2 tbsp of the cream in a small bowl with the toffees, then whip the rest until it just holds its shape in soft folds. Fold in the yogurt, then spoon over the biscuit base and cover with strawberries.Melt the toffees and cream together in the microwave on Medium for 30 secs-1 min, then stir until it forms a sauce. Drizzle over the tart filling.The tart can be chilled for a couple of hours at this stage. Dust with icing sugar before serving.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Strawberry-toffee-tart-220300.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	302229,
-	"Swedish Wedding Cakes",
-	NULL,
-	"Combine the margarine, sugar, egg, and dates in a saucepan. Cook over medium heat until thick, about 7 to 10 minutes. Remove from heat; stir in vanilla.                            Combine the crispy rice cereal and the walnuts in a large bowl. Stir in the date mixture; mix well.                            Working quickly, form the cereal and date mixture into 1 inch balls. Roll balls in coconut. Store in an airtight container in a cool place. Do not refrigerate.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Swedish-Wedding-Cakes-302229.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	415327,
-	"Hot Chicken Salad",
-	NULL,
-	"Directions                                                                                In a large bowl, combine the first nine ingredients. In a small bowl, combine mayonnaise and soup. Pour over chicken mixture; stir gently to coat. Spoon into a greased 2-qt. baking dish.                                                                                            In a small skillet, brown cornflakes and almonds in butter. Sprinkle over casserole. Bake, uncovered, at 350° for 30-35 minutes or until heated through.                                        Yield: 6 servings.                                                                                                                         Originally published as Hot Chicken Salad in  Country WomanSeptember/October 1991, p29                                                                                                                                                                                                        Nutritional Facts                                                                            Diabetic Exchanges: One serving (without topping) equals 2 lean meat, 1-1/2 starch, 1 vegetable, 1 fat; also, 272 calories, 522 mg sodium, 40 mg cholesterol, 29 gm carbohydrate, 21 gm protein, 12 gm fat.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Hot-Chicken-Salad-415327.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	369586,
-	"Roast Chicken with Green Herb Stuffing",
-	NULL,
-	"Directions                    Watch how to make this recipe.                                                        Wash the chicken under cool running water and pat it dry with paper towels. Refrigerate, uncovered, for at least 12 hours and as long as 2 days.Preheat the oven to 425 degrees F. Oil a roasting or baking pan with canola oil.Make the stuffing: Put the breadcrumbs in a medium bowl. Heat a large skillet over medium-high heat. Sprinkle the liver and gizzard with salt and pepper. Add 1 tablespoon of the butter to the skillet and when it melts, add the giblets and cook quickly until browned on both sides, about 3 minutes. Transfer them to a cutting board, chop finely and add to the breadcrumbs. Off of the heat, add the wine and scrape the bottom of the skillet to dislodge the brown bits; pour the liquid onto the breadcrumbs and mix.Add the pork to the skillet and cook until browned, about 5 minutes; scrape the pork into the bowl with the bread mixture. Add 3 tablespoons of the butter, the onions and 1/4 teaspoon each salt and pepper to the skillet and cook over medium heat until the onions are soft and tender, 10 to 15 minutes. Add the sage and garlic and cook 1 minute longer. Add the Swiss chard and cook until wilted. Scrape the mixture and all the buttery juices onto the breadcrumbs and mix to combine. Add the chives and lemon zest and taste for seasoning, adding more salt and pepper if needed.Loosen the skin over the chicken breasts. Insert the remaining 4 tablespoons cold butter under the skin of the chicken breasts, pushing down to disperse them. Rub the chicken all over with a thin film of canola oil. Sprinkle the chicken heavily on all sides with 3/4 teaspoon each salt and pepper. Stuff the cavity with the bread mixture, and stuff the neck skin with any remaining stuffing. Set the bird in the oiled roasting pan.Roast the chicken until the skin dries and the butter melts, about 15 minutes. Turn the heat down to 375 degrees F and continue to roast, basting the chicken once or twice with the fat that accumulates in the corners of the pan, until the thickest part of the thigh registers 170 degrees F on an instant-read thermometer, 45 to 55 minutes.Transfer the chicken to a large platter to rest for 5 to 10 minutes. Strain the pan juices into a bowl and skim off the fat. Pour 1/4 cup water into the roasting pan, set it on a burner on high heat and scrape up any stuck-on bits on the bottom with a rubber spatula. Return the defatted juices to the pan and simmer together for 3 to 5 minutes to make a thin, natural gravy. Season with salt and pepper.Carve the chicken on the platter. Slice the wings at the joint, twist to remove them and set them above the chicken. Cut the thighs at the joint, twist to remove them, slice them diagonally at the leg joint to separate them into thigh and drumstick and lay them on the platter. Carve thin slices from the breast meat and let them lay as they fall; pour a little gravy over the white meat, avoiding wetting the crispy skin of the thighs. Cut the stuffed neck in slices, and serve with the rest of the gravy in a small pitcher on the side.                                                    Recipe courtesy of Amy Thielen                         CATEGORIES:                                                                                                                                                                                                                                     Chicken                                                                                                                                                                                                                                                                                                                                                Dinner                                                                                                                                                                                                                                                                                                                                                                                    Stuffed Mushrooms                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/j/jerk-chicken-recipes.html">Chicken</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/d/dinner.html">Dinner</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/m/main-dish.html">Main Dish</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/stuffed-mushrooms.html">Stuffed Mushrooms</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/r/roasting-recipes.html">Roasting</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/a/american.html">American</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/roast-chicken-with-green-herb-stuffing-369586.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	300899,
-	"Greek Quinoa Salad",
-	NULL,
-	"Whisk together the lemon juice, vinegar, oregano, garlic and some salt and pepper in a small bowl. Slowly whisk in the oil until emulsified. Let sit at room temperature while you prepare the salad to allow the flavors to meld.Rinse the quinoa in a strainer until the water runs clear. Combine the quinoa, 2 cups water, 1 teaspoon salt and 1/4 teaspoon pepper in a small saucepan, bring to a boil and cook until the water is absorbed and the quinoa is tender, about 15 minutes.Transfer to a bowl, fluff with a fork and let sit for 5 minutes to cool slightly. Add the tomatoes, olives, green onions, cherry peppers, red onions, cucumbers and dressing and toss to coat. Cover and refrigerate for at least 1 hour and up to 8 hours before serving. The longer it sits the better the flavor.Just before serving, transfer to a platter and sprinkle feta on top.Read more at: http://www.foodnetwork.com/recipes/bobby-flay/greek-quinoa-salad-recipe/index.html?oc=linkback",
-	NULL,
-	"https://spoonacular.com/recipeImages/Greek-Quinoa-Salad-300899.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	59679,
-	"Apple Upside-down Biscuit Cake",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/apple-upside-down-biscuit-cake-2-59679.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	353033,
-	"French Kiss Cocktail",
-	NULL,
-	"Directions                                                        Pour apricot juice into a champagne flute. Add champagne and stir. Place apricot slice on the rim as a garnish.                                                    Recipe courtesy of Sandra Lee                         CATEGORIES:                                                                                                                                                                                                                                     Apricot                                                                                                                                                                                                                                                                                                                                                European                                                                                                                                                                                                                                                                                                                                                                                    For A Crowd                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/a/apricot.html">Apricot</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/f/fruit.html">Fruit</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/european.html">European</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/for-a-crowd.html">For A Crowd</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/easy.html">Easy</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/fall.html">Fall</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/french-kiss-cocktail-353033.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	42141,
-	"Fig And Plum Jam",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/fig_and_plum_jam-42141.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	360843,
-	"Beefy Mac and Cheese",
-	NULL,
-	"Directions                                                        Bring a pot of salted water to a boil. Add the pasta and cook as the label directs. Reserve 3/4 cup of the cooking water, then drain the pasta.Meanwhile, melt 1 tablespoon butter in a large nonstick skillet over medium heat. Add the onion and cook, stirring, until soft, about 5 minutes. Add the tomato paste and chili powder and stir until brick red, about 2 minutes. Add the beef and cook, stirring, until browned, 4 minutes. Stir in 1/2 teaspoon salt. Spread the mixture in a 3-quart baking dish. Preheat the broiler.Melt the remaining 2 tablespoons butter in a pot over medium heat. Add the flour and cook, stirring, 1 minute. Add the milk and reserved cooking water, bring to a simmer and cook, whisking, until thick, 2 minutes. Add 2 cups cheese, the cooked pasta and 3/4 teaspoon salt and stir until the cheese melts. Spread over the beef mixture.Mix the remaining 1/2 cup cheese and the breadcrumbs; sprinkle over the pasta mixture and broil until golden. Top with the scallions.Per serving: Calories 672; Fat 35 g (Saturated 20 g); Cholesterol 122 mg; Sodium 1,179 mg; Carbohydrate 54 g; Fiber 3 g; Protein 37 gPhotograph by Christopher Testani                                                    Recipe courtesy of Food Network Magazine                         CATEGORIES:                                                                                                                                                                                                                                     Beef                                                                                                                                                                                                                                                                                                                                                                                    Macaroni And Cheese                                                                                                                                        View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/b/beef-tenderloin-recipes.html">Beef</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/m/macaroni-and-cheese.html">Macaroni And Cheese</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/beefy-mac-and-cheese-360843.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	285141,
-	"Quince-and-Hazelnut Stuffing",
-	NULL,
-	"Preheat oven to 350.Place hazelnuts on a baking sheet. Bake nuts at 350 for 15 minutes, stirring once. Turn nuts out onto a towel. Roll up towel; rub off skins. Coarsely chop nuts, and set aside.Place a nonstick skillet coated with cooking spray over medium heat. Add quince, and sprinkle with sugar. Cook 15 minutes, stirring frequently or until very brown. Stir in 1/2 cup broth, and bring to a boil. Reduce heat, and simmer, uncovered, 5 minutes or until quince is tender and the liquid nearly evaporates. Add bell pepper, onion, poultry seasoning, and garlic; cook an additional 3 minutes.Remove pan from heat; stir in 1/4 cup broth, bread cubes, hazelnuts, salt, and pepper. Spoon the quince mixture into a 1-quart baking dish coated with cooking spray. Cover and bake at 350 for 30 minutes.",
-	NULL,
-	"https://spoonacular.com/recipeImages/quince-and-hazelnut-stuffing-285141.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	260113,
-	"Peanut Butter Topped Chocolate Brownies",
-	NULL,
-	"Preheat oven to 375 degrees F. Line an 8 inch square metal baking pan with nonstick foil or line with regular foil and spray with cooking spray.In a saucepan, melt the butter, add the chopped chocolate and stir until smooth, then remove from heat and stir in the sugar. Let the mixture cool for about 5 minutes. Add the eggs, one by one, stirring just until mixed, then stir in the coffee and the teaspoon of vanilla. Stir in the salt and when well mixed, stir in the flour. Pour the batter into the prepared pan.Bake at 375 degrees for 20-25 minutes or until a toothpick inserted comes out clean. Remove from oven and let cool until they are just slightly warm. However, while the brownies are still hot, put a few teaspoons of peanut butter on top and let it soften from the heat. When the brownies have cooled slightly but are still warm, spread the softened peanut butter in a very thin layer. This is to help the second layer stick better.Mix peanut butter and 2 tablespoons butter. Add sifted powdered sugar and vanilla; mix until it’s smooth. It will be thick and dough-like. Feel free to add more peanut butter if desired. Place mixture between 2 sheets of parchment, wax paper or foil and press into an 8 inch square.Lift the slightly warm brownies from the pan by grasping foil. Peel foil/parchment away from one side of the peanut butter and turn it onto the brownies. Pull off the other piece of paper. Let cool.Melt chocolate in the microwave using 50% power and spread over top. Allow the chocolate to set, but before it gets very firm, go ahead and score it. Chill until firm, about one hour. Trim the edges , then cut into 12 or 16 squares.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Peanut-Butter-Topped-Chocolate-Brownies-260113.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	497830,
-	"Fattoush (Bread Salad)",
-	NULL,
-	"Sprinkle some olive oil and sumac on the bread and toast in oven (400F) or toaster oven for 3-4 mins until light brown.Place all the chopped salad items in a large bowl.Mix the dressing ingredients in a smaller bowl and add to the salad bowl. Toss well with the salad.Break up the toasted bread with your hands, into bite sized pieces over the bowl and serve immediately.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Fattoush-(Bread-Salad)-497830.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	202668,
-	"Gluten-Free Tuesday: Vegan Apple Doughnuts",
-	NULL,
-	"Procedures                                                                              1                                                                            In large mixing bowl, combine brown rice flour, potato starch, tapioca starch, dark brown sugar, baking powder, ground cinnamon, salt, xanthan gum, and ground nutmeg. Whisk to combine.                                                                                                                             2                                                                            In small bowl, combine ground flax seeds and hot water. Stir. Allow tostand for 30 seconds. Add ground flax, apple juice, and oil to dryingredients. Mix until a dough forms. Dough will be slightly sticky.                                                                                                                            3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Generously white rice flour counter. Transfer dough to counter. Generously white rice flour top of dough. Pat dough into 1/2 inch thick rectangle.                                                                                                                             4                                                                            Line baking sheet with paper towels and place granulated sugar in bowl. Set both aside.                                                                                                                             5                                                                            Add enough oil to Dutch oven to measure depth of about 1 1/2 inches. Heat oil to 375°F.                                                                                                                             6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Dip 2 1/2-inch cutter into white rice flour.  Cut dough into rounds. Dip 3/4-inch cutter into white rice flour. Cut centers into doughnuts with small cutter.                                                                                                                            7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Gently place doughnuts into hot oil. Fry until doughnuts rise to the top of the oil, about two minutes. Using the handles of two wooden spoons, carefully flip doughnuts. (If after two minutes doughnuts do not rise to top of oil, flip anyway.) Fry doughnuts an additional minute.                                                                                                                             8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Using a spider (Chinese skimmer), remove doughnuts from hot oil. Drain for a few seconds on paper towels.                                                                                                                             9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Transfer to granulated sugar. You want to coat the doughnuts in sugar while the doughnuts are still hot or the sugar won’t stick. Repeat with remaining dough. Serve doughnuts immediately.                                                                                                                             10                                                                            For doughnuts holes: Carefully place doughnut holes into hot oil. Fry for one minute. Turn, fry an additional minute.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Gluten-Free-Tuesday--Vegan-Apple-Doughnuts-202668.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	316666,
-	"Mandarin Chicken",
-	NULL,
-	"Grill, broil or bake chicken.  Remove skin and bones, cut into chunks.In a medium pan, stir together sugar, soy sauce, lemon juice, ginger and garlic.Dissolve cornstarch in water, add to sugar/soy mixture.  Cook over medium heat until sugar dissolves and mixture thickens slightly.  Add chicken chunks.  Simmer over low heat 15-20 minutes.Serve over rice.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Mandarin-Chicken-316666.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	113981,
-	"Must Love Cheese! Chicken & Wild Rice Soup",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/must-love-cheese-chicken-wild-rice-soup-2-113981.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	106640,
-	"Corn Potato Soup for the Crock Pot",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/corn-potato-soup-for-the-crock-pot-2-106640.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	312534,
-	"Lemon and Egg Soup",
-	NULL,
-	"Directions                                                        Bring stock to a boil with saffron, bay leaf, and lemon peel. Cover and steep 5 minutes then turn off heat and remove bay leaf and peel.Whisk eggs and yolks with lemon juice and hot sauce. Whisk in 1/2 cup of the soup to temper the eggs. Whisk the egg mixture into the soup then turn heat on low and whisk together until soup thickens slightly, 4 to 5 minutes. Stir in parsley and season with salt and pepper. Ladle soup into bowls and top with a few pita chips.                                                    Recipe courtesy of Rachael Ray                         CATEGORIES:                                                                                                                                                                                                                                     Eggs                                                                                                                                                                                                                                                                                                                                                Appetizer                                                                                                                                                                                                                                                                                                                                                                                    Soup                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/e/eggs.html">Eggs</a></li>                                                                                                                                                                                                                                                                                 <li ><a href="/content/food/topics/l/lemon.html">Lemon</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/f/fruit.html">Fruit</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/a/appetizer.html">Appetizer</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/d/dinner.html">Dinner</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/soup.html">Soup</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/european.html">European</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/easy.html">Easy</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/lemon-and-egg-soup-312534.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	346566,
-	"Grilled Asian Flank Steak with Mango Salad",
-	NULL,
-	"1. Preheat grill to medium-high heat.2. Combine chopped cilantro, 1 tablespoon sugar, and next 4 ingredients (through soy sauce) in a large zip-top plastic bag. Add beef; let stand 15 minutes. Remove beef from marinade; reserve marinade.3. Place beef on grill rack coated with cooking spray. Drizzle with reserved marinade. Grill 5 minutes on each side or until desired degree of doneness. Remove from grill; cover with foil. Let stand 5 minutes; cut across grain into thin slices.4. Combine lime juice, 2 tablespoons water, peanut butter, remaining 2 teaspoons sugar, and pepper in a large bowl; stir with a whisk. Add lettuce and next 4 ingredients; toss to coat. Divide salad evenly among 4 plates; top evenly with mango. Serve with beef.",
-	NULL,
-	"https://spoonacular.com/recipeImages/grilled-asian-flank-steak-with-mango-salad-346566.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	134266,
-	"Substitute Phyllo Dough",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/substitute-phyllo-dough-2-134266.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	22259,
-	"Sweet Pepper Chicken With Five-spice",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/sweet_pepper_chicken_with_five-spice-22259.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	347169,
-	"Cheesy Italian Bacon Pie",
-	NULL,
-	"Directions                                                        Place an oven rack in the center of the oven and preheat to 450 degrees F.Unroll the crust on a lightly floured work surface. Using floured fingertips, seal any tears in the dough. Sprinkle the dough very lightly with flour. Using the bottom paper to lift, turn the dough over into 9-inch-diameter ceramic or glass pie dish. Peel off the remaining sheet of paper. Trim the dough overhang to 3/4 inch. Fold the overhang under and form a smooth top edge. Crimp the edge decoratively. Pierce the bottom and sides of the crust all over with a fork. Chill the crust at least 10 minutes.Bake the crust until deep golden around the top edge and light golden on the bottom, about 10 minutes. Set aside to cool.Reduce the oven temperature to 375 degrees F.Heat the olive oil in a large nonstick skillet over medium-high heat. Add the pancetta cook until brown and crisp. Using a slotted spoon, transfer to paper towels to drain and cool, reserving the pancetta drippings in the skillet.Add the zucchini, shallots and garlic to the skillet. Saute over medium heat until the zucchini is just barely tender, tossing occasionally, 5 to 6 minutes. Cool the zucchini slightly, about 10 minutes.In a medium bowl, whisk the eggs and cream. Add the cheese, basil, cooled pancetta, mustard, salt, pepper, nutmeg and cooled zucchini mixture. Whisk to blend. Pour the custard into the cooled pie crust.Bake the quiche until the sides are slightly puffed and brown and the center is set, 35 to 40 minutes. Cool on a rack 20 to 30 minutes, and then serve warm or let cool completely and serve at room temperature.                                                    Recipe courtesy of Giada De Laurentiis                         CATEGORIES:                                                                                                                                                                                                                                     Cheese                                                                                                                                                                                                                                                                                                                                                Quiche                                                                                                                                                                                                                                                                                                                                                                                    Baking                                                                                                                                                                                                                        View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/c/cheese.html">Cheese</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/e/eggs.html">Eggs</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/q/quiche.html">Quiche</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/b/baking.html">Baking</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/i/italian.html">Italian</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/cheesy-italian-bacon-pie-347169.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	99819,
-	"Spiced Ham Loaf",
-	NULL,
-	"Combine ham, beef, egg, milk, bread crumbs, salt, and pepper.  Form into loaf.   Place in a casserole dish.                            Combine brown sugar, water, mustard, and vinegar in a small saucepan over medium high heat.  Bring to boil, and boil for 10 minutes.  Pour over loaf.                            Bake at 350 degrees F (175 degrees C) until done, about 1 hour, basting occasionally.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/spiced-ham-loaf-2-99819.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	486176,
-	"Ricotta Dumplings with Vodka Marinara Sauce",
-	NULL,
-	"In a large bowl combine cheeses, salt & pepper, ½ cup of flour and beaten egg and egg yolk. Stir to blend.Line a baking sheet with parchment paper and dust with flour.Dust your hands and pinch dough into roll into 2" balls (estimated)Lay balls on flour dusted baking sheet. Dust balls and roll so that they do not stick to parchment.Bring a large pot of water to boil, add a huge pinch of kosher salt and add balls in batches. (I cooked about 12 a batch)Balls will rise to top, but continue cooking for a total of 5-6 minutes.Remove with slotted spoon to serving bowl that is filled with sauce.Toss to coat and serve with a sprinkling of Parmesan cheese and parsley",
-	NULL,
-	"https://spoonacular.com/recipeImages/Ricotta-Dumplings-with-Vodka-Marinara-Sauce-486176.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	492649,
-	"Chopped Steak Grilled Cheese Sandwich",
-	NULL,
-	"Directions:                                     Roughly dice the leftover steak and set aside.Spread one tablespoon of butter on both slices of bread, then assemble the sandwich: place a slice of cheese on the first slice of bread, the steak (firmly wedged in like puzzle pieces to keep the sandwich even) and another slice of cheese, then top with the other slice of bread.Heat the second tablespoon of butter in a medium skillet — cast-iron is always best for grilled cheese.  When the butter is hot and foamy, carefully drop the sandwich in the pan and weigh it down with something heavy (we used a 28-ounce can on a plate).Cook for 2-3 minutes or until crisp and golden-brown, then flip and cook on the other side for 2-3 minutes.Remove from pan to a plate, slice in half and serve immediately.More grilled cheese recipes on Food Republic:Smoky Jalapeño Grilled Cheese with TomatillosTomato-Orange Soup With Grilled Cheese CroutonsHack Of The Day: How To Make Grilled Cheese In A Toaster",
-	NULL,
-	"https://spoonacular.com/recipeImages/Chopped-Steak-Grilled-Cheese-Sandwich-492649.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	452178,
-	"Irish Potato Candy",
-	NULL,
-	"In a medium bowl, beat the butter and cream cheese together until smooth. Add the vanilla and confectioners' sugar; beat until smooth. Using your hands if necessary, mix in the coconut. Roll into balls or potato shapes, and roll in the cinnamon. Place onto a cookie sheet and chill to set. If desired, roll potatoes in cinnamon again for darker color.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Irish-Potato-Candy-452178.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	371758,
-	"Spiderweb Brownie Trifle",
-	NULL,
-	"Directions                                                                                Prepare and bake brownie mix according to package directions. Cool on a wire rack. Cut into 1-in. cubes.                                                                                             In a large bowl, beat cream cheese until fluffy. Gradually add confectioners’ sugar; beat until smooth. Fold in 2 cups whipped topping. Place half of the brownie cubes in a 4-qt. trifle bowl or glass serving dish; layer with half of the cream cheese mixture.                                                                                           In another bowl, whisk milk and pudding mixes for 2 minutes. Let stand for 2 minutes or until soft-set. Set aside half of the pudding mixture. Stir pecans and 1 cup chopped candy bars into remaining pudding mixture; spread over cream cheese layer. Layer with remaining brownies and cream cheese mixture.                                                                                           Fold 2 cups whipped topping into the reserved pudding mixture; spread over cream cheese layer. Spread remaining whipped topping over top.                                                                                           Place chocolate syrup in a heavy-duty resealable plastic bag; cut a small hole in a corner of bag. Pipe eight thin concentric circles 1/2 in. apart on the whipped topping. Beginning with the center circle, gently pull a knife through circles toward the outer edge. Wipe knife clean. Repeat to complete spiderweb pattern. Sprinkle remaining crushed candy bars in center of web. Refrigerate until chilled.                                        Yield: 21 servings (3/4 cup each).                                                                                                                         Originally published as Spiderweb Brownie Trifle in  Simple & DeliciousOctober/November 2010, p14                                                                                                                                                                                                        Nutritional Facts                                                                             3/4 cup equals 464 calories, 26 g fat (11 g saturated fat), 37 mg cholesterol, 365 mg sodium, 54 g carbohydrate, 2 g fiber, 6 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Spiderweb-Brownie-Trifle-371758.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	139922,
-	"Moroccan Orange Dessert",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/moroccan-orange-dessert-2-139922.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	17319,
-	"Scotch Eggs",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/scotch_eggs-17319.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	404154,
-	"Garlic Shrimp Stir-Fry",
-	NULL,
-	"Directions                                                                                In a large skillet, saute garlic in butter until tender. Add the shrimp, peas, peppers, basil, parsley, salt and pepper. stir-fry for 5 minutes or until shrimp turn pink and vegetables are crisp-tender. Add broth. Cook 1 minute longer or until heated through. Serve with rice.                                        Yield: 4 servings.                                                                                                                         Originally published as Garlic Shrimp Stir-Fry in  Taste of HomeFebruary/March 2002, p27                                                                                                                                                                                                        Nutritional Facts                                                                             One 1-cup serving (calculated without rice) equals 205 calories, 8 g fat (4 g saturated fat), 188 mg cholesterol, 563 mg sodium, 8 g carbohydrate, 2 g fiber, 25 g protein. Diabetic Exchanges: 3 lean meat, 1 vegetable.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Garlic-Shrimp-Stir-Fry-404154.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	392307,
-	"Three-Cheese Garlic Bread",
-	NULL,
-	"Directions                                                                                Cut bread in half widthwise; cut one portion in half lengthwise. Save remaining bread for another use. In a small bowl, combine the remaining ingredients. Spread evenly over cut sides of bread.                                                                                            Place on a baking sheet. Bake at 400° for 10-12 minutes or until cheese is melted. Slice and serve warm.                                        Yield: 4 servings.                                                                                                                         Originally published as Three-Cheese Garlic Bread in  Simple & DeliciousJanuary/February 2008, p22                                                                                                                            Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Three-Cheese-Garlic-Bread-392307.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	320121,
-	"Sweet Potato Souffle",
-	NULL,
-	"Directions                                                        Preheat the oven to 350 degrees F.Bring a large pot of water to a boil over high heat. Add 1 teaspoon of salt and the potatoes. Cook the potatoes until tender, then drain and cool to room temperature. Add the potatoes and the remaining ingredients to a blender and puree.Pour into a greased 9 by 13-inch casserole pan and bake in the oven for 1 hour or until set and lightly browned. Remove from the oven and serve hot.This recipe was provided by professional chefs and has been scaled down from a bulk recipe provided by a restaurant. The Food Network Kitchens chefs have not tested this recipe, in the proportions indicated, and therefore, we cannot make any representation as to the results.                                                    Recipe courtesy of Mike Greene at Matthews Cafeteria in Tucker, GA                         CATEGORIES:                                                                                                                                                                                                                                     Sweet Potato                                                                                                                                                                                                                                                                                                                                                Side Dish                                                                                                                                                                                                                                                                                                                                                                                    Easy                                                                                                                                        View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/sweet-potato.html">Sweet Potato</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/side-dish.html">Side Dish</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/easy.html">Easy</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/sweet-potato-souffle-320121.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	120638,
-	"Herb-Roasted Potatoes",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/herb-roasted-potatoes-2-120638.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	457988,
-	"Pumpkin Pie II",
-	NULL,
-	"In a large bowl, combine milk, pumpkin, flour, spices, eggs, salt, and sugar.  Mix with an electric mixer until smooth.  Pour filling into pie shells.                            Bake at 475 degrees F (245 degrees C) for 10 minutes.  Reduce the temperature to 350 degrees F (175 degrees C), and bake for an additional 35 minutes.  Serve warm or at room temperature.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Pumpkin-Pie-II-457988.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	252676,
-	"Rustic Grilled Pizza",
-	NULL,
-	"Cut bell peppers in half lengthwise, and discard seeds and membranes. Place pepper halves, skin sides up, on a foil-lined baking sheet; flatten with hand. Broil for 15 minutes or until blackened. Place in a zip-top plastic bag, and seal. Let stand for 15 minutes. Peel and cut into 1/2-inch strips. Combine bell peppers, oregano, 1 teaspoon oil, and 1/4 teaspoon salt.Heat 1 teaspoon oil in a large nonstick skillet over medium heat. Add onion and 1/4 teaspoon salt; cook 15 minutes, stirring frequently. Increase heat to medium-high. Sprinkle onion with sugar; saut 5 minutes or until lightly browned. Remove from pan.Heat 1 teaspoon oil in pan over medium-high heat. Add mushrooms; cover and cook 2 minutes. Uncover and cook 1 minute or until tender, stirring constantly. Combine the onion, mushrooms, and 1/4 teaspoon salt.Prepare grill.Roll dough into a 12-inch circle. Place dough on grill rack coated with cooking spray; grill 3 minutes or until browned. Turn crust. Arrange the onion mixture and bell pepper mixture on crust. Top with cheese. Grill, covered, 3 minutes. Sprinkle with parsley and black pepper.",
-	NULL,
-	"https://spoonacular.com/recipeImages/252676-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	263851,
-	"Kicked-Up Red Bean Sand Rice",
-	NULL,
-	"Place a Dutch oven coated with cooking spray over medium-high heat until hot. Add kielbasa; saut 4 minutes or until lightly browned. Remove from pan.Heat oil in pan over medium-high heat. Add onion and next 3 ingredients. Saut 8 minutes or until tender. Stir in beans and next 6 ingredients. Bring to a boil; cover, reduce heat, and simmer 20 minutes. Serve red beans over hot cooked rice.",
-	NULL,
-	"https://spoonacular.com/recipeImages/263851-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	310605,
-	"Whole-Wheat Fettuccine with Arugula Pesto",
-	NULL,
-	"1.In a food processor, pulse the whole-wheat and all-purpose flours with ½ teaspoon of salt.  In a bowl, whisk the egg yolks, water and the 1 teaspoon of oil.  With the processor on, add the egg yolk mixture and process until a ball forms.  Transfer the dough to a work surface and knead until smooth.  Cover with plastic wrap and let stand at room temperature for 20 minutes.  Wipe out the processor.  2.In a small skillet, toss the pine nuts over moderate heat until toasted, 1 minute; let cool.  In the food processor, pulse the arugula, pine nuts, cheese, garlic and the remaining 1/3 cup of oil to a paste.  Season the pesto with salt and add to a large skillet.  3.Cut the dough into 3 pieces; work with 1 piece at a time and keep the rest covered.  Flatten the dough slightly and run it through progressively narrower settings in a pasta machine until you reach the thinnest setting.  Cut the pasta into 10-inch lengths.  Using the pasta machine, cut each length into fettuccine.  Transfer to a baking sheet, leaving space between the pasta so it doesn’t stick.  4.In a pot of boiling, salted water, cook the pasta, stirring, until al dente, about 30 seconds.  Drain the pasta, reserving 1/3 cup of the cooking water.  Stir the reserved water into the pesto.  Add the pasta and tomatoes to the pesto, toss over moderate heat and serve.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Whole-Wheat-Fettuccine-with-Arugula-Pesto-310605.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	420253,
-	"Whole Wheat Wild Rice Bread",
-	NULL,
-	"Directions                                                                                In a large bowl, combine the whole wheat flour, 1 cup all-purpose flour, yeast and salt. In a small saucepan, heat the water, milk, butter and honey to 120°-130°. Add to dry ingredients; beat until smooth. Stir in the wild rice and enough remaining all-purpose flour to form a stiff dough.                                                                                            Turn onto a lightly floured surface; knead until smooth and elastic, about 6-8 minutes. Place in a bowl coated with cooking spray, turning once to coat top. Cover and let rise in a warm place until doubled, about 40 minutes.                                                                                           Punch dough down. Turn onto a lightly floured surface; divide in half. Shape into loaves. Place in two 9-in. x 5-in. loaf pans coated with cooking spray. Cover and let rise until doubled, about 30 minutes.                                                                                            Bake at 375° for 40-45 minutes or until golden brown. Remove from pans to wire racks to cool completely.                                        Yield: 2 loaves (16 slices each).                                                                                                                         Originally published as Wild Rice Bread in  Light & TastyAugust/September 2007, p53                                                                                                                                                                                                        Nutritional Facts                                                                             1 slice equals 116 calories, 2 g fat (1 g saturated fat), 4 mg cholesterol, 203 mg sodium, 22 g carbohydrate, 2 g fiber, 4 g protein. Diabetic Exchange: 1-1/2 starch.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Whole-Wheat-Wild-Rice-Bread-420253.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	116221,
-	"BBQ NY Strip",
-	NULL,
-	"In a bowl, mix the olive oil, Worcestershire sauce, garlic, steak seasoning, red wine vinegar, basil, and Italian seasoning. Pour into a large resealable plastic bag. Pierce steaks on all sides with a fork, and place in the bag. Gently shake to coat. Seal bag and marinate steaks a minimum of 2 hours in the refrigerator.                            Preheat grill for high heat.                            Lightly oil the grill grate. Discard marinade. Place steaks on the grill, and cook 7 minutes on each side, or to desired doneness.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/bbq-ny-strip-2-116221.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	398166,
-	"Taco Salad",
-	NULL,
-	"Directions                                                        Combine the tomatoes, cheese, onion, lettuce, and ground beef in a large bowl. Add the salad dressing and mix well. Just before serving, add the taco chips, tossing to combine with other ingredients. Top each serving with salsa. Serve with tortilla chips.                                                    Recipe courtesy of Paula Deen                         CATEGORIES:                                                                                                                                                                                                                                     Cheese                                                                                                                                                                                                                                                                                                                                                Main Dish                                                                                                                                                                                                                                                                                                                                                                                    Salad                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/c/cheese.html">Cheese</a></li>                                                                                                                                                                                                                                                                                 <li ><a href="/content/food/topics/l/lettuce.html">Lettuce</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/m/meat.html">Meat</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/m/main-dish.html">Main Dish</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/g/greek-salad-recipes.html">Salad</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/c/cinco-de-mayo.html">Mexican</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/for-a-crowd.html">For A Crowd</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/taco-salad-398166.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	332167,
-	"Marble Bundt Cake",
-	NULL,
-	"Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 10 inch bundt pan.                            Use an electric mixer to beat the butter and sugar together. Beat in the eggs, one at a time. Mix in whiskey, lemon zest, lemon juice, yogurt, vanilla, and a pinch of salt. Stir the flour into the batter a little bit at a time. Allow batter to rest for 5 minutes.                            Stir the baking powder into the batter. Remove 3/4 cup batter from bowl. Pour remaining batter into prepared bundt pan. Stir the cocoa powder into the reserved batter. Pour chocolate batter evenly into the center of the batter in the pan.                            Bake cake in preheated oven until the top is golden, and the cake springs back when pressed lightly, about 40 minutes. Allow cake to cool before removing from bundt pan.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Marble-Bundt-Cake-332167.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	313486,
-	"Chocolate Genoise Cake with Raspberry Filling and Chocolate Ganache",
-	NULL,
-	"Directions                                                        Genoise: Preheat oven to 350 degrees F. Butter and flour an 8-inch cake pan.Into a small bowl sift together flour, cocoa powder, cornstarch and baking soda. In a large metal bowl set over barely simmering water, whisk eggs and sugar with a hand-held electric beater until  thick, foamy and doubled in volume. Mixture should form a ribbon when beaters are lifted. Make sure that mixture does not get too hot and curdle eggs. Remove from heat and gently fold in flour mixture until just combined. Fold in melted butter and pour into cake pan. Bake 20 minutes until cake is springy to touch. Cool in pan 10 minutes on a cake rack, turn out and cool completely.Ganache: In a small saucepan bring cream to a boil over high heat. Remove from heat and whisk in chocolate. Let cool, stirring occasionally, until thickened, but still pourable.Assembly: Halve cake crosswise. On a cake rack set over a baking sheet, cover bottom cake layer with raspberry jam and replace top layer. Over center of cake pour ganache and smooth over top and sides with a palette knife until evenly coated. Let icing set, about 1 hour. To decorate, pipe whipped cream as desired, arrange raspberries and mint and dust with powdered sugar.                                                    Recipe courtesy of Emeril Lagasse                         CATEGORIES:                                                                                                                                                                                                                                     Raspberry                                                                                                                                                                                                                                                                                                                                                Dessert                                                                                                                                                                                                                                                                                                                                                                                    Cake                                                                                                                                                                                                                                                                                                                                                                                                        View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/r/raspberry.html">Raspberry</a></li>                                                                                                                                                                                                                                                                                 <li ><a href="/content/food/topics/d/dairy.html">Dairy</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/c/chocolate.html">Chocolate</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/a/apple-strudel-recipes.html">Dessert</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/b/birthday-cake-recipes.html">Cake</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/b/baking.html">Baking</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/european.html">European</a></li>                                 </ul>                <ul>                    <li>Occasion</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/h/holiday.html">Holiday</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/p/parties.html">Party</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/for-a-crowd.html">For A Crowd</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/w/winter.html">Winter</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/chocolate-genoise-cake-with-raspberry-filling-and-chocolate-ganache-313486.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	13584,
-	"Roasted Corn And Radish Salad With Avocado-herb Dressing",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/roasted_corn_and_radish_salad_with_avocado-herb_dressing-13584.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	158178,
-	"Prosciutto-Wrapped Macaroni and Cheese Cups",
-	NULL,
-	"Heat the oven to 375°F and arrange a rack in the middle.Bring a large saucepan (about 4 quarts) of heavily salted water to a boil over high heat. Add the pasta and cook according to the package directions. When the pasta is al dente, reserve 1/4 cup of the cooking water, then drain.Meanwhile, cut the prosciutto in half crosswise.  Place 1 slice in each well of a 12-well muffin pan, pressing the prosciutto evenly into the bottom and up the sides of each well; set aside. Melt 1 tablespoon of the butter in a small frying pan over medium heat until foaming. Add the panko and cook, stirring occasionally, until light golden brown, about 4 minutes. Remove the pan from the heat and set aside.While the pasta is draining, rinse the saucepan and wipe it dry. Melt the remaining 2 tablespoons of butter in the saucepan over medium-low heat until foaming. Add the flour and whisk until smooth. Cook, whisking occasionally, until the flour has darkened slightly in color, about 2 to 3 minutes.Add the milk very slowly, whisking it into the flour-butter mixture. Continue cooking, whisking constantly to smooth out any lumps, until the mixture simmers and thickens, about 6 to 7 minutes.Remove the saucepan from the heat. Add the reserved pasta water, cheeses, mustard, measured salt, and pepper and whisk until the cheese has melted and the mixture is smooth. Add the drained pasta and stir to combine.Divide the pasta mixture among the wells of the prepared muffin pan and sprinkle with the toasted panko. Cook until the edges of the mac ’n’ cheese cups are bubbling slightly and the tops are light golden brown, about 25 to 30 minutes.Remove the muffin pan to a wire rack and let it cool for 5 minutes. Run a small knife around the perimeter of each well to loosen and remove the prosciutto cups. Serve immediately.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Prosciutto-Wrapped-Macaroni-and-Cheese-Cups-158178.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	484461,
-	"Caramel & Cinnamon Banana Oat Bars",
-	NULL,
-	"Preheat oven to 375 degrees (F). Line a 8×8 baking pan with foil; lightly coat it with cooking spray.Whisk together the flours, sugar, baking power and soda, spices and salt.In a mixing bowl, beat coconut oil until smooth. Add mashed bananas and the egg and mix well.Add the dry ingredients and mix until incorporated. Fold in the rolled oats, caramel bits and cinnamon chips.Spread the batter evenly into the prepared baking pan. Bake on the center rack of your oven for 25 to 30 minutes or until golden brown. Cool on a wire rack. Lift the foil out of the pan and cut into bars.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Caramel---Cinnamon-Banana-Oat-Bars-484461.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	440054,
-	"Chocolate Cream Pie I",
-	NULL,
-	"Combine sugar, flour, milk, and chopped up chocolate in 2 quart saucepan.  Stirring constantly, cook over medium heat until mixture begins to bubble.  Continue stirring for 2 minutes.                            Mix a little of the hot mixture into the egg yolks, beating rapidly to avoid cooking the yolks.  Stir the warm yolk mixture into the remainder of the chocolate mixture, and cook for an additional 90 seconds.  Remove from heat, and stir in butter or margarine and vanilla.                            Pour filling into pie shell, and chill until set.  Top with whipped topping, and a little grated chocolate.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Chocolate-Cream-Pie-I-440054.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	363916,
-	"Two-Potato Lamb Stew with Roasted Garlic",
-	NULL,
-	"Preheat oven to 350.Remove white papery skin from garlic head (do not peel or separate the cloves). Wrap garlic head in foil. Bake at 350 for 45 minutes or until tender; cool 10 minutes. Separate cloves; squeeze to extract garlic pulp. Discard skins.Heat a Dutch oven over medium-high heat. Coat pan with cooking spray. Add onion; saut 10 minutes or until tender and golden brown. Add 4 garlic cloves; saut 1 minute. Spoon onion mixture into a bowl.Place flour in a shallow bowl or pie plate. Dredge lamb in flour, shaking off excess. Heat oil in pan over medium-high heat. Add half of lamb mixture; sprinkle with 1/4 teaspoon salt and 1/8 teaspoon pepper. Cook 6 minutes, browning on all sides. Add browned lamb to onion mixture. Repeat procedure with remaining lamb mixture, 1/4 teaspoon salt, and 1/8 teaspoon pepper.Add wine to pan, scraping pan to loosen browned bits. Stir in lamb mixture and broth; bring to a boil. Cover, reduce heat, and simmer 1 hour or until lamb is just tender.Stir in potatoes and parsnip. Cover and simmer 30 minutes. Stir in roasted garlic, remaining 1/2 teaspoon salt, remaining 1/4 teaspoon pepper, and rosemary; simmer 10 minutes.",
-	NULL,
-	"https://spoonacular.com/recipeImages/two-potato-lamb-stew-with-roasted-garlic-363916.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	362211,
-	"Grilled Shrimp with Piri-Piri Sauce",
-	NULL,
-	"To prepare grilled shrimp, peel shrimp, leaving tails intact. Starting at tail end, butterfly each shrimp, cutting to, but not through, backside of shrimp. Combine shrimp, wine, 1 tablespoon oil, garlic, and thinly sliced peppers in a large zip-top plastic bag. Seal and marinate in refrigerator 3 hours, turning bag occasionally.To prepare piri-piri sauce, combine vinegar, 1/4 cup oil, salt, and chopped peppers; stir well with a whisk.Prepare grill.Remove shrimp from bag; reserve marinade. Thread shrimp onto each of 6 (12-inch) skewers. Place skewers on grill rack coated with cooking spray. Grill 7 minutes on each side or until done; turn and baste frequently with reserved marinade.Remove shrimp from skewers; toss with 1/4 cup piri-piri sauce.Note: Store remaining piri-piri sauce in an airtight container in refrigerator. Bring to room temperature before using.",
-	NULL,
-	"https://spoonacular.com/recipeImages/362211-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	29626,
-	"Broccoli Orecchiette With Tomatoes & Olives",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/broccoli-orecchiette-with-tomatoes-olives-2-29626.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	202070,
-	"Strawberry Pound Cake",
-	NULL,
-	"Procedures                                                                              1                                                                            Adjust oven rack to middle position and preheat oven to 350°F. Butter loaf pan. In a small bowl, whisk together flour, baking powder, and salt; set aside.                                                                                                                             2                                                                            In the bowl of a stand mixer fitted with a paddle attachment, beat together butter and sugar until light and fluffy, about 3 minutes. Add eggs, egg yolk, and vanilla. Add 1/2 dry ingredients, followed by milk. Add remaining dry ingredients, then cream, beating until just combined. Fold strawberries into batter with a spatula.                                                                                                                             3                                                                            Pour batter into prepared pan and smooth top. Bake until a tester inserted into the middle of the cake comes out clean, about 50 to 60 minutes. Let cool 15 minutes then turn out to a wire rack to finish cooling. Serve, garnishing with additional strawberries or whipped cream if desired. Leftover pound cake can be stored in a sealed container at room temperature for up to 1 week.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Strawberry-Pound-Cake-202070.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	167679,
-	"Banh Mi Chicken Burger",
-	NULL,
-	"For the pickled carrots:Place the vinegar, sugar, and salt in a small, nonreactive saucepan over medium heat. Cook, stirring occasionally, until the sugar and salt have dissolved. Remove from the heat, add the carrots, and stir to coat them in the pickling mixture. Let stand at room temperature until the carrots have softened, at least 30 minutes or overnight in the refrigerator. Drain well and refrigerate in a covered container until ready to use.For the chile mayonnaise:Combine the mayonnaise and chile-garlic paste or sambal oelek in a small bowl. Cover and refrigerate until ready to use.For the burgers:Place all of the ingredients except the chicken and oil in a large bowl and stir to combine. Add the ground chicken and mix with your hands until just evenly combined.Divide the meat mixture into 8 equal portions. Shape each portion into an even 1/2-inch-thick patty, wetting your hands with water as needed if the mixture is sticky. Transfer the patties to a baking sheet and refrigerate while you prepare the grill.Heat a grill pan or outdoor grill to medium high (about 375°F to 425°F). When the grill is ready, use tongs to rub the grate with several layers of paper towels dipped in vegetable oil.Using a flat spatula, transfer the reserved patties to the grill, close the grill, and cook undisturbed (do not press down on the patties) until grill marks appear on the bottom, about 3 to 4 minutes. Using a clean spatula, flip the patties, close the grill, and cook until the patties are cooked through and the juices run clear, about 3 to 4 minutes more. Remove to a clean plate and let rest in a warm place or tent loosely with foil for 5 minutes.To assemble:Spread about 1 tablespoon of the chile mayonnaise on each top and bottom roll (2 tablespoons per sandwich). Place 2 of the chicken patties side by side on each bottom roll. Divide the cilantro leaves, pickled carrots, and romaine lettuce evenly among the sandwiches and cover with the top rolls. Serve immediately.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Banh-Mi-Chicken-Burger-167679.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	68577,
-	"Easy Italian Pizza Calzones",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/easy-italian-pizza-calzones-2-68577.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	373131,
-	"Lemon String Beans",
-	NULL,
-	"Mix together the garlic, lemon juice, and olive oil in a large bowl; set aside.                            Bring a large pot of salted water to a boil. Cook the green beans in the water for 5 to 6 minutes; drain. Cool beans for about 10 minutes. Place cooled beans in the large bowl and toss with the lemon juice mixture; season with salt. Allow beans to rest for 2 minutes before stirring again. Repeat 2 minutes rest and stirring once more. Remove garlic before serving.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Lemon-String-Beans-373131.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	202410,
-	"Matzo Pizza",
-	NULL,
-	"Procedures                                                                              1                                                                            Adjust oven rack to center position and preheat oven to 500°F. Place tomatoes in a fine mesh strainer and break apart with your fingers into rough 1/2-inch chunks. Toss in strainer over sink to drain all excess liquid.                                                                                                                            2                                                                            Place matzos on a foil-lined baking sheet. Spread half of mozzarella evenly over matzos, then transfer to oven. Bake until cheese is melted, about 3 minutes. Remove from oven and add tomatoes to matzos, distributing in small dollops. Top with remaining mozzarella and other toppings as desired. Season with kosher salt. Return to oven and bake until bubbly, about 10 minutes.                                                                                                                            3                                                                            Remove pizza from oven and sprinkle with Parmesan cheese. Heat 2 teaspoons oil in a large non-stick or cast iron skillet over medium heat. Using a wide, stiff spatula, carefully remove two pizzas from baking sheet and add to skillet. Cook, swirling and rotating occasionally, until crisp and well-browned on the bottom, about 2 minutes. Transfer to cutting board. Repeat with remaining pizzas. Serve immediately, drizzled with extra olive oil and sprinkled with fresh basil if desired.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Matzo-Pizza-202410.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	429150,
-	"Sugar Pie III",
-	NULL,
-	"Preheat oven to 350 degrees F (175 degrees C).                            In a medium bowl, mix together maple sugar, brown sugar, and flour. Add cream and vanilla extract. Stir until smooth. Pour mixture into pastry shell.                            Bake in preheated oven for 30 to 35 minutes. Let stand at least 45 minutes before serving. Store in refrigerator.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Sugar-Pie-III-429150.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	70318,
-	"Brandy-apple Mini Pies With Cornmeal Crust",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/brandy-apple_mini_pies_with_cornmeal_crust-70318.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	417408,
-	"Classic Italian Chicken",
-	NULL,
-	"Directions                                                                                In a shallow bowl, beat egg and 1 tablespoon water. Place the bread crumbs in another shallow bowl. Dip chicken in egg mixture, then coat with crumbs. In a large skillet, cook chicken in oil over medium heat for 4-5 minutes or until browned; drain. Remove and keep warm.                                                                                            In the same skillet, combine the soup, onion, garlic powder, basil, oregano and remaining water. Return chicken to pan. Cover and simmer for 40-45 minutes or until chicken juices run clear. Sprinkle with mozzarella cheese; cover and cook for 1-2 minutes or until cheese is melted. Sprinkle with Parmesan cheese.                                        Yield: 4 servings.                                                                                                                         Originally published as Italian Chicken  in  Quick CookingJuly/August 2005, p60                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (1 each) equals 257 calories, 14 g fat (4 g saturated fat), 81 mg cholesterol, 430 mg sodium, 12 g carbohydrate, 1 g fiber, 19 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Classic-Italian-Chicken-417408.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	429140,
-	"Chocolate Peanut Torte",
-	NULL,
-	"Directions                                                                                In a large bowl, combine the wafer crumbs, butter and 2/3 cup peanuts. Press into an ungreased 13-in. x 9-in. baking dish. Bake at 350° for 8-10 minutes or until lightly browned. Cool.                                                                                            In a large bowl, beat the cream cheese, sugar and peanut butter until smooth. Fold in 2 cups of whipped topping. Spread over crust.                                                                                            In a another large bowl, beat milk and pudding mixes on low for 2 minutes. Carefully spread over cream cheese layer. Cover and refrigerate for 4-6 hours.                                                                                            Just before serving, carefully spread remaining topping over the pudding layer. Sprinkle with grated chocolate and the remaining peanuts.                                        Yield: 16-20 servings.                                                                                                                         Originally published as Chocolate Peanut Torte in  Taste of HomeAugust/September 1998, p33                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (1 piece) equals 314 calories, 20 g fat (9 g saturated fat), 27 mg cholesterol, 263 mg sodium, 29 g carbohydrate, 1 g fiber, 6 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Chocolate-Peanut-Torte-429140.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	79587,
-	"Spinach Quiche, Revisited",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/spinach_quiche_revisited-79587.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	213110,
-	"Green Beans with Lemon and Pine Nuts",
-	NULL,
-	"Preparation                                                        Cook beans in a 4-quart saucepan of boiling salted wateruntil just tender, about 5 minutes, then drain well in a colander. Transfer to a bowl and toss with nuts, parsley, zest, oil, and salt and pepper to taste.                                                Cooks' note:            Green beans can be cut 6 hours ahead and chilled, wrapped in dampened paper towels in a sealed plastic bag.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Green-Beans-with-Lemon-and-Pine-Nuts-213110.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	24822,
-	"Paul's Pumpkin Bars",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/pauls-pumpkin-bars-2-24822.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	456689,
-	"Mini Frittatas with Quinoa",
-	NULL,
-	"Preheat oven to 400 degrees F (200 degrees C). Grease 6 muffin cups.                            Bring the quinoa and water to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the quinoa is tender and the water has been absorbed, 15 to 20 minutes.                            Combine cooked quinoa, eggs, egg whites, zucchini, Swiss cheese, ham, parsley, Parmesan cheese, and white pepper in a large bowl and mix until thoroughly combined. Spoon mixture to the top of each prepared muffin cup.                            Bake in preheated oven until the edges of frittatas are golden brown, about 30 minutes.  Allow to cool at least 5 minutes in the pan before serving.  Serve hot or cold.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Mini-Frittatas-with-Quinoa-456689.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	392834,
-	"Baby Shrimp Scampi and Angel Hair Pasta",
-	NULL,
-	"Directions                    Watch how to make this recipe.                                                        Get your pasta water going. Start the scampi sauce when you drop your pasta into boiling water to cook.Heat a large skillet over medium high heat. Add extra-virgin olive oil and melt the butter into it. Add shallots and cook a minute or 2, stirring constantly. Add lemon zest and shrimp and heat shrimp through, another minute or two. Add vermouth or wine and tomatoes. Toss another minute to heat the tomatoes through. Add cooked pasta to the pan and toss to coat evenly in sauce and to distribute the shrimp. Season liberally with salt and pepper and serve with chives to garnish.                                                    Recipe courtesy of Rachael Ray                         CATEGORIES:                                                                                                                                                                                                                                     Main Dish                                                                                                                                                                                                                                                                                                                                                Italian                                                                                                                                                                                                                                                                                                                                                                                    Easy                                                                                                                                                                                                                        View All         <div class="popover-content categories">                        <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/m/main-dish.html">Main Dish</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/i/italian.html">Italian</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/e/easy.html">Easy</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/summer.html">Summer</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/baby-shrimp-scampi-and-angel-hair-pasta-392834.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	127766,
-	"Greek Yogurt Parfait",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/greek-yogurt-parfait-2-127766.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	177709,
-	"Sweet ‘n’ Spicy Beer Nuts Chex Mix",
-	NULL,
-	"1                               In large microwavable bowl, mix cereals, pretzels and nuts.                                                          2                               In 4-cup microwavable measuring cup, place ale. Microwave uncovered on High 4 to 6 minutes, stirring every 2 minutes, until reduced to 1/4 cup. Stir in brown sugar, butter, chili powder, salt and red pepper. Microwave on High 1 to 2 minutes, stirring every 30 seconds, until butter is melted and sugar is dissolved. Pour over cereal mixture; stir until evenly coated.                                                          3                               Microwave uncovered on High 6 to 8 minutes, stirring every 2 minutes, until mixture just begins to brown. Spread on waxed paper or foil to cool. Store in airtight container.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Sweet-n-Spicy-Beer-Nuts-Chex-Mix-177709.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	82029,
-	"Sweet Pork Tenderloin With Lime and Chipotle",
-	NULL,
-	"Stir together first 8 ingredients; remove and reserve 1 cup honey-Dijon mustard mixture.Place pork in a large shallow dish or zip-top plastic freezer bag; pour remaining honey-Dijon mustard mixture over pork. Cover or seal, and chill, turning occasionally, 2 hours.Remove pork from marinade, discarding marinade.Grill pork, covered with grill lid, over medium-high heat (350 to 400) 8 to 9 minutes on each side or until a meat thermometer inserted into thickest portion registers 150. Remove from grill, and let stand 10 minutes. Cut pork into slices.Bring reserved mustard mixture and 1/4 cup water to a boil in a saucepan; reduce heat, and simmer 2 minutes. Sprinkle peanuts over pork, and serve with sauce. Garnish, if desired.",
-	NULL,
-	"https://spoonacular.com/recipeImages/sweet-pork-tenderloin-with-lime-and-chipotle-82029.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	358678,
-	"Green Goddess Dressing",
-	NULL,
-	"Directions                                                        Combine the anchovies, mayonnaise, sour cream, chives, parsley, tarragon, basil, shallots, lemon juice, and the 1/4-teaspoon of salt in a blender. Puree to make a smooth dressing. Season to taste with salt and pepper. Use immediately or store, covered, in the refrigerator, for up to 2 days.                                                            Copyright 2001 Television Food Network, G.P. All rights reserved.                                                    From Food Networks Kitchens                         CATEGORIES:                                                                                                                                                                                                                                     Anchovy                                                                                                                                                                                                                                                                                                                                                Salad Dressing                                                                                                                                                                                                                                                                                                                                                                                    Puree                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/a/anchovy.html">Anchovy</a></li>                                                                                                                                                                                                                                                                                 <li ><a href="/content/food/topics/s/shallot.html">Shallot</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/g/grilled-vegetable-recipes.html">Vegetables</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/salad-dressing.html">Salad Dressing</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/p/puree.html">Puree</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/a/american.html">American</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/s/summer.html">Summer</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/green-goddess-dressing-358678.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	361305,
-	"Hoppin' John",
-	NULL,
-	"1. In a large saucepan or Dutch oven, heat the oil over moderately low heat. Add the onion and the scallion bulbs and cook, stirring occasionally, until the onion is translucent, about 5 minutes. Add the collard greens, salt, black pepper, and cayenne and cook, stirring, until the greens wilt, about 1 minute. 2. Increase the heat to moderately high. Add the sausage, black-eyed peas, and rice and cook, stirring, for 30 seconds. Stir in the broth and bring to a simmer. Reduce the heat to low and cook, covered, until the rice is tender and all the liquid is absorbed, about 20 minutes. Remove from the heat and stir in the scallion tops. Wine Recommendation: The robust flavors of Hoppin' John call for an equally assertive wine. Go for a brash, full-bodied red zinfandel from California. Its spicy blackberry richness is easily up to the task.Notes: Collard greens braised to melting softness in the Southern style (slow-simmered with plenty of pork) are truly delicious, but the greens don't actually have to cook for hours. In twenty minutes they'll be just tender.",
-	NULL,
-	"https://spoonacular.com/recipeImages/361305-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	342788,
-	"Egg Creams",
-	NULL,
-	"Directions                                                        The milk needs to be very cold so place it in the freezer to chill about 15 minutes before using. Drizzle the chocolate syrup into a glass. Pour the milk into the glass and fill with seltzer. A siphon bottle for dispensing seltzer works best. If a siphon bottle is not available, add seltzer to milk while stirring with a long narrow spoon rapidly, slowing as the glass fills. This action to the seltzer will create the foam "head" you need for a great egg cream.Chefs Note: The glass is a KEY part to the "ideal" Egg Cream. Utilize a SODA glass (like a Coca-Cola glass) that is narrow on the bottom and flares out on the top.                                                    Recipe courtesy of Michael Chiarello                         CATEGORIES:                                                                                                                                                                                                                                     Chocolate                                                                                                                                                                                                                                                                                                                                                Beverage                                                                                                                                                                                                                                                                                                                                                                                    American                                                                                                                                                                                                                                                                    View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/c/chocolate.html">Chocolate</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/d/dairy.html">Dairy</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/d/drinks.html">Beverage</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/a/american.html">American</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/for-one.html">For One</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/f/fall.html">Fall</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/egg-creams-342788.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	1928,
-	"Seared Salmon with Indian-Inspired Cream Sauce",
-	NULL,
-	"Season each fillet with salt and pepper; set aside.                            Melt 1 tablespoon butter in a large skillet over medium heat. Stir in onions and cook until they soften and turn translucent, 5 to 7 minutes. Add garlic and cook 1 minute more. Combine mushrooms, fennel, and celery with onions and cook until vegetables have softened, about 5 to 7 minutes. Season with curry powder, saffron, salt and pepper to taste; cook 2 more minutes. Pour in chicken broth and cook 5 minutes longer, stirring occasionally. Stir in heavy cream and simmer 5 minutes.                            Meanwhile, melt 1 tablespoon butter in a large skillet over medium heat and place salmon fillets in pan, skin side down. Turn up heat to high to sear fillets; cooking two minutes on each side.                            Prepare serving platter by spooning mushroom sauce over the bottom. Place salmon fillets on top, drizzling additional sauce over fish. Garnish with parsley, lemon slices, and green onions.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/seared-salmon-with-indian-inspired-cream-sauce-2-1928.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	426313,
-	"Toasted Ravioli",
-	NULL,
-	"Directions                                                                                Cook ravioli according to package directions; drain. Place on a baking sheet coated with cooking spray. Brush tops with salad dressing; sprinkle with bread crumbs.                                                                                            Bake at 350° for 12-15 minutes or until golden brown. Serve with marinara sauce.                                        Yield: 2 servings.                                                                                                                         Originally published as Toasted Ravioli in  Cooking for 2Winter 2008, p9                                                                                                                                                                                                         Nutritional Facts                                                                             4 ravioli with 1/4 cup sauce (calculated with reduced-fat salad dressing) equals 181 calories, 6 g fat (2 g saturated fat), 23 mg cholesterol, 382 mg sodium, 25 g carbohydrate, 2 g fiber, 7 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Toasted-Ravioli-426313.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	18044,
-	"Peas & Pods With Onion",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/peas_pods_with_onion-18044.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	124092,
-	"South African Pudding",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/south-african-pudding-2-124092.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	15002,
-	"Sauteed Kale with Smoked Paprika",
-	NULL,
-	"Preparation                                                        Cook kale in large pot of boiling salted water until wilted, about 5 minutes. Transfer to colander; drain.                                                                Heat 1 tablespoon oil in heavy large skillet over medium heat. Add onion and sauté until soft, about 5 minutes. Stir in 1/4 teaspoon smoked paprika and crushed red pepper; sprinkle with salt. Add kale and sauté until heated through, about 4 minutes. Season to taste with salt and pepper and more smoked paprika, if desired. Transfer to serving bowl; drizzle with remaining 1 tablespoon oil and serve.                                                                            *Sweet smoked paprika is sometimes labeled Pimentón Dulce or Pimentón de La Vera Dulce, and hot smoked paprika is sometimes labeled Pimentón Picante or Pimentón de La Vera Picante; available at some supermarkets, at specialty foods stores, an from tienda.com.",
-	NULL,
-	"https://spoonacular.com/recipeImages/sauteed-kale-with-smoked-paprika-2-15002.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	286332,
-	"Pasta With Tuna Sauce",
-	NULL,
-	"In a large saute pan, heat oil over low heat.  Add onion and garlic; cook and stir until onion is tender.  Stir in capers, tomatoes, lemon juice, and parsley.  Season with red pepper flakes to taste.  Simmer gently for 3 minutes to thicken sauce.  Fold in tuna, and heat through.                            While sauce is cooking, add pasta to a large pot of rapidly boiling water; cook till just tender.  Drain well.                            Toss pasta with sauce, and serve.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Pasta-With-Tuna-Sauce-286332.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	472592,
-	"Skinny Chef",
-	NULL,
-	"Peel half the carrots and chop them, transfer to a bowl. Chop half the celery and both onions, add to the bowl along with the carrots. Sprinkle the chicken thighs with 1 teaspoon salt. Heat a large stockpot over medium heat and add 1 tablespoon of olive oil. Add half the chicken, skin side down and cook 3 to 4 minutes, turning once or twice until the chicken is well browned. Transfer to a plate. Add another tablespoon of olive oil and the remaining chicken thighs. Cook 3 to 4 minutes, until the chicken skin browns. Transfer to the plate with the other chicken thighs. Add the vegetables and brown, cooking 3 to 4 minutes more. Return the chicken thighs to the stockpot along with their juices.Cover with the chicken broth and bring to a boil over high heat. When the broth comes to a boil, cover and reduce to a simmer. Cook 20 minutes until the chicken is cooked through to the bone. Transfer the chicken to a plate to cool 10 to 15 minutes. Remove the skin and discard. Shred the chicken and return one cup of it to the broth with the veggies. Reserve the remaining chicken for the other three recipes. Discard the bones. Serve the soup immediately. Allow the reserved chicken to cool completely before storing it in an air-tight container for the remaining recipes. Cool leftover soup completely before storing refrigerated, in an air-tight container for another meal.Chicken SaladChop one cup of the reserved chicken meat and add to a large bowl. Chop the remaining celery and add it to the bowl along with 1/2 cup mayonnaise, 1 teaspoon Dijon mustard, 1/2 teaspoon garlic or onion powder. Mix well and serve or refrigerate, in an air-tight container, until ready to use. Use this tasty chicken salad with any leftovers you might have in your fridge like cucumber wedges, whole grain bread, or serve over whatever salad greens you have on hand. If you happen to have plain yogurt on hand you can switch up the recipe to 1/4 cup plain yogurt mixed with 1/4 cup mayonnaise.Chicken thigh meat (minus the skin), makes the richest, moistest chicken salad and its far more economical compared to drier chicken breast especially if you go for organic chicken. If you cant or dont want to do mayo, drizzle with a tablespoon of olive oil and add a teaspoon of mustard. Add a handful of fresh herbs if you have them or a tablespoon of the jarred salsa for extra flavor.Chicken TacosCoat a baking tray or toaster oven tray with cooking spray. Chop one cup of the reserved chicken meat and divide it between 6 taco shells. Sprinkle a tablespoon of the grated cheese inside each shell and transfer to the prepare baking sheet. Bake 8 to 10 minutes until the cheese is melted and the shells are crisp. Add 1 cup of thinly sliced kale or other salad greens that you have on hand. Top each with 1 tablespoon of the salsa and serve immediately. To pack these tacos to go, pack the salsa separately and allow them to cool before storing in an air-tight container.Massaged Kale Salad with Shredded ChickenI get a lot of complaints that kale is tough, but in this recipe I share the secret to making kale tender and delicious. Tenderizing kale is two-fold process, massaging it first with the oil of your choice and letting it rest in the fridge over night. So prep ahead and make this recipe the night before you plan to eat it. I recommend curly kale for kale beginners since it has a mild taste and is easy to find in any grocery store. Kale is not only super inexpensive and filling but its the most nutritious plant around  making it a top superfood any way you slice it. To make it into a tasty salad follow the instructions below.Rough chop the kale and place it in a large bowl along with 1 tablespoon of olive oil, 1 tablespoon vinegar, 1/4 teaspoon salt, 1/8 teaspoon freshly ground black pepper. Squeeze the kale with your hand, while rubbing the olive oil into the leaves. If you have dried fruit on hand, add 2 tablespoons (such as raisins, dried cherries, or apricots). Add chopped veggies lingering in your crisper. Cover and refrigerate over night. Top with the remaining chicken and any other add-ins you have from your pantry like nuts, crumbled cheese, thinly sliced fresh fruit like apples or pears, or skip the fruit completely and use up the leftover salsa and toss in some leftover cheddar cheese from your grocery list.Looking for more ways to get healthy meals, fast? Check out my 200 Calorie Fix and ditch those crazy diets forever.The post Five Meals, 9 Grocery Items appeared first on Skinny Chef.]]>",
-	NULL,
-	"https://spoonacular.com/recipeImages/skinny-chef-472592.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	334471,
-	"Island Punch",
-	NULL,
-	"Bring water to a boil. Add the SPLENDA® Granulated Sweetener and boil until it becomes a syrup. Let cool.                            In a punch bowl combine lemonade, orange juice, ginger ale, and carbonated water. Mix in the syrup. Add ice and sherbet. Just before serving add cherries and cherry juice and float orange slices on top.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Island-Punch-334471.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	467716,
-	"Honey Pumpkin Pie",
-	NULL,
-	"Directions                                                                                Line a 9-in. pie plate with bottom pastry. Trim and flute edges; set aside. In a bowl, combine the pumpkin, honey, cinnamon, salt, ginger, nutmeg and cloves. Add the eggs, evaporated milk and milk. Pour into crust. Cover edges loosely with foil. Bake at 375° for 50 minutes or until a knife inserted near the center comes out clean.                                                                                            From the remaining pastry, cut out three 3-in. leaves and three 5-in. x 1/2-in. strips. Using a sharp knife, cut veins in leaves. Wrap each strip of dough around the handle of a wooden spoon; place spoons upside down on a baking sheet. Place leaves, vein side up, on the rounded side of spoons. Bake at 375° for 8-10 minutes or until golden brown. Arrange decorations on cooled pie.                                        Yield: 6-8 servings.                                                                                                                         Originally published as Honey Pumpkin Pie in  Country WomanNovember/December 2000, p9                                                                                                                                                                                                         Nutritional Facts                                                                             1 serving (1 slice) equals 384 calories, 18 g fat (8 g saturated fat), 97 mg cholesterol, 399 mg sodium, 51 g carbohydrate, 3 g fiber, 7 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Honey-Pumpkin-Pie-467716.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	431704,
-	"Ultimate Turtle Cheesecake",
-	NULL,
-	"Directions                                                                                HEAT oven to 325°F.                                                                                           MIX crumbs and butter; press onto bottom and 2 inches up side of 9-inch springform pan.                                                                                           MICROWAVE caramels and milk in small microwaveable bowl on HIGH 3 min. or until caramels are completely melted, stirring after each minute. Stir in nuts; pour half into crust. Refrigerate 10 min. Refrigerate remaining caramel mixture for later use.                                                                                           BEAT cream cheese, sugar and vanilla in large bowl with mixer until blended. Add eggs, 1 at a time, mixing on low speed after each just until blended. Pour over caramel layer in crust.                                                                                           BAKE 1 hour 5 min. to 1 hour 10 min. or until center is almost set. Run knife around rim of pan to loosen cake; cool before removing rim. Refrigerate 4 hours.                                                                                           MICROWAVE reserved caramel mixture 1 min.; stir. Pour over cheesecake. Melt chocolate as directed on package; drizzle over cheesecake.                                        Yield: 16 servings.                                                                                                     HOW TO PIPE CHOCOLATE: Place a square of BAKER's Semi-Sweet Chocolate in freezer-weight resealable plastic bag; seal bag. Microwave on HIGH 30 sec. Squeeze bag to melt chocolate. Fold down top tightly and cut small piece (about 1/8 piece) off one of the bottom corners of the bag. Holding top of bag firmly, drizzle chocolate through opening in desired patterns on cheesecake.                                                                                                Originally published as Ultimate Turtle Cheesecake Provided by Philadelphia® Cream Cheese                                                                                                                                                                                                Nutritional Facts                                                                             1  serving equals 480 calories, 31 g fat (15 g saturated fat), 105 mg cholesterol, 370 mg sodium, 45 g carbohydrate, 1 g fiber, 7 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Ultimate-Turtle-Cheesecake-431704.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	436253,
-	"Broccoli and Tortellini Salad",
-	NULL,
-	"Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.                            Bring a large pot of lightly salted water to a boil. Cook tortellini in boiling water  for 8 to 10 minutes or until al dente. Drain, and rinse under cold water.                            In a small bowl, mix together mayonnaise, sugar and vinegar to make the dressing.                            In a large bowl, combine broccoli, tortellini, bacon, raisins, sunflower seeds and red onion. Pour dressing over salad, and toss.                                                Kitchen-Friendly View",
-	NULL,
-	"https://spoonacular.com/recipeImages/Broccoli-and-Tortellini-Salad-436253.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	276005,
-	"Caramel-Apple Shortcakes",
-	NULL,
-	"Melt butter in a large skillet over medium-high heat; add apples, tossing to coat. Stir in apple juice, brown sugar, and cinnamon. Bring to a boil; reduce heat to low, and simmer 10 to 15 minutes or until apples are tender.Pour 1/2 cup Caramel Sauce over apples, tossing to coat. Split Cinnamon-Crunch Shortcakes in half. Layer half of biscuit halves with apple mixture and whipped cream. Top with remaining biscuit halves. Drizzle with remaining Caramel Sauce.",
-	NULL,
-	"https://spoonacular.com/recipeImages/276005-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	374527,
-	"Strawberry Tartlets",
-	NULL,
-	"Directions                                                                                Brush one side of each wonton wrapper with butter. Place brown sugar in a shallow bowl; press buttered side of wontons into sugar to coat. Press wontons sugared side up into greased muffin cups.                                                                                            Bake at 325° for 7-9 minutes or until edges are lightly browned. Remove to a wire rack to cool.                                                                                            In a small bowl, combine the cheese, honey and orange juice until smooth. Spoon about 1 tablespoon into each wonton cup. Top with strawberries. Garnish with whipped cream and mint if desired.                                        Yield: 1 dozen.                                                                                                                         Originally published as Strawberry Tartlets in  Taste of HomeJune/July 2005, p27                                                                                                                            Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Strawberry-Tartlets-374527.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	190236,
-	"Old-fashioned Meat Loaf",
-	NULL,
-	"Preparation                                                        1. Preheat the oven to 375°F. Line a rimmed baking sheet with foil.                                                                2. To make the meat loaf: In a large bowl, combine the turkey, bread crumbs, onions, carrot, milk, tomato sauce, egg, garlic, Worcestershire sauce, salt, and pepper. Mix gently but thoroughly. Mound the meat loaf mixture onto the prepared baking sheet, patting it into a loaf shape with your hands.                                                                3. To make the topping: In a small bowl, combine the ketchup, brown sugar, and mustard. Spoon the topping over the meat loaf, using the back of the spoon to spread it evenly.                                                                4. Bake the meat loaf for about 45 minutes, or until the meat is no longer pink on the inside and is cooked through (165°F on an instant-read thermometer). Let it sit for 5 minutes, then slice and serve.                                                Hands On            My Mama always says that the best kitchen tools you have are the ones God gave you, and they're right on the ends of your arms! When you really need to get in there and get a good vigorous mix going, use a nice clean pair of hands. That's my advice for mixing up this meat loaf. It's faster and more efficient, not to mention kind of fun.                                                         2 g fat, 216 calories, 32 g protein, 15 g carbohydrate, 2 g fiber, 775 mg sodium                            Nutritional analysis provided by                                        Other                                                                                                Reprinted with permission from From Mama's Table to Mine by Bobby Deen, © 2013 by Bobby Deen Enterprises, LLCBorn in Georgia BOBBY DEEN is the son of famous Food Network host and bestselling cookbook author Paula Deen, as well as the host of his own show, the Cooking Channel's Not My Mama's Meals. Bobby, along with his brother, Jamie, got his start in the food business in 1989 delivering sandwiches as part of his mother's business, The Bag Lady. The three Deens then joined forces to open a restaurant, The lady & Sons, in Savannah. Bobby is a regular guest on Today, Good Morning America, Rachel Ray, and The Dr. Oz Show. He is a frequent guest on many Food Network Shows, including Paula's Home Cooking.Writer MELISSA CLARK's work appears in The New York Times, Food & Wine, Martha Stewart, and Real Simple. She has also collaborated on more than twenty cookbooks, one of which received both a James Beard Award and the Julia Child Cookbook Award in 2000.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Old-fashioned-Meat-Loaf-190236.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	464666,
-	"Strawberry Pavlova",
-	NULL,
-	"Directions                                                                                Place egg whites in a large bowl; let stand at room temperature for 30 minutes. Beat egg whites on medium speed until foamy. Add cream of tartar; beat until soft peaks form. Gradually add 1-1/4 cups sugar, 1 tablespoon at a time, beating on high until stiff peaks form. Sprinkle cornstarch over egg white mixture; fold in. Fold in lemon juice and extract.                                                                                           Coat a 14-in. pizza pan with cooking spray. Spoon meringue onto pan, forming a 12-in. heart; build up edges slightly. Bake at 250° for 45-55 minutes or until crisp. Cool on pan on a wire rack.                                                                                           In a bowl, beat cream until soft peaks form. Gradually add the remaining sugar, beating until stiff peaks form. Spoon over meringue; arrange strawberries over top. Serve immediately.                                        Yield: 12 servings.                                                                                                                         Originally published as Strawberry Pavlova in  Taste of Home's Holiday & Celebrations CookbookAnnual 2002, p191                                                                                                                                                                                                       Nutritional Facts                                                                             1 serving (1 piece) equals 248 calories, 15 g fat (9 g saturated fat), 54 mg cholesterol, 34 mg sodium, 28 g carbohydrate, 1 g fiber, 2 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
-	NULL,
-	"https://spoonacular.com/recipeImages/Strawberry-Pavlova-464666.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	251544,
-	"Balsamic Carrots",
-	NULL,
-	"1. Place carrot in a large saucepan; add water, and bring to a boil. Cover, reduce heat, and simmer 10 minutes or until tender. Drain; return carrot to saucepan.2. Combine vinegar and remaining 5 ingredients in a small bowl, stirring well with a wire whisk; add to carrot. Cook over medium heat 2 minutes, stirring often. Serve warm.",
-	NULL,
-	"https://spoonacular.com/recipeImages/251544-556x370.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	247507,
-	"Korean BBQ Pulled Pork Sandwich",
-	NULL,
-	"Directions:1. Put the pork in the slow cooker, pour 1/2 cup of the gochujang bbq sauce over it and cook on low heat for 8 hours.2. Remove the pork from the slow cooker and let it cool.3. Meanwhile, skim the fat from the juices and mix as much of the juices as you want into the remaining gochujang bbq sauce.  Simmer in a sauce pan to reduce if necessary.4. Shred the pork with a pair of forks and mix in gochujang bbq sauce and juice mixture.5. Assemble sandwiches and enjoy.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Korean-BBQ-Pulled-Pork-Sandwich-247507.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	323525,
-	"Bentley Barbeque Chicken Marinade",
-	NULL,
-	"Combine oil and vinegar with spices in a large Ziploc bag.  Add chicken breasts and shake well to coat.  Refrigerate bag of chicken and spices 30 minutes or longer, flipping bag occasionally.  Grill over medium heat until thoroughly cooked.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Bentley-Barbeque-Chicken-Marinade-323525.png",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	193533,
-	"Yukon Gold and Fennel Puree with Rosemary Butter",
-	NULL,
-	"Preparation                                                        Preheat oven to 375°F. Line large rimmedbaking sheet with parchment paper.Combine fennel, onion, oil, and 1 teaspoonsea salt in large bowl; toss. Spread in singlelayer on prepared baking sheet; sprinklewith pepper. Roast until fennel and onion arevery tender, about 1 hour 15 minutes. Coolslightly. Transfer fennel mixture to processorand puree until almost smooth.                                                                Cook potatoes in large pot of boilingsalted water until very tender, about 25minutes. Drain well. Cool slightly. Place inlarge bowl and mash with potato masheruntil smooth. Mix in fennel puree.                                                                Melt butter with rosemary and 1teaspoon sea salt in small saucepan overmedium heat. Stir butter mixture into fennel-potatopuree. Mix in crème fraîche. Season totaste with more pepper and salt, if desired.DO AHEAD:  Can be made 6 hours ahead.Transfer puree to large microwave-safebowl. Cover with plastic wrap. Chill. Beforeserving, microwave on high until heated through, about 4 minutes.                                                                * Sold at some supermarkets and atspecialty foods stores.",
-	NULL,
-	"https://spoonacular.com/recipeImages/Yukon-Gold-and-Fennel-Puree-with-Rosemary-Butter-193533.jpg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	393197,
-	"Rice Cooker Mac and Cheese",
-	NULL,
-	"Directions                    Watch how to make this recipe.                                                        Combine the macaroni, salt and 2 cups water in a rice cooker. Set the rice cooker on the standard white rice cycle and cook for 30 minutes, or until the cooking cycle is almost complete and most of the water is absorbed.Stir in the milk, Cheddar, processed cheese product, mustard and black pepper. Close the lid, turn the cooker to the warm setting, and let cook, stirring occasionally so the bottom doesn't burn, until the cheese is melted and the milk is well incorporated, about 10 minutes.Copyright 2012 Television, G.P. All rights reserved                                                    Recipe courtesy of Food Network Kitchens                         CATEGORIES:                                                                                                                                                                                                                                     Cheddar                                                                                                                                                                                                                                                                                                                                                Dinner                                                                                                                                                                                                                                                                                                                                                                                    Macaroni And Cheese                                                                                                                                        View All         <div class="popover-content categories">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/c/cheddar.html">Cheddar</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href="/content/food/topics/d/dinner.html">Dinner</a></li>                                                                                                                                                                                                                                                                                 <li class="last"><a href="/content/food/topics/m/main-dish.html">Main Dish</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class="last"><a href="/content/food/topics/m/macaroni-and-cheese.html">Macaroni And Cheese</a></li>                                 </ul></div>",
-	NULL,
-	"https://spoonacular.com/recipeImages/rice-cooker-mac-and-cheese-393197.jpeg",
-	NULL,
-	NULL);
-INSERT INTO Recipes VALUES (
-	36633,
-	"Spiced Chicken With Couscous Salad",
-	NULL,
-	NULL,
-	NULL,
-	"https://spoonacular.com/recipeImages/spiced_chicken_with_couscous_salad-36633.jpg",
-	NULL,
-	NULL);
+	129777,
+	"Date Pineapple Breakfast Muffins",
+	NULL,
+	"https://spoonacular.com/recipeImages/date-pineapple-breakfast-muffins-2-129777.jpg",
+	24,
+	"Food.com",
+	30);
+INSERT INTO Recipes VALUES (
+	436309,
+	"Grandma Brubaker's Orange Cookies",
+	"Directions                                                                                In a bowl, cream shortening and sugar. Beat in egg yolks and buttermilk. Sift together flour, baking powder, soda and salt; add alternately with orange juice and peel to creamed mixture. Add egg whites and beat until smooth.                                                                                            Drop by rounded teaspoonfuls onto greased cookie sheets. Bake at 325° for 10 minutes.                                                                                            For icing, combine all ingredients and beat until smooth. Frost cookies when cool.                                        Yield: about 6 dozen.                                                                                                                         Originally published as Grandma Brubaker's Orange Cookies in  Grandma's Great Desserts Cookbook1992, p48                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (2 each) equals 195 calories, 6 g fat (2 g saturated fat), 14 mg cholesterol, 107 mg sodium, 32 g carbohydrate, trace fiber, 2 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Grandma-Brubakers-Orange-Cookies-436309.jpg",
+	36,
+	"Taste of Home",
+	30);
+INSERT INTO Recipes VALUES (
+	49569,
+	"Baked Banana Boats",
+	NULL,
+	"https://spoonacular.com/recipeImages/baked_banana_boats-49569.jpg",
+	2,
+	"Sweet Potato Chronicles",
+	10);
+INSERT INTO Recipes VALUES (
+	228228,
+	"Orange-Honey Buns",
+	"1. Pour 1 cup boiling water over cranberries; let stand 10 minutes. Drain and pat dry.2. Lightly grease 2 (8-inch) round cake pans. Spoon Honey Syrup into each pan.3. Prepare hot roll dough as directed on back of package; let dough stand 5 minutes.4. Roll dough into an 18- x 10-inch rectangle. Spread dough with orange marmalade; sprinkle with prepared cranberries.5. Roll dough up tightly, starting at 1 long end; cut into 16 slices using a serrated knife. Place 1 slice in center of each prepared pan. Place 7 slices around center roll in each pan.6. Cover pans loosely with plastic wrap; let rise in a warm place (85), free from drafts, 30 to 45 minutes or until doubled in bulk.7. Preheat oven to 350. Uncover rolls; bake 15 to 20 minutes or until golden brown and done. Cool rolls in pans on a wire rack 5 minutes. Brush rolls with Orange-Honey Glaze.",
+	"https://spoonacular.com/recipeImages/228228-556x370.jpg",
+	16,
+	"My Recipes",
+	20);
+INSERT INTO Recipes VALUES (
+	119761,
+	"Citrus-Ginger Mayo Dip for Veggies",
+	NULL,
+	"https://spoonacular.com/recipeImages/citrus-ginger-mayo-dip-for-veggies-2-119761.jpg",
+	8,
+	"Food.com",
+	75);
+INSERT INTO Recipes VALUES (
+	213687,
+	"Warm salad of chicken livers, smoked paprika & Sherry",
+	"Put all the ingredients for the sauceinto a food processor, then whizz to arough paste. Heat oven to 200C/180C fan/gas 6. Put the remaining hazelnuts onto abaking sheet, roast for 5 mins until lightlytoasted, roughly chop, then set aside.Now make the salad – add the olive oiland butter to a large frying pan over amedium-high heat. Quickly fry the liversin 2 batches until browned, about 2 minsper batch. Add the Sherry, then bubble fora few mins over a high heat. Stir in thesauce and allow it to thicken and heatthrough. Splash in the lemon juice, thenseason to taste. Dress the salad leaveswith a little Sherry vinegar. Spoon thelivers and sauce onto serving plates,sprinkle with the toasted choppedhazelnuts, then scatter over the dressedsalad leaves and serve straightaway.",
+	"https://spoonacular.com/recipeImages/Warm-salad-of-chicken-livers--smoked-paprika---Sherry-213687.jpg",
+	4,
+	"BBC Good Food",
+	15);
+INSERT INTO Recipes VALUES (
+	333760,
+	"4-Cheese Italiano Chicken Bake",
+	"Heat oven to 400 degrees F.                            Prepare stuffing mix as directed on package. Mix soup and wine.                            Place chicken in 13x9-inch baking dish; top with cheese, soup mixture and stuffing.                            Bake 30 min. or until chicken is done (170 degrees F).                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/4-Cheese-Italiano-Chicken-Bake-333760.jpg",
+	4,
+	"Allrecipes",
+	40);
+INSERT INTO Recipes VALUES (
+	21948,
+	"Vegetarian Stuffed Red Bell Peppers",
+	"Bring the quinoa and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the quinoa is tender, 20 to 25 minutes.                            Preheat oven to 350 degrees F (175 degrees C). Lightly grease a small baking dish. Halve the red peppers lengthwise. Remove the seeds and ribs, but leave the stem intact so the pepper bowls hold their shape; place cut-side-up into the prepared baking dish.                            Toss the chopped apple with the lime juice, olive oil, garlic, parsley, mint, tomatoes, and green onions. Fold in the quinoa, and season to taste with salt and pepper. Fill the cut peppers with this mixture, and fill the baking dish with about 1/4 inch of water.                            Bake in preheated oven until the peppers are tender, and the quinoa is hot, about 20 minutes.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/vegetarian-stuffed-red-bell-peppers-2-21948.jpg",
+	4,
+	"Allrecipes",
+	80);
+INSERT INTO Recipes VALUES (
+	468377,
+	"St. Patrick's Day Cupcakes",
+	"Directions                                                                                In a large bowl, combine the flour, sugar, pudding mix, baking powder and salt. In a small bowl, beat the eggs, milk, oil and vanilla; add to dry ingredients and mix until blended.                                                                                           Fill paper-lined muffin cups three-fourths full. Bake at 375° for 18-22 minutes or until a toothpick inserted near the center comes out clean. Cool for 10 minutes before removing from pan to a wire rack to cool completely. Add food coloring to frosting if desired; frost cupcakes.                                        Yield: 1 dozen.                                                                                                                         Originally published as St. Patrick's Day Cupcakes in  Quick CookingMarch/April 2000, p55                                                                                                                                                                                                        Nutritional Facts                                                                             1 cupcake equals 250 calories, 11 g fat (2 g saturated fat), 39 mg cholesterol, 301 mg sodium, 34 g carbohydrate, trace fiber, 4 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/St--Patricks-Day-Cupcakes-468377.jpg",
+	12,
+	"Taste of Home",
+	35);
+INSERT INTO Recipes VALUES (
+	57559,
+	"Sticky Figgy Chickie (Stuffed Chicken Breast)",
+	"Directions                                                        Special equipment: Kitchen twine or toothpicksPreheat the oven to 350 degrees F.Butterfly the chicken breast and pound it out until flat, then season both sides with salt and pepper, to taste.In a large saute pan over medium-high heat, add 1 tablespoon of the olive oil and the sausage. Break up the sausage and cook until browned. Remove the sausage from the pan to a bowl. Add the mushrooms to the hot pan, season with salt, to taste and saute until soft. When soft, add the figs and saute for 2 to 3 minutes. Season with salt and pepper to taste, then remove from heat and cool. Add the sausage back into the pan and stir the mixture until combined.Add the sausage filling to flattened chicken on the side closest to you. Roll chicken like a cigar tucking it tightly at each roll. Tie with kitchen string or secure with toothpicks.Heat the remaining oil in an oven-proof saute pan over medium-high heat. Add the chicken and sear it on all sides until golden brown. Transfer the pan to the oven and bake for 10 minutes. Remove the chicken from the oven and pour off the grease from the pan. Brush the chicken with honey or maple syrup and truffle oil and serve.                                                            Food Network Kitchens have not tested this recipe and therefore, we cannot make representation as to the results.                                                    Recipe courtesy of Brianna Jenkins                         CATEGORIES:                                                                                                                                                                                                                                     Chicken                                                                                                                                                                                                                                                                                                                                                Main Dish                                                                                                                                                                                                                                                                                                                                                                                    Easy                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/j/jerk-chicken-recipes.html\">Chicken</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/f/fig.html\">Fig</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/m/main-dish.html\">Main Dish</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/e/easy.html\">Easy</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/sticky-figgy-chickie-stuffed-chicken-breast-57559.jpeg",
+	1,
+	"Foodnetwork",
+	40);
+INSERT INTO Recipes VALUES (
+	494225,
+	"Beet, Blood Orange, Kumquat, and Quinoa Salad",
+	"To prepare dressing, combine first 10 ingredients in a medium bowl, stirring with a whisk. Gradually add oil, stirring constantly with a whisk. Set aside.To prepare salad, place quinoa in a fine sieve, and place sieve in a large bowl. Cover quinoa with water. Using your hands, rub grains together for 30 seconds; rinse and drain. Repeat procedure twice. Drain well.Combine 1 3/4 cups water, quinoa, and 1/4 teaspoon salt in a medium saucepan; bring to a boil. Cover, reduce heat, and simmer for 10 minutes or until liquid is absorbed. Remove from heat; fluff with a fork. Combine quinoa, remaining 1/4 teaspoon salt, blood orange sections, avocado, and kumquats in a large bowl, tossing gently to combine. Add dressing; toss gently to coat salad. Spoon 1 cup salad onto each of 4 plates; top each serving with about 1/2 cup beets.",
+	"https://spoonacular.com/recipeImages/Beet--Blood-Orange--Kumquat--and-Quinoa-Salad-494225.jpg",
+	4,
+	"Love and Olive Oil",
+	60);
+INSERT INTO Recipes VALUES (
+	406622,
+	"Crawfish Beignets with Cajun Dipping Sauce",
+	"Directions                                                                                In a large bowl, combine the egg, crawfish, onions, butter, salt and cayenne. Stir in flour until blended.                                                                                           In an electric skillet or deep fryer, heat oil to 375°. Drop tablespoonfuls of batter, a few at a time, into hot oil. Fry until golden brown on both sides. Drain on paper towels.                                                                                           In a small bowl, combine the mayonnaise, ketchup, horseradish if desired and pepper sauce. Serve with beignets.                                        Yield: about 2 dozen (3/4 cup sauce).                                                                                                                         Originally published as Crawfish Beignets with Cajun Dipping Sauce in  Taste of HomeFebruary/March 2010, p72                                                                                                                                                                                                        Nutritional Facts                                                                             1 beignet with 1-1/2 teaspoons sauce equals 97 calories, 8 g fat (1 g saturated fat), 35 mg cholesterol, 160 mg sodium, 3 g carbohydrate, trace fiber, 4 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Crawfish-Beignets-with-Cajun-Dipping-Sauce-406622.jpg",
+	24,
+	"Taste of Home",
+	25);
+INSERT INTO Recipes VALUES (
+	401649,
+	"Loosemeat Sandwiches II",
+	"In large skillet over medium heat, cook ground beef until brown, 5 to 10 minutes.  Drain.  Return meat to skillet, with soup.  Simmer until heated through, 5 minutes.  Serve hot.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Loosemeat-Sandwiches-II-401649.jpg",
+	6,
+	"Allrecipes",
+	15);
+INSERT INTO Recipes VALUES (
+	421840,
+	"Jerk Grilled Chicken Wings",
+	"Mix together the orange juice, lemon juice, lime juice, salt, black pepper, thyme, garlic, ginger, habanero pepper, curry powder, allspice, nutmeg, and cinnamon in a bowl. Whisk in the vegetable oil. Pour 3/4 of the marinade into a resealable plastic zipper bag, and place the chicken wing pieces into the bag. Squeeze out any air, and mix the wing pieces with the marinade, and refrigerate from 4 to 12 hours. Place the remaining 1/4 of the marinade in a small bowl, and refrigerate until grilling time.                            Preheat an outdoor grill for medium heat, and lightly oil the grate.                            Remove the wing pieces from the bag of marinade, and discard the used marinade. Sprinkle the wings with salt and pepper to taste, and sear on the hottest part of the grill until the wings begin to brown, about 4 minutes per side.                            Move the wings to a less-hot part of the grill, baste with the unused portion of the marinade, and close the grill. Grill until the wings are golden brown, show good grill marks, are no longer pink in the center, and the juices run clear, 10 to 15 more minutes. Baste again with marinade and turn after 5 to 8 minutes.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Jerk-Grilled-Chicken-Wings-421840.jpg",
+	12,
+	"Allrecipes",
+	290);
+INSERT INTO Recipes VALUES (
+	98954,
+	"Sloppy Joses",
+	NULL,
+	"https://spoonacular.com/recipeImages/sloppy-joses-2-98954.png",
+	10,
+	"Allrecipes",
+	10);
+INSERT INTO Recipes VALUES (
+	431285,
+	"Sherbet Cookie Delight",
+	"Directions                                                                                Place sherbet in a 13-in. x 9-in. dish. Freeze for 10 minutes. Meanwhile, in a large bowl, beat cream until it begins to thicken. Add sugar; beat until stiff peaks form.                                                                                            Break each cookie into six pieces; fold into cream mixture with almonds. Spoon over sherbet. Cover and freeze for up to 2 months.                                                                                           Remove from the freezer 15 minutes before serving. Cut into squares. Garnish with additional cookies if desired.                                        Yield: 16-20 servings.                                                                                                                         Originally published as Sherbet Cookie Delight in  Quick CookingNovember/December 2001, p46                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (1 each) equals 235 calories, 14 g fat (7 g saturated fat), 36 mg cholesterol, 91 mg sodium, 27 g carbohydrate, 1 g fiber, 3 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Sherbet-Cookie-Delight-431285.jpg",
+	20,
+	"Taste of Home",
+	20);
+INSERT INTO Recipes VALUES (
+	353593,
+	"Grilled Chicken with Whiskey-Ginger Marinade",
+	"Place each chicken breast half between 2 sheets of heavy-duty plastic wrap; pound to 1/2-inch thickness using a meat mallet or rolling pin.Combine bourbon and next 9 ingredients (bourbon through garlic). Reserve 1/3 cup marinade. Pour remaining marinade into a zip-top plastic bag; add chicken. Seal and marinate in refrigerator 1 hour, turning occasionally.Preheat grill to medium-hot using both burners.Turn left burner off (leave right burner on). Remove chicken from bag; discard marinade. Coat grill rack with cooking spray. Place chicken on grill rack over right burner; grill 2 minutes on each side or until browned. Move chicken to grill rack over left burner. Cover and cook 5 minutes or until done. Slice each breast diagonally into thin strips; place chicken on a platter. Cover loosely with foil.Combine water and cornstarch, stirring well with a whisk. Place reserved 1/3 cup marinade in a small saucepan; stir in cornstarch mixture. Bring to a boil; cook 15 seconds, stirring constantly. Drizzle sauce over chicken; sprinkle with sesame seeds.",
+	"https://spoonacular.com/recipeImages/grilled-chicken-with-whiskey-ginger-marinade-353593.jpg",
+	4,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	384066,
+	"Butterflied, Dry Brined Roasted Turkey with Roasted Root Vegetable Panzanella",
+	"Directions                    Watch how to make this recipe.                                                        For the turkey: Four days before service, place the salt, sage, thyme, black peppercorns, and allspice into a spice grinder and pulse until the peppercorns and allspice are coarsely ground, 5 to 6 pulses. Set aside.Set the turkey, breast-side down, on a large cutting board with the tail closest to you. Use an electric knife or heavy-duty kitchen shears to cut up one side of the backbone. Turn the bird around and cut back down the other side of the spine. Reserve the backbone for Giblet Stock. Discard any fat pockets or excess skin found inside the turkey. Turn the turkey breast-side up and use the heel of your hands to press down on both breasts, until you hear a cracking sound and the bird has flattened slightly.Rub the seasoned salt on both sides of the turkey. Place the turkey on a parchment paper lined half sheet pan, breast-side up with legs running with the long side of the pan. Store, uncovered, in the refrigerator for 4 days.Remove the turkey from the refrigerator and leave at room temperature for 1 hour.For the panzanella: Place the parsnips and rutabaga in a large nonstick roasting pan, toss with vegetable oil and set aside.Place one rack in the middle of the oven and a second one far enough below so the roasting pan will fit. Heat the oven to 425 degrees F.Place the turkey directly on the middle rack of the oven with the legs perpendicular to the metal bars of the rack. Place the roasting pan with the parsnips and rutabaga on the rack below the turkey and roast both for 30 minutes.Reduce the heat to 350 degrees F. Add the red onion to the roasting vegetables and stir to combine. Continue to roast both the vegetables and the turkey until a probe thermometer inserted into the thickest part of the breast registers 155 degrees F, an additional 40 to 50 minutes.Remove the turkey from the oven onto a cooling rack set inside a half sheet pan and rest for 30 minutes.Add the Brussels sprouts, bread cubes and garlic to the roasting vegetables, stir to combine and roast for an additional 15 minutes. Remove the vegetables from the oven and immediately transfer to a serving bowl. Pour the apple cider vinegar in the warm roasting pan, stir and scrape off any browned bits from the pan. Pour the vinegar mixture over the salad, add the thyme and toss to combine. Season with salt and pepper as desired. Serve warm or at room temperature.Carve the turkey with an electric knife and serve with the panzanella.                                                    Recipe courtesy of Alton Brown, 2011                         CATEGORIES:                                                                                                                                                                                                                                     Turkey                                                                                                                                                                                                                                                                                                                                                Main Dish                                                                                                                                                                                                                                                                                                                                                                                    Roasting                                                                                                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/s/smoked-turkey-recipes.html\">Turkey</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/g/garlic-bread-recipes.html\">Bread</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/m/main-dish.html\">Main Dish</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/r/roasting-recipes.html\">Roasting</a></li>                                 </ul>                <ul>                    <li>Occasion</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/t/thanksgiving-appetizers.html\">Thanksgiving</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/butterflied-dry-brined-roasted-turkey-with-roasted-root-vegetable-panzanella-384066.jpeg",
+	10,
+	"Foodnetwork",
+	5945);
+INSERT INTO Recipes VALUES (
+	363828,
+	"Black Bean Mole",
+	"Directions                                                        In a small skillet, toast the cumin seeds, oregano, sesame seeds, and chili powder, stirring constantly for 3 minutes, and then place in a blender. Then add the beans, tomatoes, Worcestershire sauce, chicken stock, honey, cilantro, lime, butter, and salt and pepper to taste. Puree until smooth.  Now transfer the mole to a medium saucepan and heat until it thickens, about 5 minutes. Serve over poultry or fish accompanied by some tortilla chips.                                                    Recipe courtesy of Emeril Lagasse                         CATEGORIES:                                                                                                                                                                                                                                     Beans And Legumes                                                                                                                                                                                                                                                                                                                                                Sauce                                                                                                                                                                                                                                                                                                                                                                                    Puree                                                                                                                                                                                                                                                                                                                View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/b/bean-salad-recipes.html\">Beans And Legumes</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/t/tomato.html\">Tomato</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/g/grilled-vegetable-recipes.html\">Vegetables</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/s/sauce.html\">Sauce</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/p/puree.html\">Puree</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/c/cinco-de-mayo.html\">Mexican</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/v/vegetarian-recipes.html\">Vegetarian</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/f/fall.html\">Fall</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/black-bean-mole-363828.jpg",
+	3,
+	"Foodnetwork",
+	25);
+INSERT INTO Recipes VALUES (
+	258286,
+	"Peach Preserves Pound Cake",
+	"Preheat oven to 350.Coat a 10-inch Bundt pan with cooking spray; dust with 2 tablespoons flour.Beat butter with a mixer at medium speed until fluffy. Gradually add brown sugar and granulated sugar, beating at medium speed until light and fluffy. Beat in peach spread and ginger. Add eggs and egg white, 1 at a time, beating after each addition.Lightly spoon 3 cups flour into dry measuring cups; level with a knife. Combine flour and salt. Combine buttermilk and baking soda. Add flour mixture and buttermilk mixture alternately to sugar mixture, beginning and ending with flour mixture. Stir in extracts.Spoon batter into prepared pan.Bake at 350 for 55 minutes or until a long wooden pick inserted in center of cake comes out clean. Cool in pan 10 minutes; remove from pan, and cool completely on a wire rack. Dust with powdered sugar.",
+	"https://spoonacular.com/recipeImages/258286-556x370.jpg",
+	16,
+	"My Recipes",
+	20);
+INSERT INTO Recipes VALUES (
+	351205,
+	"After-the-Dance Pralines",
+	"Preheat oven to 400.Stir together brown sugar and beaten egg white, and fold in chopped pecans.Drop by heaping tablespoonfuls onto a heavy-duty aluminum foil-lined baking sheet.Turn off oven; place baking sheet in oven, and let pralines stand 8 hours in oven.",
+	"https://spoonacular.com/recipeImages/after-the-dance-pralines-351205.jpg",
+	20,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	251921,
+	"Roast Beef and Yorkshire Pudding",
+	"Preheat oven to 375  degrees F (190 degrees C).                            Wash roast and sprinkle with garlic powder, salt and pepper. Insert a meat thermometer into the thickest part of the roast, making sure it doesn't touch any bone or fat.                            Bake on a wire rack inside of a large roasting pan in the preheated oven for 90 minutes, or to desired doneness. For medium-rare, the meat thermometer should read 135 degrees F (57 degrees C). Remove roast from pan, reserving drippings.                            In a small mixing bowl, beat the two eggs until frothy. In another small bowl, mix the salt and flour. Stir the beaten eggs into the flour. Stirring constantly, gradually pour in the milk.                            Preheat oven to 400 degrees F (200 degrees C).                            Pour the reserved pan drippings into a medium muffin tin. Place in the preheated oven for 3 minutes. Remove  from heat and pour the egg, flour and milk mixture into the hot drippings. Return muffin tin to the oven and bake for 20 minutes, or until fluffy and golden brown.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Roast-Beef-and-Yorkshire-Pudding-251921.jpg",
+	4,
+	"Allrecipes",
+	120);
+INSERT INTO Recipes VALUES (
+	299043,
+	"Tangy Carrot Salad",
+	"Combine sliced carrots and diced carrots in a large pot. Pour enough water into pot to just cover the carrots; bring to a boil and cook until tender, about 8 minutes. Drain water completely from carrots. Transfer drained carrots to a large bowl.                            Gently toss Spanish onion and green bell pepper together with carrots.                            Whisk tomato soup, white vinegar, vegetable oil, sugar, mustard, and salt together in a bowl until the oil is completely integrated.                            Drizzle tomato soup mixture over carrot mixture; gently toss to coat entirely.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Tangy-Carrot-Salad-299043.png",
+	8,
+	"Allrecipes",
+	30);
+INSERT INTO Recipes VALUES (
+	148013,
+	"Lemon Risotto With Bacon & Mushroom",
+	NULL,
+	"https://spoonacular.com/recipeImages/lemon-risotto-with-bacon-amp-mushroom-2-148013.jpg",
+	6,
+	"Food.com",
+	45);
+INSERT INTO Recipes VALUES (
+	397959,
+	"Charlotte's Tortellini Salad",
+	"Cook pasta in a large pot of boiling salted water until al dente. Drain and cool under cold water. Refrigerate until chilled.                            Prepare the dressing in a small bowl by whisking together the olive oil, lemon zest, lemon juice, walnuts, and honey. Refrigerate until chilled.                            In a salad bowl, combine pasta, peppers, red onion, olives, and chicken.  Add lemon dressing and feta cheese, toss and serve.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Charlottes-Tortellini-Salad-397959.jpg",
+	6,
+	"Allrecipes",
+	35);
+INSERT INTO Recipes VALUES (
+	417627,
+	"Mexican Hot Chocolate",
+	"Directions                                                                                Combine cocoa and sugar in small saucepan; stir in water. Bring to boil; reduce heat and cook 2 minutes, stirring constantly.                                                                                            Add the cloves, cinnamon and milk. Simmer 5 minutes (do not boil). Whisk in vanilla. Pour hot chocolate into mugs; top with whipped cream. Use cinnamon sticks for stirrers.                                        Yield: 4 servings.                                                                                                                         Originally published as Mexican Hot Chocolate in  CountryFebruary/March 1990, p51                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (1 cup) equals 156 calories, 7 g fat (4 g saturated fat), 25 mg cholesterol, 92 mg sodium, 18 g carbohydrate, 1 g fiber, 7 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Mexican-Hot-Chocolate-417627.jpg",
+	4,
+	"Taste of Home",
+	10);
+INSERT INTO Recipes VALUES (
+	456224,
+	"Kimbop (Korean Sushi)",
+	"Rinse the rice in a strainer or colander until the water runs clear. Combine the rice with water in a saucepan. Bring to a boil, then reduce the heat to low; cover and simmer until rice is tender, 12 to 14 minutes. Spread cooked rice onto a baking sheet to cool. Season with 1 tablespoon of sesame oil and salt.                            While the rice is simmering, pour the eggs into a skillet over medium-high heat and allow to cook without stirring or turning to get a flat layer of cooked egg. When egg is completely cooked, remove from skillet and set aside on a cutting board to cool.                            Separate the nori sheets onto a flat surface and divide the cooled rice between them, leaving only a half-inch strip of seaweed visible at the top of each sheet. Arrange strips of egg, cucumber, carrot, cheese, and ham in thin layers on top of the rice. Beginning with the bottom of each sheet of nori, use a bamboo sushi mat to firmly roll each piece into a cylindrical shape. Brush each roll with 1/2 teaspoon of sesame oil and cut into six even pieces.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Kimbop-(Korean-Sushi)-456224.jpg",
+	4,
+	"Allrecipes",
+	60);
+INSERT INTO Recipes VALUES (
+	412181,
+	"Fudge Sundae Sauce",
+	"Directions                                                                                In a heavy saucepan, melt the chocolate with the  cream, coffee and salt over low heat, stirring constantly. Remove from the heat; stir in vanilla. Cover and refrigerate. Reheat to serve over your favorite ice cream.                                        Yield: 2-1/2 cups.                                                                                                                         Originally published as Fudge Sundae Sauce in  Grandma's Great Desserts Cookbook1992, p62                                                                                                                                                                                                        Nutritional Facts                                                                             2 tablespoons equals 137 calories, 11 g fat (7 g saturated fat), 16 mg cholesterol, 14 mg sodium, 12 g carbohydrate, 1 g fiber, 1 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Fudge-Sundae-Sauce-412181.gif",
+	20,
+	"Taste of Home",
+	10);
+INSERT INTO Recipes VALUES (
+	358638,
+	"Cocktail Meatballs",
+	"Directions                                            Sauce:                                        Preheat the oven to 350 degrees F.In a large bowl, combine all the ingredients for the meatballs, except the oil and butter. Mix well with your hands. Form into individual meatballs, about 1-inch in diameter. In a large skillet, heat the oil and the butter over medium-high heat. Add the meatballs and cook, turning until brown on all sides. Transfer to a 2 1/2 quart baking dish.Make the sauce by combining all the ingredients in a medium bowl, whisking to dissolve the sugar and combine. Adjust the seasoning, to taste. Pour the sauce over the meatballs and bake until the meat is cooked through and the sauce is bubbly, 20 minutes. Remove from the oven and serve immediately.                                                Essence (Emeril's Creole Seasoning):                                        Combine all ingredients thoroughly and store in an airtight jar or container.Yield: about 2/3 cupRecipe from \"New New Orleans Cooking\", by Emeril Lagasse and Jessie Tirsch. Published by William and Morrow, 1993.                                                    Recipe courtesy of Emeril Lagasse, 2002                         CATEGORIES:                                                                                                                                                                                                                                     Cheese                                                                                                                                                                                                                                                                                                                                                Appetizer                                                                                                                                                                                                                                                                                                                                                                                    Meatballs                                                                                                                                                                                                                                                                                                                View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/c/cheese.html\">Cheese</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/m/meat.html\">Meat</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/g/grilled-vegetable-recipes.html\">Vegetables</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/a/appetizer.html\">Appetizer</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/m/meatballs.html\">Meatballs</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/f/for-a-crowd.html\">For A Crowd</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/e/easy.html\">Easy</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/f/fall.html\">Fall</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/cocktail-meatballs-358638.jpg",
+	36,
+	"Foodnetwork",
+	45);
+INSERT INTO Recipes VALUES (
+	392068,
+	"Eggplant Casserole Acadiana",
+	"Directions                                                        Preheat the oven to 375 degrees F.Fill a large Dutch oven half way full of water and add 1 tablespoon of the salt. Bring to a boil and add the eggplant. Cover and cook, stirring occasionally, until the eggplant is tender, 8 to 10 minutes. Drain the eggplant in a colander, reserving 1 to 2 cups of the cooking liquid separately. Allow eggplant to continue to drain while you proceed.Return the same Dutch oven to the heat and add the olive oil. When hot, add the onion, bell pepper and celery and cook, stirring, until very soft, 4 to 6 minutes. Add the garlic, ground beef and tasso and cook, stirring to break up the meat, until the meat is brown, about 4 minutes. Add the tomato paste, Essence, remaining 1/2 teaspoon of salt, and cayenne pepper and cook for 2 minutes, stirring. Add the reserved eggplant, ham, and 1 cup of the reserved eggplant cooking liquid and stir gently to combine. Cook for 5 minutes. The mixture should be moist but not soupy. If it seems too dry, add a bit more of the reserved cooking liquid. In a small bowl combine the heavy cream, eggs, and green onions and add to the eggplant, along with 3/4 cup of the bread crumbs. Stir gently to combine.Transfer to a 9-by-13-inch casserole and sprinkle with the remaining bread crumbs. Bake for 30 to 40 minutes, or until bubbly around the edges and lightly golden on top.Remove from the oven and allow to cool slightly before serving.Emeril's ESSENCE Creole Seasoning (also referred to as Bayou Blast):                                                            Combine all ingredients thoroughly.Yield: 2/3 cupRecipe from \"New New Orleans Cooking\", by Emeril Lagasse and Jessie TirschPublished by William Morrow, 1993.                                                    Recipe courtesy of Emeril Lagasse, 2006                         CATEGORIES:                                                                                                                                                                                                                                     Eggplant                                                                                                                                                                                                                                                                                                                                                Lunch                                                                                                                                                                                                                                                                                                                                                                                    Casserole                                                                                                                                                                                                                                                                                                                View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/e/eggplant-casserole-recipes.html\">Eggplant</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/d/dairy.html\">Dairy</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/h/ham.html\">Ham</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/e/easy-lunch.html\">Lunch</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/m/main-dish.html\">Main Dish</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/s/sausage-casserole-recipes.html\">Casserole</a></li>                                 </ul>                <ul>                    <li>Who's Dining</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/f/for-a-crowd.html\">For A Crowd</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/e/easy.html\">Easy</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/f/fall.html\">Fall</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/eggplant-casserole-acadiana-392068.jpeg",
+	8,
+	"Foodnetwork",
+	75);
+INSERT INTO Recipes VALUES (
+	213958,
+	"Lemon creams with blackberries",
+	"Put the gelatine leaves in a bowl of ice-cold water for 10 mins to soften. Put the milk, lemon zest, cream and sugar in a pan then heat until it starts to bubble gently. Simmer for 2-3 mins. Remove from the heat, take the gelatine out of the water, shaking off any excess and add to the pan, stirring until the gelatine has dissolved.Leave to cool, then stir again and pour into 6 ramekins, cups or individual pudding basins. Put on a tray in the fridge overnight to set.Mix the blackberries with 1 tbsp each of lemon juice and sugar, then stir in the crème de mûre, if using.Loosen the edges of the creams with the tip of a small knife, then turn them onto serving plates, and scatter around the blackberries and sauce.",
+	"https://spoonacular.com/recipeImages/Lemon-creams-with-blackberries-213958.jpg",
+	6,
+	"BBC Good Food",
+	25);
+INSERT INTO Recipes VALUES (
+	275412,
+	"Two-Seed Potato Bread",
+	"Lightly spoon flours into dry measuring cups; level with a knife. Combine water and potato in a saucepan; bring to a boil. Cook for 15 minutes or until tender. Place mixture in a blender; process until smooth. Reserve 1 1/2 cups potato liquid; discard the remaining potato liquid. Cool the potato liquid to warm (100 to 110). Combine 1 cup bread flour, potato liquid, and yeast in a large bowl. Cover and let stand at room temperature 1 hour.Add whole-wheat flour, honey, oil, and salt to yeast mixture. Turn dough out onto a floured surface. Knead until smooth and elastic (about 5 minutes); add enough of remaining bread flour, 1 tablespoon at a time, to prevent the dough from sticking to hands (the dough will feel tacky). Place dough into a 9 x 5-inch loaf pan coated with cooking spray. Cover and let rise 30 minutes or until doubled in size. (Press two fingers into dough. If indentation remains, the dough has risen enough.)Preheat oven to 375.Uncover dough; brush egg white over loaf. Sprinkle dough with pumpkin seed and sunflower-seed kernels. Bake at 375 for 30 minutes or until loaf sounds hollow when tapped. Remove from pan; cool on a wire rack.",
+	"https://spoonacular.com/recipeImages/two-seed-potato-bread-275412.jpg",
+	12,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	325224,
+	"Roasted Figs with Fresh Ricotta",
+	"Directions                    Watch how to make this recipe.                                                        Preheat the oven to 400 degrees F.Put the figs, cut side up, in a baking dish. Melt the butter in a small saucepan over low heat, and whisk in the honey, cinnamon and salt. Drizzle the hot honey butter over the figs and roast in oven until very soft, 10 to 15 minutes.Divide the fresh ricotta or fat free yogurt among 4 serving dishes and top with the warm figs and sauce. Enjoy!Cook's Note: These hot figs are really great over mixed greens or even on a toasted baguette as a crostini!                                                    Recipe courtesy of Claire Robinson, 2009                         CATEGORIES:                                                                                                                                                                                                                                     Fig                                                                                                                                                                                                                                                                                                                                                Brunch                                                                                                                                                                                                                                                                                                                                                                                    Roasting                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/f/fig.html\">Fig</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/r/ricotta.html\">Ricotta</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/b/brunch.html\">Brunch</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/a/apple-strudel-recipes.html\">Dessert</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/r/roasting-recipes.html\">Roasting</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/roasted-figs-with-fresh-ricotta-325224.jpg",
+	4,
+	"Foodnetwork",
+	20);
+INSERT INTO Recipes VALUES (
+	259438,
+	"Banana-Nut Bread",
+	"Beat sugar and shortening at medium speed with an electric mixer until creamy. Add eggs, banana, and vanilla, beating well.Combine flour and next 3 ingredients; add to banana mixture, beating until combined. Stir in chopped walnuts.Pour into a greased and floured 8-inch loaf pan.Bake at 350 for 1 hour or until a wooden pick inserted in center comes out clean. Cool on a wire rack 10 minutes; remove loaf from pan, and cool completely on wire rack.",
+	"https://spoonacular.com/recipeImages/259438-556x370.jpg",
+	8,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	229131,
+	"Raised Cappuccino Doughnuts with Espresso Cream Filling",
+	"Preparation                                        For topping:                Blend sugar,cocoa powder, and cinnamon in small bowl.                                                            For filling:                Whisk sugar, flour, and espresso powder in heavy medium saucepan to blend. Gradually add milk, whisking until smooth. Whisk in yolks and salt. Add butter. Cook over medium-high heat until pastry cream thickens and boils, whisking constantly, about 6 minutes. Whisk in vanilla. Transfer to small bowl. Press plastic wrap directly onto surface of filling. Chill until cold, at least 4 hours and up to 2 days.                                                            For doughnuts:                Combine yeast and 1/4 teaspoon sugar in large bowl of heavy-duty mixer. Pour warm milk over and stir to blend. Let stand until yeast dissolves and mixture bubbles, about 10 minutes.                                                                Meanwhile, whisk flour, cinnamon, salt, and 1/4 cup sugar in medium bowl to blend. Whisk butter and eggs in another medium bowl to blend.                                                                Butter large bowl. Using dough-hook attachment, beat butter-egg mixture into yeast mixture on medium-low speed until well blended, stopping occasionally to scrape down sides of bowl, about 4 minutes. Beat in flour mixture by 1/4 cupfuls, then beat dough until smooth and beginning to pull away from sides of bowl, about 5 minutes. Scrape dough from hook into bowl. Let dough rest 5 minutes. Scrape dough into buttered bowl (dough will be sticky). Turn dough to coat with butter. Cover bowl with plastic wrap and refrigerate dough overnight.Sprinkle 2 baking sheets lightly with flour. Gently press dough to deflate. Roll out chilled dough on lightly floured surface to 1/3-inch thickness. Using 2 3/4- to 3-inch-diameter round cutter, cut out dough rounds. Transfer rounds to floured sheets, spacing 2 inches apart. Gather dough scraps. Roll out to 1/3-inch thickness; cut out more rounds. Repeat until all dough is used. Cover dough rounds on sheets with towels. Let rise in draft-free area until doubled in volume, about 1 hour.                                                                Line 2 baking sheets with several layers of paper towels. Pour oil into large deep skillet to depth of 1 1/2 inches. Attach deep-fry thermometer and heat oil to 360°F to 370°F. Fry 3 dough rounds at a time until golden brown, adjusting heat to maintain temperature, about 1 1/2 minutes per side. Using slotted spoon, transfer doughnuts to paper towels to drain. Dip both sides of warm doughnuts into topping. Transfer to rack and cool completely.                                                                Spoon filling into pastry bag fitted with 1/4-inch plain round tip. Push blade of small sharp knife into side of 1 doughnut about 3/4 of the way to opposite side; remove knife. Insert tip of pastry bag into slit and press in filling until center of doughnut bulges. Return doughnut to rack. Repeat with remaining doughnuts. (Doughnuts can be filled up to 2 hours before serving.Let stand at room temperature.)",
+	"https://spoonacular.com/recipeImages/Raised-Cappuccino-Doughnuts-with-Espresso-Cream-Filling-229131.jpg",
+	24,
+	"Epicurious",
+	45);
+INSERT INTO Recipes VALUES (
+	403541,
+	"Quick and Creamy Fruit Salad",
+	"Directions                                                        Put the apples, melon, pineapple, dried cherries, yogurt, cream of coconut and salt in a large bowl and stir.Photograph by Kang Kim                                                    Recipe courtesy of Sunny Anderson for Food Network Magazine                         CATEGORIES:                                                                                                                                                                                                                                     Honeydew                                                                                                                                                                                                                                                                                                                                                Healthy                                                                                                                                                                                                                                                                                                                                                                                    Diabetic                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/h/honeydew.html\">Honeydew</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/c/cherry.html\">Cherry</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/p/pineapples.html\">Pineapples</a></li>                                 </ul>                <ul>                    <li>Cooking Style</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/h/healthy-breakfast-recipes.html\">Healthy</a></li>                                 </ul>                <ul>                    <li>Nutrition</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/d/diabetes-friendly.html\">Diabetic</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/g/gluten-free-recipes.html\">Gluten Free</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/l/low-calorie-recipes.html\">Low Calorie</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/l/low-cholesterol-recipes.html\">Low Cholesterol</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/l/low-fat-recipes.html\">Low Fat</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/l/low-sodium.html\">Low Sodium</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/quick-and-creamy-fruit-salad-403541.jpeg",
+	6,
+	"Foodnetwork",
+	10);
+INSERT INTO Recipes VALUES (
+	278250,
+	"Roasted Spiced Pecans",
+	"Preheat oven to 350F. Place pecans in a bowl. Melt butter over low heat and stir in spices, salt, pepper and sugar. Remove from heat; stir until sugar dissolves. Pour over pecans and mix well.Spread pecans evenly on a large rimmed cookie sheet and bake, stirring often, until dark brown and fragrant, 20 to 25 minutes. Season with additional salt and pepper while warm. Cool completely before serving. (Can be made up to a week ahead; keep covered and refrigerated.)",
+	"https://spoonacular.com/recipeImages/roasted-spiced-pecans-278250.jpg",
+	4,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	62248,
+	"Company Cheesecake",
+	"Heat oven to 325F.                                            Mix crumbs, 3 Tbsp. sugar and butter; press onto bottom of 9-inch springform pan.  Bake 10 min. Increase oven temperature to 450F.                                            Beat cream cheese and cottage cheese in large bowl with mixer until blended.  Add 1/2 cup sugar, flour and vanilla; mix well.  Add eggs, 1 at a time, mixing on low speed after each just until blended.  Pour over crust.                                            Bake 15 min.  Reduce oven temperature to 250F; continue baking 1 hour.  Run knife around rim of pan to loosen cake; cool before removing rim.  Cool completely.  Refrigerate 4 hours.",
+	"https://spoonacular.com/recipeImages/company-cheesecake-62248.jpg",
+	16,
+	"Kraft Recipes",
+	280);
+INSERT INTO Recipes VALUES (
+	100646,
+	"Grilled Sweet Potato, Orange, and Chickpea Salad",
+	"1. Microwave potatoes on high for 12 minutes. Transfer to a bowl of ice water to cool. Peel and slice potatoes 1/2-inch thick; reserve.2. With a sharp knife, remove peel and thick white pith from oranges; reserve juice in a bowl. Halve and slice crosswise into 1/2-inch-thick half moons, reserving juice. Transfer 3 tablespoons of collected juice into a bowl; whisk in vinegar, sesame oil, soy sauce, and salt; reserve.3. Spray grill pan with cooking spray; heat over medium-high until hot. Cook potatoes until grill marks appear, turning once (3-5 minutes per batch).4. In a large serving bowl, toss potatoes with chickpeas, oranges, scallions, and dressing.",
+	"https://spoonacular.com/recipeImages/grilled-sweet-potato-orange-and-chickpea-salad-100646.jpg",
+	6,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	181443,
+	"Summer Refrigerator Relish",
+	"1                               Mix all ingredients in large bowl. Spoon into 1-quart jar and 1-pint jar.                                                          2                               Cover and refrigerate at least 24 hours but no longer than 2 weeks.",
+	"https://spoonacular.com/recipeImages/Summer-Refrigerator-Relish-181443.jpg",
+	24,
+	"Betty Crocker",
+	20);
+INSERT INTO Recipes VALUES (
+	256122,
+	"Avocado-and-Grapefruit Salad With Pomegranate Seeds",
+	"Place 1/2 cup romaine and 1/2 cup radicchio on each of 4 salad plates. Divide grapefruit, onion, and avocado evenly among plates; top with pomegranate seeds. If desired, cover and chill salad mixture in an airtight container for up to 1 day ahead of serving.Combine honey and lime juice, stirring with a wire whisk; cover and chill. To serve, drizzle 1 tablespoon of the dressing over each salad; toss gently to coat.",
+	"https://spoonacular.com/recipeImages/256122-556x370.jpg",
+	4,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	226102,
+	"Hoisin Chicken Wraps",
+	"Warm oil in large skillet over medium heat. Add garlic, ginger and scallions and stir until fragrant, about 1 minute. Add chicken, hoisin sauce, vinegar and cashews and cook, stirring, until heated through, 2 to 3 minutes.Warm tortillas in microwave just to soften. Lay tortillas on a work surface. Divide lettuce among tortillas. Spoon chicken mixture into middle of each tortilla, sprinkle with carrots, wrap and serve.",
+	"https://spoonacular.com/recipeImages/hoisin-chicken-wraps-226102.jpg",
+	4,
+	"My Recipes",
+	10);
+INSERT INTO Recipes VALUES (
+	356113,
+	"Onion, Mushroom, and Goat Cheese Mini Frittatas CHOW",
+	"Heat the oven to 350°F and arrange a rack in the middle. Generously coat the wells of a 12-well muffin pan with butter; set aside.    Heat 1 tablespoon of the oil and the measured butter in a medium frying pan over medium heat until the oil is shimmering and the butter has melted.    Add the diced onion and cook, stirring rarely, until it is a deep golden brown, adjusting the heat as necessary if it starts to brown too much, about 30 minutes. Season well with salt and pepper, add the thyme, and stir to combine. Transfer the mixture to a medium bowl.    Meanwhile, clean, trim, and slice the mushrooms 1/2 inch thick; set aside. Crumble the goat cheese into pea-sized pieces and set aside.    Return the frying pan to medium heat, add the remaining tablespoon of oil, and heat until shimmering. Add the sliced mushrooms, season with salt and pepper, and cook, stirring rarely, until golden brown, about 10 minutes. Add to the bowl with the onion. Add the goat cheese to the bowl and stir to evenly combine; set aside.    Place the eggs and milk in a large bowl and whisk until the eggs are broken up and evenly combined with the milk, about 1 minute. Add the measured salt and whisk to combine.    Divide the onion-mushroom-cheese mixture evenly among the wells of the prepared muffin pan. Fill each well almost to the top with the egg mixture.    Bake until each frittata is puffed and the center is just set, about 12 to 15 minutes. Remove the pan to a wire rack until it’s cool enough to handle, about 5 minutes (the frittatas will deflate). Run a small knife around the perimeter of each well to loosen and remove the frittatas. Serve warm or at room temperature.",
+	"https://spoonacular.com/recipeImages/Onion--Mushroom--and-Goat-Cheese-Mini-Frittatas-CHOW-356113.png",
+	12,
+	"My Recipes",
+	35);
+INSERT INTO Recipes VALUES (
+	349702,
+	"Antipasto Salsa",
+	"Combine all ingredients in a medium bowl; cover and chill.",
+	"https://spoonacular.com/recipeImages/antipasto-salsa-349702.jpg",
+	6,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	285712,
+	"Smart Pizza Supper",
+	"Bake pizza as directed on package.                                             Meanwhile, mix all remaining ingredients except raspberries.                                             Serve pizza with the salad and raspberries.",
+	"https://spoonacular.com/recipeImages/smart-pizza-supper-285712.jpg",
+	5,
+	"Kraft Recipes",
+	25);
+INSERT INTO Recipes VALUES (
+	305082,
+	"Peach Cobbler",
+	"Directions                    Watch how to make this recipe.                                                        Vanilla ice cream or fresh whipped cream, for servingPreheat the oven to 400 degrees F. Butter a baking dish.For the fruit: In a bowl, combine the peaches, sugar, flour, lemon juice and salt. Stir and set aside.For the topping: In a separate bowl, combine the flour, sugar, baking powder and salt. Stir together. Add the butter and shortening, and then cut together with a pastry cutter. Beat the milk and eggs together. Pour into the flour mixture and stir with a fork until just combined.Pour the peaches into the prepared baking dish.Tear off pinches of the dough topping and drop it onto the surface of the fruit, creating a \"cobbled\" texture. Sprinkle additional sugar over the top.Bake until golden brown and bubbly, 30 to 35 minutes. Allow to sit for 10 to 15 minutes before serving. If the cobbler is too juicy, use a turkey baster to remove a little of the juice (or spoon the juice over ice cream). Serve warm with vanilla ice cream or fresh whipped cream.                                                    2012 Ree Drummond, All Rights Reserved                         CATEGORIES:                                                                                                                                                                                                                                     Peach                                                                                                                                                                                                                                                                                                                                                Dessert                                                                                                                                                                                                                                                                                                                                                                                    Cobbler                                                                                                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/p/peach-cobbler-recipes.html\">Peach</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/a/apple-strudel-recipes.html\">Dessert</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/c/cobbler.html\">Cobbler</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/b/baking.html\">Baking</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/peach-cobbler-305082.jpeg",
+	9,
+	"Foodnetwork",
+	65);
+INSERT INTO Recipes VALUES (
+	60958,
+	"Tres Leche Cake",
+	NULL,
+	"https://spoonacular.com/recipeImages/tres_leche_cake-60958.jpg",
+	6,
+	"Honey and Jam",
+	45);
+INSERT INTO Recipes VALUES (
+	364500,
+	"Japanese Salad Dressing",
+	"In a blender, combine all ingredients on high speed for about 30 seconds, or until desired consistancy. Refrigerate until ready to use.",
+	"https://spoonacular.com/recipeImages/Japanese-Salad-Dressing-364500.png",
+	14,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	339617,
+	"Lemon and Sage Roasted Chicken with Caramelized Endive",
+	"Directions                                                        Preheat oven to 400 degrees. Remove any excess fat off chicken. Slice lemons paper-thin. Under the skin of the chicken place 2 slices of lemon and 2 leaves of sage. Heat butter in large skillet over high flame. Season chicken with salt and pepper and place skin side down in skillet until golden brown. Turn over and sear other side. Place entire skillet on wire rack in oven and cook for 12 to 15 minutes or until done. Remove from oven and serve over caramelized endive.                                                Caramelized Endive:                                        In a large saucepan melt butter over low heat. Add your garlic and shallots and cook until translucent about 2 minutes. Place endive in the saucepan, and season with salt and pepper. Cook for 20 minutes over low heat, until endive is tender.                                                    Recipe courtesy of Michael Symon                         CATEGORIES:                                                                                                                                                                                                                                     Chicken                                                                                                                                                                                                                                                                                                                                                Dinner                                                                                                                                                                                                                                                                                                                                                                                    European                                                                                                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/j/jerk-chicken-recipes.html\">Chicken</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/l/lemon.html\">Lemon</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/s/shallot.html\">Shallot</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/d/dinner.html\">Dinner</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/m/main-dish.html\">Main Dish</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/e/european.html\">European</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/f/fall.html\">Fall</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/lemon-and-sage-roasted-chicken-with-caramelized-endive-339617.jpg",
+	6,
+	"Foodnetwork",
+	50);
+INSERT INTO Recipes VALUES (
+	462412,
+	"Makeover Pick-Me-Up Cream Cheese Brownies",
+	"Directions                                                                                In a large bowl, cream butter and sugar until light and fluffy. Add eggs and egg whites, one at a time, beating well after each addition. Beat in melted chocolate and extract. Combine the flour, baking powder and salt; add to the creamed mixture. Fold in baking chips; set aside.                                                                                           In a small bowl, dissolve espresso powder in water; cool to room temperature. In a large bowl, beat cream cheese and sugar until smooth. Beat in the flour, extract and espresso mixture. Add egg; beat on low speed just until combined. Fold in baking chips.                                                                                           Spread half of chocolate mixture into a 13-in. x 9-in. baking pan coated with cooking spray; top with cream cheese mixture. Spoon remaining chocolate batter over top; cut through batter with a knife to swirl.                                                                                           Bake at 325° for 35-40 minutes or until a toothpick inserted near the center comes out with moist crumbs. Cool completely on a wire rack. Cut into bars.                                        Yield: 2-1/2 dozen.                                                                                                     Editor's Note: This recipe was tested with Land O'Lakes light stick butter.                                                                                                Originally published as Makeover Pick-Me-Up Cream Cheese Brownies in  Healthy CookingApril/May 2011, p29                                                                                                                                                                                                        Nutritional Facts                                                                             1 brownie equals 159 calories, 8 g fat (4 g saturated fat), 27 mg cholesterol, 101 mg sodium, 22 g carbohydrate, 1 g fiber, 3 g protein. Diabetic Exchanges: 1-1/2 fat, 1 starch.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Makeover-Pick-Me-Up-Cream-Cheese-Brownies-462412.jpg",
+	30,
+	"Taste of Home",
+	65);
+INSERT INTO Recipes VALUES (
+	457159,
+	"Rum Raisin Ice Cream",
+	"Place raisins in a small bowl and cover with rum.  Set aside.                            Prepare vanilla pudding mix according to package directions, using eggnog in place of the milk.  Stir in the heavy cream.  Chill in refrigerator until quite cold.                            Freeze eggnog mixture in an ice cream maker according to manufacturer's directions.  Stir in drained raisins just before ice cream begins to set.  When ice cream is done, pack in a container and place in the freezer for 3 hours before serving.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Rum-Raisin-Ice-Cream-457159.png",
+	2,
+	"Allrecipes",
+	240);
+INSERT INTO Recipes VALUES (
+	357727,
+	"Sausage, Fennel, and Provolone Calzones",
+	"Remove casing from sausage. Cook sausage in a large nonstick skillet over medium-high heat until browned, stirring to crumble. Add fennel, bell pepper, and onion. Cover, reduce heat, and cook for 9 minutes, stirring frequently. Cool slightly.Preheat oven to 450.Divide the prepared dough evenly into 6 equal portions on a lightly floured surface; shape each piece into a ball. Roll each ball into a 6-inch circle. Combine egg and water with a whisk in a small bowl. Brush edge of each circle with egg mixture; reserve remaining egg mixture.Place 2/3 cup sausage mixture on half of each circle, leaving a 1-inch border, and sprinkle each with 2 tablespoons cheese. Fold dough over sausage mixture until edges almost meet. Bring bottom edge over top edge; crimp edges of dough with fingers to form a rim. Place the calzones on a baking sheet sprinkled with cornmeal. Brush tops with reserved egg mixture. Bake at 450 for 12 minutes or until golden brown.",
+	"https://spoonacular.com/recipeImages/357727-556x370.jpg",
+	6,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	244013,
+	"Homemade Chili Sauce",
+	NULL,
+	"https://spoonacular.com/recipeImages/Homemade-Chili-Sauce-244013.jpg",
+	5,
+	"Deep South Dish",
+	5);
+INSERT INTO Recipes VALUES (
+	191868,
+	"Pimm's Cup",
+	"Preparation                                                        Fill highball glass with ice. Add Pimm's, then top with ginger beer, garnish with cucumber slice and mint sprig, and serve.",
+	"https://spoonacular.com/recipeImages/Pimms-Cup-191868.jpg",
+	1,
+	"Epicurious",
+	45);
+INSERT INTO Recipes VALUES (
+	377856,
+	"Blue Cheese Chicken Pitas",
+	"Directions                                                                                In a bowl, combine the first five ingredients. Add dressing and toss to coat. Stuff each pita half with 1/2 cup chicken salad.                                        Yield: 2 servings.                                                                                                                         Originally published as Blue Cheese Chicken Pitas in  Weeknight Cooking Made EasyAnnual 2005, p106                                                                                                                                                                                                       Nutritional Facts                                                                             2 filled pita halves equals 734 calories, 39 g fat (8 g saturated fat), 100 mg cholesterol, 1,489 mg sodium, 59 g carbohydrate, 8 g fiber, 46 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Blue-Cheese-Chicken-Pitas-377856.jpg",
+	2,
+	"Taste of Home",
+	10);
+INSERT INTO Recipes VALUES (
+	137266,
+	"Baked Almond Chicken",
+	NULL,
+	"https://spoonacular.com/recipeImages/baked-almond-chicken-2-137266.jpg",
+	4,
+	"Food.com",
+	45);
+INSERT INTO Recipes VALUES (
+	401556,
+	"Tangy Sloppy Joes",
+	"Directions                                                                                In a large skillet, cook the beef, celery, onion and green pepper over medium heat until meat is no longer pink and vegetables are tender; drain.                                                                                            Stir in the ketchup, chili sauce, sugars, vinegar, mustard, salt and pepper. Bring to a boil. Reduce heat; simmer, uncovered, for 15 minutes. Serve on buns.                                        Yield: 6 servings.                                                                                                                         Originally published as Tangy Sloppy Joes in  Simple & DeliciousMarch/April 2007, p45                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving (1/2 cup) equals 331 calories, 9 g fat (4 g saturated fat), 37 mg cholesterol, 1,180 mg sodium, 44 g carbohydrate, 2 g fiber, 18 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Tangy-Sloppy-Joes-401556.jpg",
+	6,
+	"Taste of Home",
+	30);
+INSERT INTO Recipes VALUES (
+	330268,
+	"Sage Gravy",
+	"Melt butter in a saute pan. Whisk in flour until smooth; cook 2 minutes.  Slowly whisk in milk until mixture is smooth.Cook gravy until slightly thickened, 5-8 minutes.  Stir in sage and pepper flakes.  Season gravy with salt and pepper.",
+	"https://spoonacular.com/recipeImages/Sage-Gravy-330268.png",
+	1,
+	"My Recipes",
+	1200);
+INSERT INTO Recipes VALUES (
+	202133,
+	"Crepes with Strawberries and Cream",
+	"Procedures                                                                              1                                                                            For the Strawberries and Cream: Combine cream and sugar in a large bowl. Using a hand blender or a whisk, whisk cream and sugar together until cream reaches stiff peaks. Cover and keep cool in the fridge.                                                                                                                            2                                                                            Place strawberries, sugar, and orange liqueur in a bowl, toss so the strawberries are coated, then allow to sit on the counter while you assemble the crepes.                                                                                                                            3                                                                            For the Crepes: Whisk together eggs, milk, vanilla, and 2 tablespoons melted butter. In a separate bowl whisk together flour, a pinch of salt, and sugar. Whisk wet ingredients into dry ingredients until no lumps remain.                                                                                                                            4                                                                            Using a heat-proof pastry brush, brush a 10-inch nonstick skillet with butter, then heat over heat until the butter begins to sputter. Add just under 1/4 cup of batter to the pan, then swirl the pan until the batter coats as much of the bottom of the pan as possible. Cook until batter begins to brown, about 1 minute. Using a rubber spatula, flip the crepe and cook until the other side is brown, about 1 minute. Remove from pan and repeat with remaining batter.                                                                                                                            5                                                                            Place 2 to 3 crepes on each plate and divide strawberries and a dollop of cream. Fold crepe in half and serve.",
+	"https://spoonacular.com/recipeImages/Crepes-with-Strawberries-and-Cream-202133.jpg",
+	4,
+	"Serious Eats",
+	25);
+INSERT INTO Recipes VALUES (
+	257463,
+	"Steak Fajitas with Sautéed Onions and Peppers",
+	"Combine first 6 ingredients in a shallow dish. Add steak, turning to coat with marinade. Cover and chill 8 hours.Heat 3 tablespoon oil in a large cast-iron skillet over medium-high heat. Add bell peppers, onions, and oregano. Cook 12 minutes or until tender, stirring often. Add remaining minced garlic, and cook 2 minutes, stirring often. Stir in cilantro. Keep warm.Warm tortillas according to package directions.Remove steak from marinade, discarding marinade. Grill steak, covered with grill lid, over medium-high heat (350 to 400) 5 minutes on each side or to desired degree of doneness. Transfer steak to a cutting board, and let stand 10 minutes. Cut steak diagonally across the grain into thin strips. Serve with tortillas, onions and peppers, and desired toppings.",
+	"https://spoonacular.com/recipeImages/257463-556x370.jpg",
+	10,
+	"My Recipes",
+	27);
+INSERT INTO Recipes VALUES (
+	421579,
+	"Creamy Chicken 'n' Artichokes",
+	"Directions                                                                                Sprinkle chicken with salt and pepper. In a large skillet, cook chicken in 2 tablespoons butter for 3-4 minutes on each side or until browned. Remove and keep warm.                                                                                            Add wine or broth to the skillet, stirring to loosen any browned bits. Stir in cream; bring to a boil. Reduce heat; simmer, uncovered, for 5 minutes. Return chicken to the pan; simmer 6-8 minutes longer or until chicken juices run clear. Remove chicken; keep warm.                                                                                            Add remaining butter to cream mixture; bring to a boil. Reduce heat; simmer, uncovered, for 5-7 minutes or until sauce is reduced to 1 cup. Meanwhile, cook rice according to package directions. Divide rice among four plates; top with the chicken, sauce, artichoke hearts and olives.                                        Yield: 4 servings.                                                                                                                         Originally published as Creamy Chicken 'n' Artichokes in  Light & Tasty                                                                                                                                                                                                Nutritional Facts                                                                             1 serving equals 593 calories, 38 g fat (22 g saturated fat), 175 mg cholesterol, 664 mg sodium, 30 g carbohydrate, 4 g fiber, 28 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Creamy-Chicken-n-Artichokes-421579.gif",
+	4,
+	"Taste of Home",
+	35);
+INSERT INTO Recipes VALUES (
+	163310,
+	"Rice Noodles with Peanut Sauce",
+	"1                               In 3-quart saucepan, heat 2 quarts water to boiling. Break noodles in half and pull apart slightly; drop into boiling water. Cook uncovered 1 minute; drain. Rinse with cold water; drain.                                                          2                               In small bowl, beat peanut butter, soy sauce, gingerroot and crushed red pepper with wire whisk until smooth. Gradually beat in broth.                                                          3                               Place noodles in large bowl. Add peanut butter mixture, carrots, bell pepper and onions; toss. Sprinkle with cilantro.",
+	"https://spoonacular.com/recipeImages/Rice-Noodles-with-Peanut-Sauce-163310.jpg",
+	4,
+	"Betty Crocker",
+	20);
+INSERT INTO Recipes VALUES (
+	76309,
+	"Oyster Stew",
+	NULL,
+	"https://spoonacular.com/recipeImages/oyster-stew-2-76309.jpg",
+	6,
+	"Williams Sonoma",
+	15);
+INSERT INTO Recipes VALUES (
+	343601,
+	"Zucchini Gratin",
+	"Heat cream in a small sauce pot with garlic and thyme just until it start to boil.  Remove. Set aside.Slice zucchiniIn a buttered dish, layer zucchini, salt, pepper, sprinkle of Parmesa cheese, panko bread crumbs.  Repeat until dish is almost full.  Finish the top with bread crumbs and a drizzle of olive oil.Bake at 350 degrees for 20 to 25 minutes or until golden brown and bubbly.",
+	"https://spoonacular.com/recipeImages/Zucchini-Gratin-343601.png",
+	6,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	218813,
+	"Frosted Ginger Cookies",
+	"1. Preheat oven to 350. In a large bowl, cream 1 cup granulated sugar with butter until light and fluffy, about 3 minutes. Mix in egg and molasses.2. In a medium bowl, stir together flour, baking soda, and spices. Add to butter mixture and blend well.3. Fill a shallow bowl with granulated sugar. Break off walnut-size pieces of dough and roll into balls; roll balls in sugar. Arrange on greased cookie sheets and bake until golden brown, about 10 minutes. Transfer to cooling racks.4. Meanwhile, make glaze: Combine powdered sugar with 1 tbsp. water and stir until smooth, then stir in lemon juice. Drizzle glaze over cookies.Note: Nutritional analysis is per cookie.",
+	"https://spoonacular.com/recipeImages/frosted-ginger-cookies-218813.jpg",
+	40,
+	"My Recipes",
+	35);
+INSERT INTO Recipes VALUES (
+	81398,
+	"Dinner Tonight: Skirt Steak with Homemade Steak Sauce",
+	"Procedures                                                                              1                                                                            Combine the ketchup, water, mushrooms, Worcestershire, lemon juice, and vinegar in a saucepan. Whisk to combine, then stir in the remaining ingredients. Bring to a simmer over medium heat and simmer for 45 minutes, until the sauce is thick and pourable and the flavors have melded. Strain out the solids.                                                                                                                            2                                                                            Rub the steak with olive oil and season with salt and pepper. Grill or broil the steaks, turning once, for 7-10 minutes for medium rare, depending on thickness.  Allow to rest for at least 5 minutes, then slice across the grain. Serve with the sauce on the side, or spoon it over.",
+	"https://spoonacular.com/recipeImages/dinner_tonight_skirt_steak_with_homemade_steak_sauce-81398.jpg",
+	4,
+	"Serious Eats",
+	45);
+INSERT INTO Recipes VALUES (
+	142211,
+	"Cream Puffs with Ice Cream and Hot Fudge Sauce",
+	NULL,
+	"https://spoonacular.com/recipeImages/cream-puffs-with-ice-cream-and-hot-fudge-sauce-2-142211.png",
+	12,
+	"Martha Stewart",
+	45);
+INSERT INTO Recipes VALUES (
+	192709,
+	"Berry-Brandy Toddies with Raspberries and Cream",
+	"Preparation                                                        Divide mixture between two snifters; serve with:                                                                Fresh raspberries                                                                Whipped cream",
+	"https://spoonacular.com/recipeImages/Berry-Brandy-Toddies-with-Raspberries-and-Cream-192709.jpg",
+	2,
+	"Epicurious",
+	45);
+INSERT INTO Recipes VALUES (
+	195412,
+	"Dinner Tonight: Paprika-Spiked Home Fries with Poached Egg",
+	"Procedures                                                                              1                                                                            Arrange potatoes in large microwave-safe bowl, top with 1 tablespoon butter, and cover tightly with plastic wrap. Microwave on high until edges of potatoes begin to soften, 5 to 7 minutes, shaking bowl (without removing plastic) to redistribute potatoes halfway through cooking.  Alternatively, do not chop them and boil for 8 to 10 minutes, drain, and chop once cool enough to handle.                                                                                                                            2                                                                            Meanwhile, melt 1 tablespoon butter in a 10 or 12-inch skillet over medium heat. Add onion and cook until softened and golden brown, about 6 minutes. Transfer to small bowl.                                                                                                                            3                                                                            Melt remaining tablespoon of butter in now-empty skillet over medium heat. Add potatoes and pack down with spatula. Cook, without moving, until underside of potatoes is brown, 5 to 7 minutes. Turn potatoes, pack down again, and continue to cook until well browned and crisp, 5 to 7 minutes. Reduce heat to medium-low and continue cooking, stirring potatoes every few minutes, until crusty and golden on all sides, 9 to 12 minutes. Stir in onion, seasonings of your choice and salt and pepper to taste.                                                                                                                            4                                                                            When potatoes are about ten minutes off, bring a small pot of water to boil, and add the vinegar.  Turn the heat down to a very gentle simmer and slide the eggs into the water (I use a ladle technique).  Guide the eggs back into a compact shape if needed.  Cook just until the whites are completely set, 3-5 minutes                                                                                                                            5                                                                            Taste the home fries for seasoning, and dust with almost all the paprika.  Remove to two plates, top with the egg and sprinkle remaining paprika, lots of fresh black pepper, and a sprinkle of salt.",
+	"https://spoonacular.com/recipeImages/Dinner-Tonight--Paprika-Spiked-Home-Fries-with-Poached-Egg-195412.jpg",
+	2,
+	"Serious Eats",
+	45);
+INSERT INTO Recipes VALUES (
+	291345,
+	"Baked Ham with Sticky Meyer Lemon-Spice Glaze",
+	"1. Preheat oven to 350°. Cut off tough, leatherlike skin from ham (if it has it) and score fat and meat in a crosshatch pattern. Put ham, fat side up, in a large roasting pan and tent loosely with foil. Bake until a thermometer in thickest part of meat reaches 120°, about 1 1/2 hours.2. Meanwhile, make glaze: In a bowl, whisk sugar, zest, juice, and ginger until smooth.3. Uncover ham and pour glaze over it into pan. Bake ham, uncovered, basting ham and stirring glaze every 10 minutes, until glaze is a thickened, shiny syrup and thermometer in meat reaches 135° to 140°, 15 to 30 minutes total.4. Let ham rest 5 minutes, then brush with glaze and transfer to a cutting board. Scrape remaining glaze into a small bowl. Carve ham and spoon more glaze on top.Note: Nutritional analysis is per serving.",
+	"https://spoonacular.com/recipeImages/baked-ham-with-sticky-meyer-lemon-spice-glaze-291345.jpg",
+	8,
+	"My Recipes",
+	150);
+INSERT INTO Recipes VALUES (
+	283420,
+	"Deep Fried Turkey",
+	"In a large stockpot or turkey fryer, heat oil to 400 degrees F (200 degrees C). Be sure to leave room for the turkey, or the oil will spill over.  Layer a large platter with food-safe paper bags.                            Rinse turkey, and thoroughly pat dry with paper towels. Rub Creole seasoning over turkey inside and out. Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.                            Place the whole onion and turkey in drain basket. The turkey should be placed in basket neck end first. Slowly lower basket into hot oil to completely cover turkey.  Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes.                            Carefully remove basket from oil, and drain turkey. Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C). Finish draining turkey on the prepared platter.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Deep-Fried-Turkey-283420.jpg",
+	54,
+	"Allrecipes",
+	90);
+INSERT INTO Recipes VALUES (
+	182384,
+	"Maple Pecan Pie",
+	"1                               Heat oven to 375F.                                                          2                               In medium bowl, mix flour and 1/2 teaspoon salt. Cut in 1/3 cup plus 1 tablespoon shortening, using pastry blender or crisscrossing 2 knives, until particles are size of small peas. Sprinkle in cold maple flavor mixture, 1 tablespoon at a time, tossing with fork until all flour is moistened and pastry almost cleans side of bowl.                                                          3                               Gather pastry into a ball; shape into flattened round on lightly floured surface. With floured rolling pin, roll 2 inches larger than upside-down 9-inch pie plate. Ease pastry into pie plate, pressing firmly against bottom and side. Trim overhanging edge of pastry 1 inch from rim of plate. Fold and roll pastry under, even with plate; flute.                                                          4                               In medium bowl, beat sugar, butter, maple syrup, 1/2 teaspoon salt and the eggs with hand beater until smooth. Stir in pecans. Pour into pastry-lined pie plate. Cover edge of pastry with 2- to 3-inch strip of foil to prevent excessive browning; remove foil for last 15 minutes of baking.                                                          5                               Bake 40 to 50 minutes or until set. Cool 15 minutes. In 1-quart saucepan, melt chocolate chips and 1 teaspoon shortening over low heat, stirring constantly; drizzle over top of pie. Serve pie warm or cool.",
+	"https://spoonacular.com/recipeImages/maple-pecan-pie-182384.jpg",
+	8,
+	"Betty Crocker",
+	90);
+INSERT INTO Recipes VALUES (
+	2164,
+	"Fried Catfish Sandwiches with Chipotle-Honey Mayo",
+	"Line a baking sheet with wax paper. Put 3/4 cup of the flour in a shallow bowl. In another shallow bowl, combine the yellow and white cornmeals with 1 teaspoon salt, 1/4 teaspoon pepper and the remaining 1/4 cup flour. In a third shallow bowl, beat the eggs with the milk. Dredge the catfish fillets, one at a time, in the flour; shake off any excess. Dip the fillets in the egg mixture and coat them completely with the cornmeal mixture. Set the fillets on the baking sheet and refrigerate until the coating is dry, at least 1 hour.                                              Meanwhile, in a mini food processor, combine the mayonnaise with the chipotles, honey and lemon juice; process until smooth. Transfer the mayonnaise to a bowl, cover and refrigerate.                                              Preheat the oven to 250. Put 1/2 cup of the oil in a large, heavy skillet and heat until shimmering. Add 3 catfish fillets and fry over moderately high heat until golden and crisp on one side, 5 to 6 minutes. Carefully turn the fillets, reduce the heat to moderately low and fry until golden, crisp and cooked through, about 6 minutes longer. Using a slotted spatula, gently transfer the fillets to paper towels to drain; transfer the fried fish to a baking sheet and keep warm in the oven.                                              Wipe out the skillet with paper towels and add another 1/2 cup of oil. Fry the remaining fish in 2 batches, changing the oil between batches. Season the fried catfish with salt.                                              Spread a generous tablespoon of the mayonnaise on half the toast slices. Top with the lettuce, fried catfish and sliced tomatoes. Cover with the remaining slices of toast. Serve the sandwiches immediately, passing any remaining mayonnaise at the table.",
+	"https://spoonacular.com/recipeImages/fried-catfish-sandwiches-with-chipotle-honey-mayo-2164.jpg",
+	8,
+	"Food and Wine",
+	45);
+INSERT INTO Recipes VALUES (
+	395808,
+	"Slow-Cooked Asian Chicken",
+	"Directions                                                                                In a large skillet over medium heat, brown the chicken in oil on all sides. Transfer to a 5-qt. slow cooker. Combine the soy sauce, brown sugar, water, garlic and ginger; pour over chicken.                                                                                            Cover and cook on low for 5-6 hours or until chicken juices run clear. Remove chicken to a serving platter sprinkle with almonds.                                        Yield: 4-6 servings.                                                                                                                         Originally published as Slow-Cooked Asian Chicken in  Taste of HomeDecember/January 1998, p39                                                                                                                                                                                                        Nutritional Facts                                                                             1 serving equals 381 calories, 23 g fat (5 g saturated fat), 102 mg cholesterol, 907 mg sodium, 6 g carbohydrate, 1 g fiber, 35 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Slow-Cooked-Asian-Chicken-395808.jpg",
+	6,
+	"Taste of Home",
+	320);
+INSERT INTO Recipes VALUES (
+	208966,
+	"Chile-Marinated Pork Sandwiches on Cemita Rolls",
+	"Preparation                                        Prepare chiles and pork:                Discard chile stems and cut guajillo and ancho chiles open lengthwise with kitchen shears. Discard seeds and ribs.                                                                Heat a dry 10- to 12-inch heavy skillet or griddle over moderate heat until hot, then toast chiles, a few at a time, turning and pressing down with tongs, until softened and fragrant, about 10 seconds per side.                                                                Transfer chiles to a bowl, then cover with hot water and soak until softened, about 20 minutes.                                                            Flatten pork while chiles soak:                Trim fat and sinews from pork and pound between 2 sheets of wax paper with flat side of a meat pounder or with a rolling pin until meat is about 1/8 inch thick.                                                            Marinate pork:                Heat skillet over low heat until hot then toast cumin, peppercorns, clove, and cinnamon, stirring constantly, until fragrant and cumin is a shade darker, about 1 minute. Transfer hot spices to a blender and add vinegar, garlic, oregano, salt, and soaked chiles with about 1/3 cup soaking water, then blend until smooth. Transfer half of chile paste to an airtight container and chill or freeze for another use, then put remainder in a small bowl.                                                                Spread a thin layer of chile paste in middle of a sheet of plastic wrap large enough to wrap all of meat and put 1 pork chop over paste. Spread a thin layer of chile paste on top, then continue layering meat, spreading each piece with chile paste. Wrap stacked pork in plastic wrap and marinate, chilled, at least 2 hours.                                                            Cook pork and assemble sandwiches:                Heat 1 1/2 tablespoons oil in a 12-inch heavy skillet over moderately high heat until hot but not smoking. Season pork chops with salt and sauté, in batches, adding more oil as necessary, until just cooked through, 1 to 2 minutes per side. Transfer chops as cooked to a sheet of foil and keep warm wrapped in foil.                                                                Preheat broiler. Cut rolls in half horizontally and arrange, cut sides up, on a large baking sheet. Broil buns about 6 inches from heat until golden, about 1 minute.                                                                Halve, pit, and lightly mash avocados in peel with a fork, then spread thickly on cut sides of rolls. Season avocado with salt, then top with papalo. Make sandwiches with pork, cheese, chipotles (if using), onion, and tomato, pressing sandwiches together.                                                                            * Available at Latino markets and Chile Today—Hot Tamale (800-468-7377).                                                                ** Available at Mexican bakeries.                                                                *** Available at Mexican markets.                                                Cooks' note:            Pork can be marinated up to 2 days.",
+	"https://spoonacular.com/recipeImages/Chile-Marinated-Pork-Sandwiches-on-Cemita-Rolls-208966.jpg",
+	4,
+	"Epicurious",
+	45);
+INSERT INTO Recipes VALUES (
+	298310,
+	"Fro Cro-Dough",
+	"Directions                    Watch how to make this recipe.                                                        Fill a deep, wide pot halfway with neutral flavored oil and heat to 350 degrees F.Place the croissant dough on a gel board or over bench flour to keep from sticking.Cut out doughnut shapes using the round cutters. Keep the dough from the holes and scraps, you can fry these too.Refrigerate the dough for 10 to 15 minutes so that it is firmer and easier to work with.Gently drop the chilled fro cro-doughs and scraps into the hot oil, making sure that you don't crowd the pot. Fry until cooked through and golden, 3 to 4 minutes per side. The scraps will take less time.Once the doughnuts are cooked, place them on a paper-towel-lined plate to drain the oil. Allow to cool. Then dip the top part in the glaze.Place the thin pastry tip in a plastic or pastry bag. Then fill with pastry cream and snip the tip with some scissors. Fill the fro cro-dough's with pastry cream in 3 spots, rotating to get an even fill. Glaze and fill the scraps as desired.                                                    From Food Network Kitchens                         CATEGORIES:                                                                                                                                                                                                                                     Breakfast                                                                                                                                                                                                                                                                                                                                                Doughnuts                                                                                                                                                                                                                                                                                                                                                                                    Deep Frying                                                                                                                                        View All         <div class=\"popover-content categories\">                        <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/b/breakfast-casserole.html\">Breakfast</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/a/apple-strudel-recipes.html\">Dessert</a></li>                                 </ul>                <ul>                    <li>Dish</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/d/doughnuts.html\">Doughnuts</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/d/deep-frying.html\">Deep Frying</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/fro-cro-dough-298310.jpeg",
+	8,
+	"Foodnetwork",
+	45);
+INSERT INTO Recipes VALUES (
+	112246,
+	"Chickpea Curry (Indian Style) over Basmati Rice",
+	NULL,
+	"https://spoonacular.com/recipeImages/chickpea-curry-over-basmati-rice-2-112246.jpg",
+	4,
+	"Food.com",
+	30);
+INSERT INTO Recipes VALUES (
+	112545,
+	"Kongnamool (Korean Soybean Sprouts)",
+	"Bring a large pot of lightly salted water to a boil. Add the bean sprouts, and cook uncovered until tender yet still crisp, about 15 seconds. Drain in a colander, then immediately immerse in ice water for several minutes until cold to stop the cooking process. Once the bean sprouts are cold, drain well, and set aside.                            Whisk soy sauce, sesame oil, chile powder, garlic, and sesame seeds together in a large bowl. Stir in bean sprouts and toss until well coated with the sauce. Sprinkle with green onions and season with rice wine vinegar. Refrigerate before serving.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/kongnamool-2-112545.png",
+	4,
+	"Allrecipes",
+	15);
+INSERT INTO Recipes VALUES (
+	395266,
+	"Pasta with Spinach Pesto Sauce",
+	"Cook pasta according to package directions.                            While pasta is cooking, in food processor or blender, combine spinach, tofu, lemon juice, garlic, broth, cheese, pepper, and Italian seasoning, process until smooth. Set aside.                            Spray a large non-stick saute pan with cooking spray. Over medium heat, cook onions and mushrooms until tender. Reduce heat to low, add pesto mixture and heat until hot.                            Toss pasta with sauce and bacon bits. Serve with additional Parmesan cheese, if desired. NOTE: If sauce seems too thick, thin to desired consistency with pasta cooking water or broth.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Pasta-with-Spinach-Pesto-Sauce-395266.jpg",
+	6,
+	"Allrecipes",
+	45);
+INSERT INTO Recipes VALUES (
+	47680,
+	"Roasted Apples",
+	NULL,
+	"https://spoonacular.com/recipeImages/roasted_apples-47680.jpg",
+	1,
+	"Not Without Salt",
+	80);
+INSERT INTO Recipes VALUES (
+	19020,
+	"Ginger and Lemongrass Grilled Shrimp",
+	"Directions                    Watch how to make this recipe.                                                        Preheat the grill to high.In a large, nonreactive bowl, combine the lemongrass, ginger, garlic, scallion greens, soy sauce, sesame oil, and honey and whisk well. Add the shrimp and toss to coat. Marinate in the refrigerator for 15 to 30 minutes.Skewer the shrimp, scallion whites, and red bell peppers onto skewers in whatever order you like. There should be 4 to 6 shrimp per skewer.Place the skewers on a flat plate and drizzle with peanut oil. It is not necessary to salt the skewers because soy sauce has so much salt in it. Place the shrimp skewers on the grill and cook about 3 minutes per side, or just until the shrimp curls, turns red and does not appear clear at all. Be careful not to overcook.Place the whole radicchio leaves around the edge of a platter. Mound the chiffonade radicchio and watercress inside the leaves and around the platter. Remove the skewers from the grill and place on the bed of greens. Squeeze the juice of a lime over the shrimp.*Cook's Note: if using wooden skewers, be sure to soak them in water for at least 30 minutes before placing on the grill.                                                    Recipe courtesy of Wolfgang Puck, 2004                         CATEGORIES:                                                                                                                                                                                                                                     Shrimp                                                                                                                                                                                                                                                                                                                                                Appetizer                                                                                                                                                                                                                                                                                                                                                                                    Grilling                                                                                                                                                                                                                                                                                                                View All         <div class=\"popover-content categories\">                        <ul>                    <li>Main Ingredient</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/s/shrimp-creole-recipes.html\">Shrimp</a></li>                                                                                                                                                                                                                                                                                 <li ><a href=\"/content/food/topics/l/lime.html\">Lime</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/g/grilled-vegetable-recipes.html\">Vegetables</a></li>                                 </ul>                <ul>                    <li>Course</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/a/appetizer.html\">Appetizer</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/m/main-dish.html\">Main Dish</a></li>                                 </ul>                <ul>                    <li>Technique</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/g/grilling.html\">Grilling</a></li>                                 </ul>                <ul>                    <li>Cuisine</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/a/asian-appetizer-recipes.html\">Asian</a></li>                                 </ul>                <ul>                    <li>Nutrition</li>                                                                                                                                                                                                                                                                    <li ><a href=\"/content/food/topics/l/low-calorie-recipes.html\">Low Calorie</a></li>                                                                                                                                                                                                                                                                                 <li class=\"last\"><a href=\"/content/food/topics/l/low-fat-recipes.html\">Low Fat</a></li>                                 </ul>                <ul>                    <li>Season</li>                                                                                                                                                                                                                                                                    <li class=\"last\"><a href=\"/content/food/topics/s/summer.html\">Summer</a></li>                                 </ul></div>",
+	"https://spoonacular.com/recipeImages/ginger-and-lemongrass-grilled-shrimp-19020.jpeg",
+	6,
+	"Foodnetwork",
+	61);
+INSERT INTO Recipes VALUES (
+	256798,
+	"Chocolate Quad",
+	"Cut butter into flour with a pastry blender or fork until mixture resembles coarse meal. Stir in pecans. Press mixture onto bottom of a 13- x 9-inch pan.Bake at 350 for 15 minutes or until lightly browned. Cool.Beat cream cheese, powdered sugar, and 1 cup whipped topping at medium speed with an electric mixer until smooth. Spread mixture over prepared crust.Whisk together pudding mix and milk 2 minutes or until smooth. Spread over cream cheese mixture. Chill 10 minutes. Spread remaining whipped topping over pudding mixture. Cover and chill at least 1 hour. Cut into squares.",
+	"https://spoonacular.com/recipeImages/chocolate-quad-256798.jpg",
+	15,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	417685,
+	"Baked Doughnuts",
+	"Preheat oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet, or donut baking pan.                            In a medium bowl, mix sugar, baking powder, baking soda, nutmeg, cloves, cinnamon and flour. Mix buttermilk, eggs, honey and butter in a separate medium bowl, and stir into the dry ingredients. Spoon the mixture onto the prepared pan in doughnut shapes.                            Bake 12 minutes in the preheated oven, until golden brown.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Baked-Doughnuts-417685.jpg",
+	12,
+	"Allrecipes",
+	30);
+INSERT INTO Recipes VALUES (
+	81210,
+	"Sangria Faux You",
+	NULL,
+	"https://spoonacular.com/recipeImages/sangria_faux_you-81210.jpg",
+	1,
+	NULL,
+	45);
+INSERT INTO Recipes VALUES (
+	67570,
+	"My Autumn Apple Sponge Cake",
+	NULL,
+	"https://spoonacular.com/recipeImages/my-autumn-apple-sponge-cake-2-67570.jpg",
+	8,
+	"Recipezaar",
+	45);
+INSERT INTO Recipes VALUES (
+	351275,
+	"Enchilada Casserole",
+	"Brown meat and onion. Add soups, sauces, and beans. Bring to a boil. Put over Tostitos in 13x9 serving dish and pour sauce over. Put cheese on top and put in oven at 350 degrees. Allow cheese to melt.",
+	"https://spoonacular.com/recipeImages/Enchilada-Casserole-351275.png",
+	1,
+	"My Recipes",
+	45);
+INSERT INTO Recipes VALUES (
+	266275,
+	"Sirloin Steak Provencale",
+	"Mix 1/3 cup of the steak sauce, the onions, rosemary, lemon zest, garlic and thyme.  Place steak in nonmetal dish or resealable plastic bag.  Add steak sauce mixture; turn to evenly coat steak on both sides.  Cover and refrigerate 1 hour to marinate, turning occasionally.                                            Preheat grill to medium-high heat.  Remove steak from marinade; discard marinade.                                            Grill steak 5 to 7 min. on each side or until cooked through, brushing occasionally with the remaining 1/3 cup steak sauce.",
+	"https://spoonacular.com/recipeImages/sirloin-steak-provencale-266275.jpg",
+	24,
+	NULL,
+	84);
+INSERT INTO Recipes VALUES (
+	376693,
+	"Thai-Style Black Bean Salad",
+	"Directions                                                                                Cook corn according to package directions. Transfer to a small bowl; add the beans, onion, celery, red pepper, cilantro and jalapeno.                                                                                           In a small bowl, whisk the oil, vinegar, lime juice, garlic, ginger and salt. Pour over bean mixture and toss to coat. Cover and refrigerate for at least 1 hour.                                        Yield: 4 servings.                                                                                                     Editor's Note: Wear disposable gloves when cutting hot peppers; the oils can burn skin. Avoid touching your face.                                                                                                Originally published as Thai-Style Black Bean Salad in  Healthy CookingJune/July 2009, p42                                                                                                                                                                                                        Nutritional Facts                                                                             3/4 cup equals 198 calories, 7 g fat (1 g saturated fat), 0 cholesterol, 517 mg sodium, 27 g carbohydrate, 6 g fiber, 7 g protein. Diabetic Exchanges: 1-1/2 starch, 1 vegetable, 1 fat.                                                                                                                                                                    Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Thai-Style-Black-Bean-Salad-376693.jpg",
+	4,
+	"Taste of Home",
+	15);
+INSERT INTO Recipes VALUES (
+	231980,
+	"Herb-Basted Chicken with Pearl Barley, Bacon, and Root Vegetable Pilaf",
+	"Preparation                                        For pilaf:                Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover pan, reduce heat to medium, and simmer until barley is tender, about 30 minutes. Drain barley.                                                                Sauté bacon in large pot over medium heat until brown and crisp. Using slotted spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6 minutes. Add barley, lemon juice, and herbs; stir 2 minutes. Mix in bacon; season with salt and pepper. (Can be made 1 hour ahead. Let stand at room temperature. Cover and place in oven to rewarm while chicken roasts, adding water by tablespoonfuls to moisten if dry.)                                                            For chicken:                Preheat oven to 350°F. Heat oil in large ovenproof skillet over medium-high heat. Sprinkle chicken with salt and pepper. Place chicken, skin side down, in skillet. Cook until skin browns, about 7 minutes. Add butter and herbs to skillet; stir to blend. Turn chicken skin side up. Place skillet in oven; roast chicken until cooked through, basting occasionally with herb butter, about 20 minutes.                                                                Divide pilaf among 4 plates; top with chicken. Spoon pan juices over.",
+	"https://spoonacular.com/recipeImages/Herb-Basted-Chicken-with-Pearl-Barley--Bacon--and-Root-Vegetable-Pilaf-231980.jpg",
+	4,
+	"Epicurious",
+	45);
+INSERT INTO Recipes VALUES (
+	398512,
+	"Bacon and Egg Pocket",
+	"Whisk the eggs with the salt and pepper, reserve. Heat a large, nonstick skillet over medium heat. Add the onion and bacon. Cook, stirring, for 5 minutes or until onions and bacon are browned.                            Pour in the eggs. Cook, without stirring for 1 minute. Cook, stirring, for 1 to 2 minutes or until just set. Remove from the heat.                            Use a small knife to cut halfway around the outside edge of each pita, fold back the top flap. Spread an equal amount of the ketchup all over the inside of each pita. Lay a portion of spinach over the ketchup. Top with a portion of the scrambled egg mixture, sprinkle with cheese.                            Tuck the top flap of each pita inside, directly over the filling. Tightly roll the loose flap over the outside of each pita to completely enclose filling. Let stand for 5 minutes to soften cheese before serving.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Bacon-and-Egg-Pocket-398512.jpg",
+	6,
+	"Allrecipes",
+	23);
+INSERT INTO Recipes VALUES (
+	423980,
+	"Soft Ginger Cutouts",
+	"Directions                                                                                In a large bowl, cream the butter and sugar until light and fluffy. Add eggs, one at a time, beating well after each addition. Combine the molasses, water and vinegar. Combine the flour, soda, ginger, cinnamon and salt; gradually add to creamed mixture alternately with molasses mixture and mix well. Cover and refrigerate for 2 hours or until easy to handle.                                                                                           On a heavily floured surface, roll out dough to 1/4-in. thickness. Cut with a floured 2-1/2-in. cookie cutter. Place 1 in. apart on ungreased baking sheets.                                                                                            Bake at 350° for 10-12 minutes or until edges are browned. Remove to wire racks to cool.                                        Yield: about 10 dozen.                                                                                                                         Originally published as Soft Ginger Cutouts in  Best of Country Cookies1999, p107                                                                                                                                                                                                       Nutritional Facts                                                                             1 serving (2 each) equals 111 calories, 4 g fat (3 g saturated fat), 18 mg cholesterol, 149 mg sodium, 17 g carbohydrate, trace fiber, 2 g protein.                                                                                                                                                                     Print                                                                                    Add to Recipe Box                            Email a Friend",
+	"https://spoonacular.com/recipeImages/Soft-Ginger-Cutouts-423980.gif",
+	60,
+	"Taste of Home",
+	30);
+INSERT INTO Recipes VALUES (
+	334542,
+	"Sandy's 3-Day Brisket",
+	"Day One1. sprinkle celery seed, garlic powder and black pepper on all sides of meat2. carefully coat with Liquid Smoke 3. Seal in aluminum foil and refrigerate overnightDay Two 1. cook at 275 for 5 hours sealed in coke and water2. after cooking, drain liquid and refrigerate meat and liquid separatelyDay Three1. remove meat and slice straight up and down2. rearrange cut meat on slant in large pyrex3. remove fat from top of juice and pour over meat4. add additional Coke or water if needed 5. warm for 1 hour just prior to serving",
+	"https://spoonacular.com/recipeImages/Sandys-3-Day-Brisket-334542.png",
+	1,
+	"My Recipes",
+	301);
+INSERT INTO Recipes VALUES (
+	62791,
+	"Fruitcake Jelly Shots",
+	NULL,
+	"https://spoonacular.com/recipeImages/fruitcake_jelly_shots-62791.jpg",
+	2,
+	NULL,
+	246);
+INSERT INTO Recipes VALUES (
+	279804,
+	"Creme Brulee I",
+	"Beat egg yolks in medium bowl with electric mixer on high speed, 5 minutes or until thick and light yellow.  Gradually beat in sugar.                            Heat cream in medium saucepan over medium heat until just hot to the touch.  A little at a time, so the eggs do not curdle, stir half of the cream into the egg yolk mixture.  Then stir all the egg yolk and cream mixture into the remaining cream in the saucepan.  Cook, stirring continuously, over low heat, 5 to 8 minutes, until mixture thickens; do not boil.  Pour custard into 9 inch pie plate, cover and refrigerate 2 to 24 hours.                            Before serving, sprinkle with brown sugar and place under preheated oven broiler, or use a kitchen torch to melt sugar.  Serve with berries.                                                Kitchen-Friendly View",
+	"https://spoonacular.com/recipeImages/Creme-Brulee-I-279804.png",
+	8,
+	"Allrecipes",
+	30);
+INSERT INTO Recipes VALUES (
+	246475,
+	"Lemonade Sweet Tea",
+	"1. Bring 3 cups water to a boil in a 2-qt. saucepan. Remove from heat, add tea bags, and stir in fresh mint. Cover and steep 10 minutes.2. Discard tea bags and mint. Stir in sugar until dissolved. Pour tea into a 3-qt. container, and stir in 4 cups cold water and lemonade concentrate. Serve over ice. Garnish, if desired.Spiked Lemonade Sweet Tea: Prepare Lemonade Sweet Tea recipe as directed. Stir in 1 cup bourbon or 1 cup spiced dark rum just before serving. Garnish with fresh sugarcane and fresh pineapple slices, if desired.Ginger-and-Honey Sweet Tea: Prepare Southern Sweet Tea recipe as directed, omitting sugar and stirring in 1/2 cup honey and 1 Tbsp. grated fresh ginger. Garnish with lemon slices, if desired.",
+	"https://spoonacular.com/recipeImages/Lemonade-Sweet-Tea-246475.jpg",
+	8,
+	"My Recipes",
+	25);
+INSERT INTO Recipes VALUES (
+	130888,
+	"Almond-Saffron Cake",
+	"1. Preheat oven to 350. Lightly grease and flour 2 (8-inch) round cake pans. Heat milk in a small saucepan over medium heat. Add saffron and zest. Bring just to a simmer; remove from heat, and set aside.2. Sift together flour, baking powder, and baking soda in a large bowl. Stir in salt.3. Beat together butter and almond paste at medium speed in the bowl of an electric mixer fitted with a paddle attachment about 3 minutes or until creamy. Gradually add powdered sugar, and beat until fluffy, scraping down sides. Add eggs, 1 at a time, beating just until blended after each addition. Gradually add flour mixture alternately with sour cream, beginning and ending with flour mixture and beating at medium speed just until blended after each addition. Add reserved milk mixture; beat just until blended. Do not overmix.4. Pour batter into prepared pans. Shake pans gently, or use a spatula to smooth tops. Bake at 350 for 25 to 30 minutes or until a wooden pick inserted in center of cake comes out clean. Let cool in pans on wire racks 5 minutes. Remove from pans, and serve warm, dusted with more powdered sugar or drizzled with orange juice combined with 2 to 3 tablespoons powdered sugar, if desired.*Stir flour before measuring.**Do not use marzipan, which contains added sugar.",
+	"https://spoonacular.com/recipeImages/almond-saffron-cake-130888.jpg",
+	12,
+	"My Recipes",
+	20);

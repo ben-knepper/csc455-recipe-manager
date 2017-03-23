@@ -245,7 +245,6 @@
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
     <Content Include="SQL\Triggers\CreateRecipeTriggers.sql" />
-    <Content Include="SQL\Initialization\InsertData.sql" />
     <Content Include="SQL\Initialization\CreateTables.sql" />
     <Content Include="SQL\Initialization\InsertMeasurements.sql" />
     <Content Include="SQL\Initialization\InsertRecipeParts.sql" />

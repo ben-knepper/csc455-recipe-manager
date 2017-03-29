@@ -11,9 +11,9 @@ DROP TABLE IF EXISTS Users;
 
 CREATE TABLE Users (
 	UserId				INT				NOT NULL	AUTO_INCREMENT,
-	Username			VARCHAR(20)		NOT NULL,
-	PassHash			CHAR(20)		NOT NULL,
-	Salt				CHAR (20),
+	Username			VARCHAR(20)		NOT NULL	UNIQUE,
+	PassHash			CHAR(40)		NOT NULL,
+	Salt				CHAR (40),
 	PRIMARY KEY(UserId))
 	ENGINE=INNODB;
 

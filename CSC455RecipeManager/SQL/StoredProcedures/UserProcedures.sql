@@ -1,23 +1,43 @@
+DROP FUNCTION IF EXISTS ValidateUser;
+DROP PROCEDURE IF EXISTS CreateUser;
+
 DELIMITER //
+
 CREATE FUNCTION ValidateUser(
-	@Username VARCHAR(20),
-	@Password VARCHAR(100)) AS
+	u_name VARCHAR(40), pwd VARCHAR(100))
+	RETURNS BOOL
 BEGIN
-	--@Salt = SELECT Salt FROM Users WHERE Username = @Username;
-	--@SaltedPassword = CONCAT(@Password, @Salt);
-	@Hash = SHA(@Password);
-	RETURN (SELECT PassHash = @Hash FROM Users WHERE Username = @Username);
+	DECLARE storedSalt	VARCHAR(40);
+	DECLARE thisHash	VARCHAR(40);
+	DECLARE storedHash	VARCHAR(40);
+	DECLARE result		BOOL			DEFAULT FALSE;
+
+	SELECT PassHash, Salt INTO storedHash, storedSalt FROM Users WHERE Username = u_name;
+	SET thisHash = SHA(CONCAT(pwd, storedSalt));
+	IF thisHash = storedHash THEN
+		SET result = TRUE;
+	ELSE
+		SET result = FALSE;
+	END IF;
+	RETURN result;
 END; //
 
-CREATE PROCEDURE Createuser(
-	@Username VARCHAR(20),
-	@Password VARCHAR(100)) AS
+CREATE PROCEDURE CreateUser(
+	IN u_name VARCHAR(40), IN pwd VARCHAR(100))
 BEGIN
-	@Hash = SHA(@Password);
-	INSERT INTO Users VALUES (
-		RAND(100),
-		@Username,
-		@Hash,
-		NULL)
-END;
+	DECLARE salt		VARCHAR(40);
+	DECLARE passHash	VARCHAR(40);
+
+	SET salt = SHA(RAND()); -- 40 random characters
+	SET passHash = SHA(CONCAT(pwd, salt));
+	INSERT INTO Users (
+		Username,
+		PassHash,
+		Salt)
+	VALUES (
+		u_name,
+		passHash,
+		salt);
+END; //
+
 DELIMITER ;

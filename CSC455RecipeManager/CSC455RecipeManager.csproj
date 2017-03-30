@@ -244,6 +244,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
+    <Content Include="SQL\Initialization\InsertUsers.sql" />
     <Content Include="SQL\Initialization\InitDatabase.sql" />
     <Content Include="SQL\StoredProcedures\UserProcedures.sql" />
     <Content Include="SQL\Triggers\CreateRecipeTriggers.sql" />

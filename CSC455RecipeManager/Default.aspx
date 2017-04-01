@@ -39,4 +39,9 @@
         </div>
     </div>
 
+    <div>
+        <h2>Login</h2>
+        <a href="Login.aspx">Click Here</a>
+    </div>
+
 </asp:Content>

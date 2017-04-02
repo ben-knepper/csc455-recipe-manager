@@ -22,6 +22,7 @@ BEGIN
 		SET result = FALSE;
 		SET @currentUser = NULL;
 	END IF;
+	CALL CreateUserTables;
 	RETURN result;
 END; //
 

@@ -35,6 +35,8 @@ namespace CSC455RecipeManager
                 return;
             }
 
+            RecipeListBox.Items.Clear();
+
             try
             {
                 MySqlConnection connection = new MySqlConnection(ConfigurationManager.ConnectionStrings["MySqlConnStr"].ConnectionString);
@@ -46,22 +48,22 @@ namespace CSC455RecipeManager
 
                 MySqlDataReader verifyReader = verifyCommand.ExecuteReader();
                 verifyReader.Read();
-                if (verifyReader["Result"].ToString() == ValidResult)
+                bool isValid = verifyReader["Result"].ToString() == ValidResult;
+                verifyReader.Close();
+                if (isValid)
                 {
                     ResultLabel.Text = "Successful login";
 
                     RecipeListBox.Visible = true;
 
-                    MySqlCommand createUserTablesCommand = connection.CreateCommand();
-                    createUserTablesCommand.CommandText = "CALL CreateUserTables();";
                     MySqlCommand recipeListCommand = connection.CreateCommand();
                     recipeListCommand.CommandText = "SELECT RecipeName FROM UserRecipeList";
-
                     MySqlDataReader recipeListReader = recipeListCommand.ExecuteReader();
                     while (recipeListReader.Read())
                     {
                         RecipeListBox.Items.Add(recipeListReader["RecipeName"].ToString());
                     }
+                    recipeListReader.Close();
                 }
                 else
                 {
@@ -69,7 +71,6 @@ namespace CSC455RecipeManager
 
                     RecipeListBox.Visible = false;
                 }
-                verifyReader.Close();
 
                 connection.Close();
             }

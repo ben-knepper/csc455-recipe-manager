@@ -5,5 +5,5 @@ SOURCE InsertMeasurements.sql;
 SOURCE InsertRecipes.sql;
 SOURCE InsertRecipeParts.sql;
 SOURCE InsertRecipeLists.sql;
+SOURCE PerUserProcedures.sql;
 SOURCE UserProcedures.sql;
-Source PerUserProcedures.sql;

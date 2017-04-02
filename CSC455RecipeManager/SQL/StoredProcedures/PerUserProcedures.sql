@@ -1,10 +1,15 @@
+DROP PROCEDURE IF EXISTS CreateUserTables;
 DROP PROCEDURE IF EXISTS CreateUserRecipeList;
+DROP PROCEDURE IF EXISTS CreateUserPantry;
+DROP PROCEDURE IF EXISTS CreateUserShoppingList;
 
 DELIMITER //
 
 CREATE PROCEDURE CreateUserTables()
 BEGIN
-	CALL CreateUserRecipesList();
+	CALL CreateUserRecipeList();
+	CALL CreateUserPantry();
+	CALL CreateUserShoppingList();
 END; //
 
 CREATE PROCEDURE CreateUserRecipeList()
@@ -14,6 +19,26 @@ BEGIN
 	CREATE TEMPORARY TABLE UserRecipeList AS
 	SELECT RecipeId, RecipeName, Image
 	FROM RecipeLists NATURAL JOIN Recipes
+	WHERE UserId = @currentUser;
+END; //
+
+CREATE PROCEDURE CreateUserPantry()
+BEGIN
+	DROP TEMPORARY TABLE IF EXISTS UserPantry;
+	
+	CREATE TEMPORARY TABLE UserPantry AS
+	SELECT IngName, PantryAmount, MeasureName
+	FROM Pantries
+	WHERE UserId = @currentUser;
+END; //
+
+CREATE PROCEDURE CreateUserShoppingList()
+BEGIN
+	DROP TEMPORARY TABLE IF EXISTS UserShoppingList;
+	
+	CREATE TEMPORARY TABLE UserShoppingList AS
+	SELECT IngName, PantryAmount, MeasureName
+	FROM ShoppingLists
 	WHERE UserId = @currentUser;
 END; //
 

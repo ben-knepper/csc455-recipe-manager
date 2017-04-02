@@ -7,7 +7,6 @@ CREATE FUNCTION ValidateUser(
 	u_name VARCHAR(40), pwd VARCHAR(100))
 	RETURNS BOOL
 BEGIN
-	DECLARE @currentUser	INT				DEFAULT NULL;
 	DECLARE storedId		INT;
 	DECLARE storedSalt		VARCHAR(40);
 	DECLARE thisHash		VARCHAR(40);
@@ -18,10 +17,10 @@ BEGIN
 	SET thisHash = SHA(CONCAT(pwd, storedSalt));
 	IF thisHash = storedHash THEN
 		SET result = TRUE;
-		@currentUser = storedId;
+		SET @currentUser = storedId;
 	ELSE
 		SET result = FALSE;
-		@currentUser = NULL;
+		SET @currentUser = NULL;
 	END IF;
 	RETURN result;
 END; //

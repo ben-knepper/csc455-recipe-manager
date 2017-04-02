@@ -240,3 +240,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Web.config to avoid using one person's login info
+Web.config
+Web.Debug.config
+Web.Release.config

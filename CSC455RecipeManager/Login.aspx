@@ -13,12 +13,14 @@
             <h4>Username</h4>
             <asp:TextBox ID="UsernameBox" runat="server" />
             <h4>Password</h4>
-            <asp:TextBox ID="PasswordBox" runat="server" />
+            <asp:TextBox ID="PasswordBox" TextMode="Password" runat="server" />
             <br /> <br />
             <asp:Button runat="server" Text="Sign In" OnClick="SignInButton_Clicked" />
             <asp:Button runat="server" Text="Cancel" OnClick="CancelSignInButton_Clicked" />
-            <br />
-            <asp:Label ID="ResultLabel" runat="server" Visible="False"></asp:Label>
+            <br /> <br />
+            <asp:Label ID="ResultLabel" runat="server"></asp:Label>
+            <br /> <br />
+            <asp:ListBox ID="RecipeListBox" runat="server" Visible="false" />
         </div>
     </form>
 </body>

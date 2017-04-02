@@ -12,7 +12,10 @@ namespace CSC455RecipeManager
 {
     public partial class Login : System.Web.UI.Page
     {
-        protected static Regex UsernameRegex = new Regex("^\\w+$");
+        private static readonly Regex UsernameRegex = new Regex("^\\w+$");
+        private static readonly Regex PasswordSanitationRegex = new Regex("(['\"])");
+        private static readonly int MaxPasswordLength = 100;
+        private static string ValidResult = "True";
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -21,30 +24,69 @@ namespace CSC455RecipeManager
 
         protected void SignInButton_Clicked(object sender, EventArgs e)
         {
+            if (!UsernameRegex.IsMatch(UsernameBox.Text))
+            {
+                ShowInvalidResult();
+                return;
+            }
+            if (PasswordBox.Text.Length > MaxPasswordLength)
+            {
+                ShowInvalidResult();
+                return;
+            }
+
             try
             {
                 MySqlConnection connection = new MySqlConnection(ConfigurationManager.ConnectionStrings["MySqlConnStr"].ConnectionString);
                 connection.Open();
 
-                MySqlCommand command = connection.CreateCommand();
-                command.CommandText = "CALL ValidateUser(";
+                MySqlCommand verifyCommand = connection.CreateCommand();
+                String sanitizedPassword = PasswordSanitationRegex.Replace(PasswordBox.Text, "\\$1");
+                verifyCommand.CommandText = "SELECT ValidateUser('" + UsernameBox.Text + "', '" + sanitizedPassword + "') AS Result;";
 
-                MySqlDataReader reader = command.ExecuteReader();
-                while (reader.Read())
-                    Response.Write(reader["UserName"].ToString() + "<br />");
-                reader.Close();
+                MySqlDataReader verifyReader = verifyCommand.ExecuteReader();
+                verifyReader.Read();
+                if (verifyReader["Result"].ToString() == ValidResult)
+                {
+                    ResultLabel.Text = "Successful login";
+
+                    RecipeListBox.Visible = true;
+
+                    MySqlCommand createUserTablesCommand = connection.CreateCommand();
+                    createUserTablesCommand.CommandText = "CALL CreateUserTables();";
+                    MySqlCommand recipeListCommand = connection.CreateCommand();
+                    recipeListCommand.CommandText = "SELECT RecipeName FROM UserRecipeList";
+
+                    MySqlDataReader recipeListReader = recipeListCommand.ExecuteReader();
+                    while (recipeListReader.Read())
+                    {
+                        RecipeListBox.Items.Add(recipeListReader["RecipeName"].ToString());
+                    }
+                }
+                else
+                {
+                    ShowInvalidResult();
+
+                    RecipeListBox.Visible = false;
+                }
+                verifyReader.Close();
 
                 connection.Close();
             }
             catch (Exception ex)
             {
-                Response.Write("An error occured: " + ex.Message);
+                ResultLabel.Text = "An error occured: " + ex.Message;
             }
         }
 
         protected void CancelSignInButton_Clicked(object sender, EventArgs e)
         {
 
+        }
+
+        private void ShowInvalidResult()
+        {
+            ResultLabel.Text = "Invalid Uername or Password";
         }
     }
 }

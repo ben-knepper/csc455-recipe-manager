@@ -248,10 +248,12 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
+    <Content Include="SQL\Initialization\InsertRecipeLists.sql" />
     <Content Include="SQL\Initialization\InsertUsers.sql" />
     <Content Include="SQL\Initialization\InitDatabase.sql" />
+    <Content Include="SQL\StoredProcedures\PerUserProcedures.sql" />
     <Content Include="SQL\StoredProcedures\UserProcedures.sql" />
-    <Content Include="SQL\Triggers\CreateRecipeTriggers.sql" />
+    <Content Include="SQL\Initialization\CreateRecipeTriggers.sql" />
     <Content Include="SQL\Initialization\CreateTables.sql" />
     <Content Include="SQL\Initialization\InsertMeasurements.sql" />
     <Content Include="SQL\Initialization\InsertRecipeParts.sql" />
@@ -266,6 +268,13 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Site.Mobile.Master" />
+    <Content Include="Web - Copy.config" />
+    <Content Include="Web - Copy.Debug.config">
+      <DependentUpon>Web - Copy.config</DependentUpon>
+    </Content>
+    <Content Include="Web - Copy.Release.config">
+      <DependentUpon>Web - Copy.config</DependentUpon>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

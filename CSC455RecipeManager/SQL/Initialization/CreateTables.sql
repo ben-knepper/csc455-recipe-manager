@@ -74,7 +74,7 @@ CREATE TABLE RecipeParts (							---- ATTRIBUTE NAME IN API ----
 CREATE TABLE RecipeLists (
 	UserId				INT				NOT NULL,  
 	RecipeId			INT				NOT NULL,
-	PRIMARY KEY (UserId),
+	PRIMARY KEY (UserId, RecipeId),
 	FOREIGN KEY (UserId) 
 		REFERENCES Users(UserId)
 		ON DELETE CASCADE
@@ -91,7 +91,7 @@ CREATE TABLE Pantries (
 	IngName				CHAR(50)		NOT NULL,
 	PantryAmount		INT,
 	MeasureName			CHAR(20),
-	PRIMARY KEY (UserId),
+	PRIMARY KEY (UserId, IngName),
 	FOREIGN KEY (UserId)
 		REFERENCES Users(UserId)
 		ON DELETE CASCADE
@@ -112,7 +112,7 @@ CREATE TABLE ShoppingLists (
 	IngName				CHAR(50)		NOT NULL,
 	PantryAmount		INT,
 	MeasureName			CHAR(20),
-	PRIMARY KEY (UserId),
+	PRIMARY KEY (UserId, IngName),
 	FOREIGN KEY (UserId)
 		REFERENCES Users(UserId)
 		ON DELETE CASCADE

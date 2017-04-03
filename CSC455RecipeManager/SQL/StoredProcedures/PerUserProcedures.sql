@@ -7,10 +7,21 @@ DELIMITER //
 
 CREATE PROCEDURE CreateUserTables()
 BEGIN
+	CALL CreateCurrentUserTable();
 	CALL CreateUserRecipeList();
 	CALL CreateUserPantry();
 	CALL CreateUserShoppingList();
 END; //
+
+CREATE PROCEDURE CreateCurrentUserTable
+BEGIN
+	DROP TEMPORARY TABLE IF EXISTS CurrentUser;
+
+	CREATE TEMPORARY TABLE CurrentUser AS
+	SELECT UserId, Username
+	FROM Users
+	WHERE UserId = @currentUser;
+END;
 
 CREATE PROCEDURE CreateUserRecipeList()
 BEGIN

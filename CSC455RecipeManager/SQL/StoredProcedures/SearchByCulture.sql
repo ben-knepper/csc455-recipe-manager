@@ -1,4 +1,7 @@
-﻿CREATE PROCEDURE SearchByCulture
+﻿DROP PROCEDURE IF EXISTS SearchByCulture;
+
+
+CREATE PROCEDURE SearchByCulture
 (
 
     @Culture         VARCHAR = NULL, 

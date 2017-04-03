@@ -249,6 +249,7 @@
     <Content Include="Areas\MvcArea\Views\_ViewStart.cshtml" />
     <Content Include="Areas\MvcArea\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\MvcArea\Views\Home\Index.cshtml" />
+    <Content Include="Areas\MvcArea\Views\Recipe\Recipe.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Login.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -504,7 +505,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Areas\MvcArea\Views\Recipe\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

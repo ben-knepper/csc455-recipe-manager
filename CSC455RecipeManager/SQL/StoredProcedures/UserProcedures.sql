@@ -1,5 +1,6 @@
 DROP FUNCTION IF EXISTS ValidateUser;
 DROP PROCEDURE IF EXISTS CreateUser;
+DROP PROCEDURE IF EXISTS ChangeUserPassword;
 
 DELIMITER //
 
@@ -42,6 +43,24 @@ BEGIN
 		u_name,
 		passHash,
 		salt);
+END; //
+
+CREATE PROCEDURE ChangeUserPassword(
+	IN u_name VARCHAR(40), IN oldPwd VARCHAR(100), IN newPwd VARCHAR(100))
+BEGIN
+	DECLARE isValid			BOOL;
+	DECLARE newSalt			VARCHAR(40);
+	DECLARE newPassHash		VARCHAR(40);
+
+	SELECT ValidateUser(u_name, oldPwd) INTO isValid;
+	IF isValid THEN
+		SET newSalt = SHA(RAND()); -- 40 random characters
+		SET newPassHash = SHA(CONCAT(newPwd, newSalt));
+
+		UPDATE Users
+		SET PassHash = newPassHash, Salt = newSalt 
+		WHERE UserId = @currentUser;
+	END IF
 END; //
 
 DELIMITER ;
